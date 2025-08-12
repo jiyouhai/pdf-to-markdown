@@ -1,0 +1,92 @@
+{
+  "23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en": {
+    "pdf": "docs/pdfs/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.pdf",
+    "md": {
+      "md_marker": "docs/md/md_marker/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en",
+      "md_mathpix": "",
+      "textin": "",
+      "Reducto": "",
+      "own tool": ""
+    }
+  },
+  "FEIER": {
+    "pdf": "docs/pdfs/FEIER.pdf",
+    "md": {
+      "md_marker": "docs/md/md_marker/FEIER",
+      "md_mathpix": "",
+      "textin": "",
+      "Reducto": "",
+      "own tool": ""
+    }
+  },
+  "Hanwha_Integration_Guide": {
+    "pdf": "docs/pdfs/Hanwha_Integration_Guide.pdf",
+    "md": {
+      "md_marker": "docs/md/md_marker/Hanwha_Integration_Guide",
+      "md_mathpix": "",
+      "textin": "",
+      "Reducto": "",
+      "own tool": ""
+    }
+  },
+  "SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A": {
+    "pdf": "docs/pdfs/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A.pdf",
+    "md": {
+      "md_marker": "docs/md/md_marker/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A",
+      "md_mathpix": "",
+      "textin": "",
+      "Reducto": "",
+      "own tool": ""
+    }
+  },
+  "TP-MVD8MV2-rotated": {
+    "pdf": "docs/pdfs/TP-MVD8MV2-rotated.pdf",
+    "md": {
+      "md_marker": "docs/md/md_marker/TP-MVD8MV2-rotated",
+      "md_mathpix": "",
+      "textin": "",
+      "Reducto": "",
+      "own tool": ""
+    }
+  },
+  "ego_accessory_compatibility_matrix": {
+    "pdf": "docs/pdfs/ego_accessory_compatibility_matrix.pdf",
+    "md": {
+      "md_marker": "docs/md/md_marker/ego_accessory_compatibility_matrix",
+      "md_mathpix": "",
+      "textin": "",
+      "Reducto": "",
+      "own tool": ""
+    }
+  },
+  "feier_start_100_manual": {
+    "pdf": "docs/pdfs/feier_start_100_manual.pdf",
+    "md": {
+      "md_marker": "docs/md/md_marker/feier_start_100_manual",
+      "md_mathpix": "",
+      "textin": "",
+      "Reducto": "",
+      "own tool": ""
+    }
+  },
+  "ihealth_bg5": {
+    "pdf": "docs/pdfs/ihealth_bg5.pdf",
+    "md": {
+      "md_marker": "docs/md/md_marker/ihealth_bg5",
+      "md_mathpix": "",
+      "textin": "",
+      "Reducto": "",
+      "own tool": ""
+    }
+  },
+  "zt4200s_ego_zero-turn-riding-mower_version-a": {
+    "pdf": "docs/pdfs/zt4200s_ego_zero-turn-riding-mower_version-a.pdf",
+    "md": {
+      "md_marker": "",
+      "md_mathpix": "",
+      "textin": "",
+      "Reducto": "",
+      "own tool": ""
+    }
+  }
+}
