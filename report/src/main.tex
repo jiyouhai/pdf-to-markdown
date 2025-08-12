@@ -1,0 +1,56 @@
+\documentclass[11pt,a4paper]{article}
+
+% Encoding & fonts
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+
+% Layout & links
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=black,citecolor=black,urlcolor=blue}
+
+% Tables & formatting
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{ragged2e}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb}
+\usepackage{tabularx}
+\makesavenoteenv{tabular}
+\makesavenoteenv{longtable}
+\newcolumntype{P}[1]{>{\RaggedRight\arraybackslash}p{#1}}
+\newcolumntype{Y}{>{\RaggedRight\arraybackslash}X}
+
+\title{PDF\texorpdfstring{$\to$}{->}Markdown Evaluation}
+\author{Xiaoxiao}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+This is a placeholder build so that CI can compile and publish the report PDF.
+Replace \texttt{report/src/main.tex} with your full Overleaf content to produce the final report.
+\end{abstract}
+
+\section*{How to use this repo}
+\begin{itemize}[leftmargin=1.2em]
+  \item Place your final \LaTeX{} source at \verb|report/src/main.tex|.
+  \item Push to \verb|main|. GitHub Actions compiles the PDF and publishes it to \verb|docs/pdfs/evaluation-report.pdf|.
+  \item GitHub Pages serves it at the project site.
+\end{itemize}
+
+\section{Executive Summary (placeholder)}
+Add your real executive summary here.
+
+\section{Methodology (placeholder)}
+Describe tools, datasets, metrics, and pipelines here.
+
+\section{Results (placeholder)}
+Put your tables/figures here.
+
+\end{document}
