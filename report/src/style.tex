@@ -1,0 +1,12 @@
+\usepackage{xcolor}
+\definecolor{brand}{HTML}{6EA8FE}
+\usepackage{tcolorbox}
+\tcbset{colback=white, colframe=gray!40, arc=2mm, boxrule=0.6pt}
+\newtcolorbox{callout}[1]{title=\textbf{#1}, colback=brand!6, colframe=brand!60}
+\usepackage{tikz}
+\newcommand{\scorebar}[1]{\begin{tikzpicture}[baseline=-0.6ex]
+  \def\W{3.6} \def\H{0.18}
+  \draw[fill=gray!20,draw=gray!25,rounded corners=1pt] (0,0) rectangle (\W,\H);
+  \pgfmathsetmacro{\ww}{min(max(#1,0),10)/10*\W}
+  \draw[fill=brand,draw=brand!60,rounded corners=1pt] (0,0) rectangle (\ww,\H);
+\end{tikzpicture}~{\footnotesize #1/10}}

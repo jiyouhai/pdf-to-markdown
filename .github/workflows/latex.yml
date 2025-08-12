@@ -1,22 +1,41 @@
-name: Build LaTeX PDF (reserved)
-
+name: Build & Publish Report PDF
 on:
   push:
     branches: [ main ]
+    paths:
+      - 'report/src/**'
+      - 'tools/make_figs.py'
+      - '.github/workflows/latex.yml'
   workflow_dispatch:
 
 jobs:
   build:
-    if: ${{ hashFiles('report/**/*.tex') != '' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: xu-cheng/latex-action@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          working_directory: report
-          root_file: report.tex
+          python-version: '3.11'
+      - name: Generate visuals
+        run: python3 tools/make_figs.py
+
+      - name: Build LaTeX
+        uses: xu-cheng/latex-action@v3
+        with:
+          working_directory: report/src
+          root_file: main.tex
           latexmk_use_lualatex: true
-      - uses: actions/upload-artifact@v4
+
+      - name: Publish PDF to docs/pdfs
+        run: |
+          mkdir -p docs/pdfs
+          cp report/src/main.pdf docs/pdfs/evaluation-report.pdf
+
+      - name: Commit PDF
+        uses: EndBug/add-and-commit@v9
         with:
-          name: built-report
-          path: report/report.pdf
+          add: 'docs/pdfs/evaluation-report.pdf'
+          message: 'report(ci): publish evaluation-report.pdf'
+          default_author: github_actions
