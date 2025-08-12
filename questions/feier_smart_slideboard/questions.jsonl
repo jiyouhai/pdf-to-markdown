@@ -1,0 +1,100 @@
+{"qid": 1, "question": "What full product name appears on the cover of the manual?"}
+{"qid": 2, "question": "Which brand name is listed for the product?"}
+{"qid": 3, "question": "What is the model number shown in the “Product information” table?"}
+{"qid": 4, "question": "Which two color options are specified?"}
+{"qid": 5, "question": "What three board sizes (in inches) are listed under “Specification”?"}
+{"qid": 6, "question": "What battery type is specified?"}
+{"qid": 7, "question": "What battery capacity (in mAh) is listed?"}
+{"qid": 8, "question": "What is the operating voltage (in volts) shown in the table?"}
+{"qid": 9, "question": "What input voltage is specified?"}
+{"qid": 10, "question": "What input current is specified?"}
+{"qid": 11, "question": "What operating current is listed?"}
+{"qid": 12, "question": "What charging current is listed?"}
+{"qid": 13, "question": "What value is shown under Quality?"}
+{"qid": 14, "question": "What is the Inspector ID?"}
+{"qid": 15, "question": "What company is listed as the Manufacturer?"}
+{"qid": 16, "question": "What is the full manufacturer address printed in the table?"}
+{"qid": 17, "question": "What telephone number is provided for the manufacturer?"}
+{"qid": 18, "question": "What app does the manual say you must download to use the product?"}
+{"qid": 19, "question": "What two methods does the manual give for downloading the app?"}
+{"qid": 20, "question": "Which mobile platforms are explicitly indicated for the app?"}
+{"qid": 21, "question": "After powering on, which symbol appears and blinks on the display?"}
+{"qid": 22, "question": "In the app, where does the manual say the Bluetooth icon is located?"}
+{"qid": 23, "question": "What Bluetooth device name should you select when pairing?"}
+{"qid": 24, "question": "What action completes the Bluetooth connection after device info appears?"}
+{"qid": 25, "question": "True or False: The device can be used without downloading the app."}
+{"qid": 26, "question": "How does the manual instruct you to power on the device?"}
+{"qid": 27, "question": "After power-on, which mode does the product enter automatically?"}
+{"qid": 28, "question": "How do you toggle among “times,” “time,” and “calories” on the display?"}
+{"qid": 29, "question": "How do you switch the display light?"}
+{"qid": 30, "question": "In standby, how often does the light bar on the display end light up?"}
+{"qid": 31, "question": "After how many minutes of inactivity does the device enter sleep mode?"}
+{"qid": 32, "question": "What happens to all displays while in sleep mode?"}
+{"qid": 33, "question": "How do you clear all display data?"}
+{"qid": 34, "question": "How do you power off the device manually?"}
+{"qid": 35, "question": "After how many minutes of no operation will the device auto-shutdown?"}
+{"qid": 36, "question": "True or False: Clearing data requires a 4-second long-press."}
+{"qid": 37, "question": "True or False: Double-clicking the power button changes the metric between “times,” “time,” and “calories.”"}
+{"qid": 38, "question": "What kind of surface does the manual require before powering on?"}
+{"qid": 39, "question": "What action transitions the device from sleep back to standby?"}
+{"qid": 40, "question": "If the device sits unused for 2 minutes, which state will it enter?"}
+{"qid": 41, "question": "What should users check about the device before use?"}
+{"qid": 42, "question": "How does the manual classify the product (what type of item is it)?"}
+{"qid": 43, "question": "What does the manual require regarding children and the elderly using the product?"}
+{"qid": 44, "question": "What personal protective gear is recommended for beginners?"}
+{"qid": 45, "question": "How long a warm-up does the manual recommend before use?"}
+{"qid": 46, "question": "Which personal items should be removed before exercising?"}
+{"qid": 47, "question": "What guidance is given for users with high blood pressure, heart disease, or other illnesses?"}
+{"qid": 48, "question": "What should a user do if they feel discomfort during use?"}
+{"qid": 49, "question": "What heat sources or conditions should the product be kept away from?"}
+{"qid": 50, "question": "Approximately how long does a full charge take?"}
+{"qid": 51, "question": "About how many hours of operating time does a full charge provide?"}
+{"qid": 52, "question": "What does the manual advise about using the device while charging?"}
+{"qid": 53, "question": "According to the manual, why might static electricity and small debris accumulate?"}
+{"qid": 54, "question": "Which surface materials are cited in that explanation of static buildup?"}
+{"qid": 55, "question": "True or False: The manual recommends using the slideboard near open flames."}
+{"qid": 56, "question": "True or False: Static electricity indicates a defect in the product."}
+{"qid": 57, "question": "What supervision arrangement is required for minors and elderly users?"}
+{"qid": 58, "question": "What simple step does the manual suggest to prevent injuries for beginners?"}
+{"qid": 59, "question": "The manual states users should do what kind of warm-up prior to use, and for how long?"}
+{"qid": 60, "question": "What does the manual say about avoiding valuable or fragile items during exercise?"}
+{"qid": 61, "question": "What must the product be used with, according to Maintenance?"}
+{"qid": 62, "question": "What types of surfaces/objects must the board avoid contacting?"}
+{"qid": 63, "question": "What cleaning method is recommended for the slideboard surface?"}
+{"qid": 64, "question": "If surface lubrication decreases, what products are recommended?"}
+{"qid": 65, "question": "Where should the product be stored?"}
+{"qid": 66, "question": "What environmental exposure should be avoided during storage?"}
+{"qid": 67, "question": "Which sports or activities are explicitly mentioned as use cases (e.g., ice/roller sports, fitness, rehab)?"}
+{"qid": 68, "question": "Why have slideboards become popular, per the manual?"}
+{"qid": 69, "question": "For which kinds of athletes does the product help maintain training when facilities are unavailable?"}
+{"qid": 70, "question": "What method does the manual propose to maintain optimal physical condition during off-seasons?"}
+{"qid": 71, "question": "What lower-body benefits does slideboarding provide, according to the description?"}
+{"qid": 72, "question": "What effect does a stronger lower body have on upper-body movements?"}
+{"qid": 73, "question": "Name two areas of capability the manual claims slideboarding can enhance (strength, agility, coordination, movement)."}
+{"qid": 74, "question": "Besides home use, where else does the manual say slideboards can be used (fitness centers)?"}
+{"qid": 75, "question": "Does the manual say there are many ways to use the slideboard to enhance strength and agility?"}
+{"qid": 76, "question": "What is the stated purpose of using a slideboard “on land” or “artificial ice,” per the description?"}
+{"qid": 77, "question": "List the three sizes shown under “Specification” (verbatim, including units)."}
+{"qid": 78, "question": "What battery type cell format is specified in the table?"}
+{"qid": 79, "question": "What battery capacity does the table list?"}
+{"qid": 80, "question": "What operating voltage is printed in the table?"}
+{"qid": 81, "question": "What input voltage is printed in the table?"}
+{"qid": 82, "question": "What input current is printed in the table?"}
+{"qid": 83, "question": "What operating current is printed in the table?"}
+{"qid": 84, "question": "What charging current is printed in the table?"}
+{"qid": 85, "question": "What composite materials are listed for the board surface and bottom?"}
+{"qid": 86, "question": "Which materials are listed for the guard plate and the sponge?"}
+{"qid": 87, "question": "What value is shown under Quality (e.g., “Qualified Product”)?"}
+{"qid": 88, "question": "What is the Inspector ID number shown?"}
+{"qid": 89, "question": "What is the manufacturer’s telephone number?"}
+{"qid": 90, "question": "Under what field name are the three sizes presented (e.g., “Specification”)?"}
+{"qid": 91, "question": "What overall dimensions (width × height, in millimeters) are printed for the unfolded tri-fold sheet?"}
+{"qid": 92, "question": "What panel width (in millimeters) is shown at the bottom of the page?"}
+{"qid": 93, "question": "How many exercise diagrams are depicted in total?"}
+{"qid": 94, "question": "What label text appears above each exercise illustration?"}
+{"qid": 95, "question": "If sleep begins after 2 minutes and auto-shutdown occurs after 10 minutes, how long can the device remain asleep but not shut down?"}
+{"qid": 96, "question": "Which action is faster and by how many seconds: clearing data or powering off via long-press?"}
+{"qid": 97, "question": "A user wants to see calories on the display. What should they do?"}
+{"qid": 98, "question": "In standby, if the light bar flashes every 5 seconds, how many times will it light up in one minute?"}
+{"qid": 99, "question": "Which section of the manual contains the advice not to use the device while charging?"}
+{"qid": 100, "question": "Summarize the step sequence to go from powered-off to Bluetooth-connected using the app."}
