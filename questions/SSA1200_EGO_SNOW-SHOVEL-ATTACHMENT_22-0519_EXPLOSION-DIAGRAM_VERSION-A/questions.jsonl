@@ -1,0 +1,100 @@
+{"qid": 1, "question": "What is the product description shown on page 1?"}
+{"qid": 2, "question": "What model number is printed on page 1?"}
+{"qid": 3, "question": "What body number is printed on page 1?"}
+{"qid": 4, "question": "What version letter is shown on the document?"}
+{"qid": 5, "question": "What is the issue date printed on page 1?"}
+{"qid": 6, "question": "Which brand logo appears in the top-left of the exploded diagram page?"}
+{"qid": 7, "question": "How many distinct callout numbers are shown in the exploded diagram on page 1?"}
+{"qid": 8, "question": "Which page contains the “Service Part List_SSA1200_Version A” table?"}
+{"qid": 9, "question": "What version of SSA1200 does the service part list correspond to?"}
+{"qid": 10, "question": "What product model code appears in the “Product Model#” column for all rows in the table?"}
+{"qid": 11, "question": "What is the part number for item No. 1 “Screw”?"}
+{"qid": 12, "question": "What is the part number for item No. 2 “Rear Cover Assembly”?"}
+{"qid": 13, "question": "What is the part number for item No. 3 “Center Bushing”?"}
+{"qid": 14, "question": "What is the part number for item No. 4 “Washer”?"}
+{"qid": 15, "question": "What is the part number for item No. 5 “Connecting Rod Assembly”?"}
+{"qid": 16, "question": "What is the part number for item No. 6 “Guide Blade”?"}
+{"qid": 17, "question": "What is the part number for item No. 7 “Gear Pin”?"}
+{"qid": 18, "question": "What is the part number for item No. 8 “Lever ASSY”?"}
+{"qid": 19, "question": "What is the part number for item No. 9 “Right Cover”?"}
+{"qid": 20, "question": "What is the part number for item No. 10 “Poly V-Belt”?"}
+{"qid": 21, "question": "What is the part number for item No. 11 “Tension Spring”?"}
+{"qid": 22, "question": "What is the part number for item No. 12 “Big Belt Pulley Assembly”?"}
+{"qid": 23, "question": "What is the part number for item No. 13 “Screw”?"}
+{"qid": 24, "question": "What is the part number for item No. 14 “Cover Plate”?"}
+{"qid": 25, "question": "What is the part number for item No. 15 “Ball Bearing”?"}
+{"qid": 26, "question": "What is the part number for item No. 16 “Bearing Holder”?"}
+{"qid": 27, "question": "What is the part number for item No. 17 “Scraper”?"}
+{"qid": 28, "question": "What is the part number for item No. 18 “Auger”?"}
+{"qid": 29, "question": "What is the part number for item No. 19 “Shaft Sleeve”?"}
+{"qid": 30, "question": "What is the part number for item No. 20 “Front Pulley Shaft”?"}
+{"qid": 31, "question": "What is the part number for item No. 21 “Left Cover”?"}
+{"qid": 32, "question": "What is the part number for item No. 22 “Hexagon Socket Screw”?"}
+{"qid": 33, "question": "What is the part number for item No. 23 “Washer”?"}
+{"qid": 34, "question": "What is the part number for item No. 24 “Bearing Holder”?"}
+{"qid": 35, "question": "What is the part number for item No. 25 “Left Rear Cover”?"}
+{"qid": 36, "question": "What is the part number for item No. 26 “Hexagon Socket Screw”?"}
+{"qid": 37, "question": "What is the part number for item No. 27 “Washer”?"}
+{"qid": 38, "question": "What is the part number for item No. 28 “Hexagon Socket Screw”?"}
+{"qid": 39, "question": "What is the part number for item No. 29 “Hexagon Nut”?"}
+{"qid": 40, "question": "What is the part number for item No. 30 “Plain Washer”?"}
+{"qid": 41, "question": "What is the part number for item No. 31 “Sealing Washer”?"}
+{"qid": 42, "question": "What is the part number for item No. 32 “Shaft”?"}
+{"qid": 43, "question": "What is the part number for item No. 33 “Front Gear Case Assembly”?"}
+{"qid": 44, "question": "What is the part number for item No. 34 “Sleeve”?"}
+{"qid": 45, "question": "What is the part number for item No. 35 “Hexagon Wrench”?"}
+{"qid": 46, "question": "What is the quantity for item No. 1 “Screw”?"}
+{"qid": 47, "question": "What is the quantity for item No. 6 “Guide Blade”?"}
+{"qid": 48, "question": "What is the quantity for item No. 10 “Poly V-Belt”?"}
+{"qid": 49, "question": "What is the quantity for item No. 11 “Tension Spring”?"}
+{"qid": 50, "question": "What is the quantity for item No. 12 “Big Belt Pulley Assembly”?"}
+{"qid": 51, "question": "What is the quantity for item No. 13 “Screw”?"}
+{"qid": 52, "question": "What is the quantity for item No. 15 “Ball Bearing”?"}
+{"qid": 53, "question": "What is the quantity for item No. 17 “Scraper”?"}
+{"qid": 54, "question": "What is the quantity for item No. 18 “Auger”?"}
+{"qid": 55, "question": "What is the quantity for item No. 19 “Shaft Sleeve”?"}
+{"qid": 56, "question": "What is the quantity for item No. 20 “Front Pulley Shaft”?"}
+{"qid": 57, "question": "What is the quantity for item No. 21 “Left Cover”?"}
+{"qid": 58, "question": "What is the quantity for item No. 22 “Hexagon Socket Screw”?"}
+{"qid": 59, "question": "What is the quantity for item No. 24 “Bearing Holder”?"}
+{"qid": 60, "question": "What is the quantity for item No. 25 “Left Rear Cover”?"}
+{"qid": 61, "question": "What is the quantity for item No. 26 “Hexagon Socket Screw”?"}
+{"qid": 62, "question": "What is the quantity for item No. 27 “Washer”?"}
+{"qid": 63, "question": "What is the quantity for item No. 28 “Hexagon Socket Screw”?"}
+{"qid": 64, "question": "What is the quantity for item No. 29 “Hexagon Nut”?"}
+{"qid": 65, "question": "What is the quantity for item No. 35 “Hexagon Wrench”?"}
+{"qid": 66, "question": "What is the description for part number 2828713001?"}
+{"qid": 67, "question": "What is the description for part number 3580339001?"}
+{"qid": 68, "question": "What is the description for part number 3700353001?"}
+{"qid": 69, "question": "What is the description for part number 2828778001?"}
+{"qid": 70, "question": "What is the description for part number 3132877001?"}
+{"qid": 71, "question": "What is the description for part number 3550284001?"}
+{"qid": 72, "question": "What is the description for part number 2824604001?"}
+{"qid": 73, "question": "What is the description for part number 3800191001?"}
+{"qid": 74, "question": "What is the description for part number 3660637001?"}
+{"qid": 75, "question": "What is the description for part number 2828712001?"}
+{"qid": 76, "question": "What is the description for part number 5620183001?"}
+{"qid": 77, "question": "What is the description for part number 3708327001?"}
+{"qid": 78, "question": "What is the description for part number 5700015005?"}
+{"qid": 79, "question": "What is the description for part number 3706269001?"}
+{"qid": 80, "question": "What is the description for part number 3132869001?"}
+{"qid": 81, "question": "List all item numbers whose description contains the word “Washer.”"}
+{"qid": 82, "question": "Which washer items have a quantity of 1?"}
+{"qid": 83, "question": "Which washer items have a quantity of 2?"}
+{"qid": 84, "question": "List the item numbers that are any kind of “Screw” (including “Hexagon Socket Screw”)."}
+{"qid": 85, "question": "How many distinct screw part numbers are listed across the table?"}
+{"qid": 86, "question": "List the item numbers whose description contains “Assembly” or “ASSY.”"}
+{"qid": 87, "question": "List the item numbers whose description contains “Cover.”"}
+{"qid": 88, "question": "Which items are labeled “Left” or “Right” in their description?"}
+{"qid": 89, "question": "Which items contain the word “Front” in their description?"}
+{"qid": 90, "question": "Which items contain the word “Bearing” in their description?"}
+{"qid": 91, "question": "What is the total quantity of screws across all screw types (sum of all “Screw” and “Hexagon Socket Screw” quantities)?"}
+{"qid": 92, "question": "What is the total quantity of hexagon socket screws specifically (sum of the three hex-socket-screw rows)?"}
+{"qid": 93, "question": "What is the total quantity of washers across all washer types?"}
+{"qid": 94, "question": "How many items are labeled as assemblies (descriptions containing “Assembly” or “ASSY”)?"}
+{"qid": 95, "question": "What is the combined quantity of “Bearing Holder” items (item Nos. 16 and 24)?"}
+{"qid": 96, "question": "What is the combined quantity of “Sleeve” items (item Nos. 19 and 34)?"}
+{"qid": 97, "question": "What is the combined quantity of “Cover” items (including Right/Left/Rear/Cover Plate)?"}
+{"qid": 98, "question": "Which single line item has the highest quantity in the table?"}
+{"qid": 99, "question": "What is the only tool included in the service part list, and what is its item number?"}
+{"qid": 100, "question": "Among “Left Cover” and “Right Cover,” what is their combined quantity?"}
