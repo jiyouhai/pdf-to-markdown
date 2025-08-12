@@ -3,13 +3,32 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>PDF-to-Markdown Evaluation</title>
 <style>
-body { max-width: 960px; margin: 2rem auto; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif; padding: 0 1rem; }
-code, pre { font-family: ui-monospace, Menlo, Consolas, "Liberation Mono", monospace; }
+body { max-width: 980px; margin: 2rem auto; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif; padding: 0 1rem; }
+h1, h2 { margin: 0.2rem 0 1rem; }
 ul { line-height: 1.6; }
 small { color: #666; }
+a { text-decoration: none; }
 </style>
 <h1>PDF-to-Markdown Evaluation</h1>
-<p><a href="report.pdf" download>Download PDF</a> · <a href="report.pdf" target="_blank">Open PDF</a></p>
+<h2>Featured PDF</h2>
+<p><a href="pdfs/zt4200s_ego_zero-turn-riding-mower_version-a.pdf" download>Download</a> · <a href="pdfs/zt4200s_ego_zero-turn-riding-mower_version-a.pdf" target="_blank">Open</a></p>
+<object id="pdfviewer" type="application/pdf" width="100%" height="900"></object>
+<script>
+  const link = document.querySelector('a[target="_blank"]');
+  if (link) document.getElementById('pdfviewer').setAttribute('data', link.getAttribute('href'));
+</script>
+<h2>All PDFs</h2>
+<ul>
+  <li><a href="pdfs/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.pdf">23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.pdf</a></li>
+  <li><a href="pdfs/FEIER.pdf">FEIER.pdf</a></li>
+  <li><a href="pdfs/Hanwha_Integration_Guide.pdf">Hanwha_Integration_Guide.pdf</a></li>
+  <li><a href="pdfs/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A.pdf">SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A.pdf</a></li>
+  <li><a href="pdfs/TP-MVD8MV2-rotated.pdf">TP-MVD8MV2-rotated.pdf</a></li>
+  <li><a href="pdfs/ego_accessory_compatibility_matrix.pdf">ego_accessory_compatibility_matrix.pdf</a></li>
+  <li><a href="pdfs/feier_start_100_manual.pdf">feier_start_100_manual.pdf</a></li>
+  <li><a href="pdfs/ihealth_bg5.pdf">ihealth_bg5.pdf</a></li>
+  <li><a href="pdfs/zt4200s_ego_zero-turn-riding-mower_version-a.pdf">zt4200s_ego_zero-turn-riding-mower_version-a.pdf</a></li>
+</ul>
 <h2>Markdown outputs</h2>
 <ul>
   <li><a href="md/Reducto/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.md">Reducto/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.md</a></li>
