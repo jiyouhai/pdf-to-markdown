@@ -1,0 +1,94 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Service Part List_SSA1200_Version A",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          92.9794921875,
+          62.69775390625
+        ],
+        [
+          324.1487731933594,
+          62.69775390625
+        ],
+        [
+          324.1487731933594,
+          77.806884765625
+        ],
+        [
+          92.9794921875,
+          77.806884765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          43
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          180
+        ],
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A"
+}

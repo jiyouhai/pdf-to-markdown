@@ -1,0 +1,873 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TURING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          75.75,
+          84.111328125
+        ],
+        [
+          259.083984375,
+          84.111328125
+        ],
+        [
+          259.083984375,
+          133.611328125
+        ],
+        [
+          75.75,
+          133.611328125
+        ]
+      ]
+    },
+    {
+      "title": "Turing Vision\nINTEGRATION GUIDE\nFOR HANWHA CAMERAS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.0,
+          519.0
+        ],
+        [
+          433.599609375,
+          519.0
+        ],
+        [
+          433.599609375,
+          648.9140625
+        ],
+        [
+          60.0,
+          648.9140625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          447.64453125,
+          32.605224609375
+        ],
+        [
+          539.68359375,
+          32.605224609375
+        ],
+        [
+          539.68359375,
+          57.62109375
+        ],
+        [
+          447.64453125,
+          57.62109375
+        ]
+      ]
+    },
+    {
+      "title": "Checklist, Installation Guide, and Video Tutorials",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.5693359375,
+          137.5751953125
+        ],
+        [
+          444.65625,
+          137.5751953125
+        ],
+        [
+          444.65625,
+          157.4912109375
+        ],
+        [
+          71.5693359375,
+          157.4912109375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          446.44921875,
+          32.218505859375
+        ],
+        [
+          540.28125,
+          32.218505859375
+        ],
+        [
+          540.28125,
+          57.5244140625
+        ],
+        [
+          446.44921875,
+          57.5244140625
+        ]
+      ]
+    },
+    {
+      "title": "Hanwha Camera Installation Steps",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.5693359375,
+          72.123046875
+        ],
+        [
+          253.2568359375,
+          72.123046875
+        ],
+        [
+          253.2568359375,
+          85.1748046875
+        ],
+        [
+          71.5693359375,
+          85.1748046875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          448.2421875,
+          31.928466796875
+        ],
+        [
+          540.87890625,
+          31.928466796875
+        ],
+        [
+          540.87890625,
+          57.5244140625
+        ],
+        [
+          448.2421875,
+          57.5244140625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          447.345703125,
+          31.686767578125
+        ],
+        [
+          539.982421875,
+          31.686767578125
+        ],
+        [
+          539.982421875,
+          57.234375
+        ],
+        [
+          447.345703125,
+          57.234375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          446.748046875,
+          32.04931640625
+        ],
+        [
+          539.982421875,
+          32.04931640625
+        ],
+        [
+          539.982421875,
+          57.5244140625
+        ],
+        [
+          446.748046875,
+          57.5244140625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          447.345703125,
+          31.976806640625
+        ],
+        [
+          539.982421875,
+          31.976806640625
+        ],
+        [
+          539.982421875,
+          57.234375
+        ],
+        [
+          447.345703125,
+          57.234375
+        ]
+      ]
+    },
+    {
+      "title": "\u25cf Connect & Add Camera(s) to Turing NVR",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          90.0,
+          72.4130859375
+        ],
+        [
+          320.642578125,
+          72.4130859375
+        ],
+        [
+          320.642578125,
+          85.46484375
+        ],
+        [
+          90.0,
+          85.46484375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          446.150390625,
+          32.701904296875
+        ],
+        [
+          538.787109375,
+          32.701904296875
+        ],
+        [
+          538.787109375,
+          58.0078125
+        ],
+        [
+          446.150390625,
+          58.0078125
+        ]
+      ]
+    },
+    {
+      "title": "Installation Video",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          71.606689453125,
+          331.998046875
+        ],
+        [
+          163.3095703125,
+          331.998046875
+        ],
+        [
+          163.3095703125,
+          343.986328125
+        ],
+        [
+          71.606689453125,
+          343.986328125
+        ]
+      ]
+    },
+    {
+      "title": "Click Here to Watch the Installation Video",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          70.9716796875,
+          362.35546875
+        ],
+        [
+          274.1748046875,
+          362.35546875
+        ],
+        [
+          274.1748046875,
+          375.1836242675781
+        ],
+        [
+          70.9716796875,
+          375.1836242675781
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          448.2421875,
+          31.880126953125
+        ],
+        [
+          540.28125,
+          31.880126953125
+        ],
+        [
+          540.28125,
+          56.84765625
+        ],
+        [
+          448.2421875,
+          56.84765625
+        ]
+      ]
+    },
+    {
+      "title": "Hanwha Camera FAQs",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          71.382568359375,
+          71.59130859375
+        ],
+        [
+          191.548828125,
+          71.59130859375
+        ],
+        [
+          191.548828125,
+          84.54638671875
+        ],
+        [
+          71.382568359375,
+          84.54638671875
+        ]
+      ]
+    },
+    {
+      "title": "Q: Does the Turing Vision platform support Smart VCA Events from Hanwha camera?",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          71.71875,
+          110.8916015625
+        ],
+        [
+          519.9609375,
+          110.8916015625
+        ],
+        [
+          519.9609375,
+          124.0400390625
+        ],
+        [
+          71.71875,
+          124.0400390625
+        ]
+      ]
+    },
+    {
+      "title": "TURING\nINTEGRATION GUIDE\nFOR HANWHA\nCAMERAS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          66.75,
+          96.0
+        ],
+        [
+          401.25,
+          96.0
+        ],
+        [
+          401.25,
+          293.90625
+        ],
+        [
+          66.75,
+          293.90625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          10
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "TableCell",
+          51
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          171
+        ],
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          168
+        ],
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          192
+        ],
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          156
+        ],
+        [
+          "Span",
+          26
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          7
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Hanwha_Integration_Guide"
+}

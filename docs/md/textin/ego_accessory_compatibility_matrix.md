@@ -1,0 +1,37 @@
+
+| Riding Mower Global Accessory Compatibility  | Riding Mower Global Accessory Compatibility  | Riding Mower Global Accessory Compatibility  | Riding Mower Global Accessory Compatibility  | Riding Mower Global Accessory Compatibility  | Riding Mower Global Accessory Compatibility  | Riding Mower Global Accessory Compatibility  | Riding Mower Global Accessory Compatibility  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  Riding Mower Model (bare tool)<br> Accessory Model  |  Riding Mower Model (bare tool)<br> Accessory Model  |  Riding Mower Model (bare tool)<br> Accessory Model  | ZT4200L / ZT4200E-L  | ZT4200S / ZT4200E-S  | ZT5200L / ZT5200E-L  | TR3800E-B (EU)  | TR4200 / TR4200E (EU&AU) |
+|  Riding Mower Model (bare tool)<br> Accessory Model  |  Riding Mower Model (bare tool)<br> Accessory Model  |  Riding Mower Model (bare tool)<br> Accessory Model  |  |  |  |  |  |
+| ABK4200  | 42“ Zero turn riding mower bagger kit  |  |  |  | X  | X  | X  |
+| ABK4200-A  | 42“ Zero turn riding mower bagger kit ( w/o blade)  |  |  |  |  | X  | X  |
+| AB4200D  | 42“ Zero turn riding mower mulching blade set  |  | ● | ● | X  | X  | ● |
+| AB4200  | 42“ Zero turn riding mower mulching blade (1pc)  |  | ● | ● | X  | X  | ● |
+| AB4201D  | 42" Zero turn riding mower bagging blade set  |  | ● | ● | X  | X  | ● |
+| AB4201  | 42" Zero turn riding mower bagging blade (1pc)  |  | ● | ● | X  | X  | ● |
+| AMP4200  | 42“ Zero turn riding mower mulching plug  |  | ● | ● | X  | X  | ● |
+| CRM001  | Zero turn riding mower cover  |  | ● | ● | ● | X  | ● |
+| CHV1600  | Zero Turn Riding Mower 1600W charger  |  | ● | ● | ● | ● | ● |
+| ACA1000  | POWER+ Charging Adaptor  |  | X  | X  | X  | X  | ●/X |
+| ABK5200  | 52“ Zero turn riding mower bagger kit  |  | X  | X  | ● | X  | X  |
+| ABK5200-A  | 52“ Zero turn riding mower bagger kit (w/o blade)  |  | X  | X  | ● | X  | X  |
+| ABP5200  | 52 ” Zero turn riding mower mulching kit  |  | X  | X  | ● | X  | X  |
+| AB5200D  | 52“ Zero turn riding mower blade set (3pc)  |  | X  | X  | ● | X  | X  |
+| AB5200  | Mulching Blade for 52“ Zero turn riding mower (1pcs blade)  |  | X  | X  | ● | X  | X  |
+| AB5201D  | 52" Zero turn riding mower bagging blade set (3pc)  |  | X  | X  | ● | X  | X  |
+| AB5201  | HIGH-LIFT BAGGING BLADE (1pcs blade)  |  | X  | X  | ● | X  | X  |
+| AMG1000  | Zero turn riding mower on-board storage  |  | ● | ● | ● | X  | ● |
+| AMS1000  | Zero turn riding mower sun shade  |  | ● | ● | ● | X  | ● |
+| AMB1000  | Zero turn riding mower rear Bumper  |  | ● | ● | ● | X  | X  |
+| AMP3800T  | Mulching Plug  |  | X  | X  | X  | ● | X  |
+| AB3801TD  | Bagging blade(1 pair:left&right) |  | X  | X  | X  | ● | X  |
+| ABK4200T-A (EU)  | Bagging Kit For 107cm (42'') Tractor (Side Discharge)<br>(Bagger, no blades)  |  | X  | X  | X  | X  | ● |
+| ABK4200T(NA)  | Bagging Kit For 107cm (42'') Tractor (Side Discharge)<br>(Bagger, bagging blades, counter weights)  |  | X  | X  | X  | X  | ● |
+
+
+
+|  | Suitable  |
+| --- | --- |
+| X  | Can not use  |
+
+
