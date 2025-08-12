@@ -1,0 +1,100 @@
+{"qid": 1, "question": "What is the full title shown on the cover page?"}
+{"qid": 2, "question": "What subtitle appears under “Adding Hanwha Cameras to Turing Vision” on page 2?"}
+{"qid": 3, "question": "List the five high-level “Hanwha Camera Installation Steps” in the order they appear on page 2."}
+{"qid": 4, "question": "Which step number is “Verify/Modify Camera Encoding Settings” in the checklist on page 2?"}
+{"qid": 5, "question": "Which step tells you to “Enable Motion Detection” in the page-2 checklist?"}
+{"qid": 6, "question": "Which step instructs to “Connect & Add Camera(s) to Turing NVR” on page 2?"}
+{"qid": 7, "question": "What phone number appears in the footer throughout the document?"}
+{"qid": 8, "question": "What website URL is printed in the footer?"}
+{"qid": 9, "question": "What city and state are listed in the Turing AI address in the footer?"}
+{"qid": 10, "question": "What ZIP code is printed in the address line in the footer?"}
+{"qid": 11, "question": "For steps 1–4, how should the Hanwha camera be connected according to the network diagram on page 3?"}
+{"qid": 12, "question": "Under “Access Camera’s Web UI,” what is the first action you must take?"}
+{"qid": 13, "question": "According to the tip on page 3, where in the Turing Smart NVR UI can you use Auto Search to find a camera’s IP address (full menu path)?"}
+{"qid": 14, "question": "What do you type into the browser to reach the camera’s web UI?"}
+{"qid": 15, "question": "In the page-3 diagram, what label is used for the cameras connected to the NVR?"}
+{"qid": 16, "question": "In the same diagram, what label is used for the camera ports on the NVR?"}
+{"qid": 17, "question": "Which optional component appears above the NVR in the page-3 network diagram?"}
+{"qid": 18, "question": "On a factory-defaulted camera, what does the web UI prompt you to create during initialization (page 4)?"}
+{"qid": 19, "question": "What button do you click to initialize the camera(s) on page 4?"}
+{"qid": 20, "question": "Which Hanwha utility is recommended for initializing multiple cameras and modifying network settings (page 4)?"}
+{"qid": 21, "question": "On which page is the Device Manager tip shown?"}
+{"qid": 22, "question": "To modify encoding settings, which menu path in the camera UI should you open (page 5)?"}
+{"qid": 23, "question": "According to the blue callout on page 5, which profile is not used by the NVR?"}
+{"qid": 24, "question": "On the Turing NVR, which profile is treated as Main Stream (page 5 callout)?"}
+{"qid": 25, "question": "On the Turing NVR, which profile is treated as Sub Stream (page 5 callout)?"}
+{"qid": 26, "question": "In the encoding table on page 5, what compression is specified for the Main Stream?"}
+{"qid": 27, "question": "In the same table, what compression is specified for the Sub Stream?"}
+{"qid": 28, "question": "What is the recommended Main Stream resolution in the table on page 5?"}
+{"qid": 29, "question": "What resolution is listed for the Sub Stream in the table on page 5?"}
+{"qid": 30, "question": "What frame rate is listed for both streams in the page-5 table?"}
+{"qid": 31, "question": "What frame interval is listed for both streams in the page-5 table?"}
+{"qid": 32, "question": "What bitrate type is recommended for both streams (page-5 table)?"}
+{"qid": 33, "question": "What is the maximum bit rate for the Main Stream per the table (page 5)?"}
+{"qid": 34, "question": "What is the maximum bit rate for the Sub Stream per the table (page 5)?"}
+{"qid": 35, "question": "On which page is the encoding settings table located?"}
+{"qid": 36, "question": "In which section (Basic / Analytics / System) do you find Video Profile (page 5)?"}
+{"qid": 37, "question": "Where in the camera UI do you enable motion detection (menu path on page 6)?"}
+{"qid": 38, "question": "Which checkbox must be selected to turn on motion detection (page 6)?"}
+{"qid": 39, "question": "Name the four motion-detection parameters you can edit on page 6."}
+{"qid": 40, "question": "Which button do you click to save motion-detection settings (page 6)?"}
+{"qid": 41, "question": "On which page is the motion-detection screen image shown?"}
+{"qid": 42, "question": "In the page-6 screenshot, what two tabs appear above the video pane for zone configuration?"}
+{"qid": 43, "question": "In the page-6 screenshot, which field name appears above the slider controlling detection strength?"}
+{"qid": 44, "question": "In the page-6 screenshot, which field name appears below “Level of detection”?"}
+{"qid": 45, "question": "In the page-6 screenshot, which field label refers to a time threshold before an event is triggered?"}
+{"qid": 46, "question": "To add a camera, how do you access the Turing NVR’s web UI (page 7)?"}
+{"qid": 47, "question": "After logging into the NVR, what is the menu path to manage cameras (page 7)?"}
+{"qid": 48, "question": "What action do you perform on a channel to begin editing it (page 7)?"}
+{"qid": 49, "question": "Which two credential fields must be edited when adding a camera (page 7)?"}
+{"qid": 50, "question": "What button finalizes the changes when adding a camera (page 7)?"}
+{"qid": 51, "question": "According to the callout on page 7, to which physical ports can you connect the Hanwha camera on the NVR?"}
+{"qid": 52, "question": "In the camera list screenshot on page 7, what protocol label appears in the “Protocol” column?"}
+{"qid": 53, "question": "In the diagrams on pages 3 and 7, what is the common label applied to cameras?"}
+{"qid": 54, "question": "The callout on page 7 begins with “If desired, you can now connect your Hanwha camera …” — complete the suggestion."}
+{"qid": 55, "question": "In the NVR UI shown on page 7, which top-level tab contains the Setup section?"}
+{"qid": 56, "question": "On which page is the instruction “Click Here to Watch the Installation Video” displayed?"}
+{"qid": 57, "question": "In the page-8 add-camera form, what is the label of the dropdown at the top-left?"}
+{"qid": 58, "question": "In the page-8 form, which field accepts the camera’s network location?"}
+{"qid": 59, "question": "In the page-8 form, what field label appears next to the login name?"}
+{"qid": 60, "question": "In the page-8 form, which field label refers to the camera’s identifier within the NVR?"}
+{"qid": 61, "question": "According to the FAQ on page 9, does Turing Vision support Smart VCA events from Hanwha cameras?"}
+{"qid": 62, "question": "What event type is currently supported by Turing Smart NVR and Turing Vision (page 9 FAQ)?"}
+{"qid": 63, "question": "Which two Turing products are explicitly mentioned together in the FAQ answer (page 9)?"}
+{"qid": 64, "question": "On which page is the FAQ located?"}
+{"qid": 65, "question": "What email address is provided on the back page for contacting sales?"}
+{"qid": 66, "question": "What phone number is repeated on the back page’s “Contact Us” block?"}
+{"qid": 67, "question": "What headline appears on the back page above the contact block?"}
+{"qid": 68, "question": "Under “Access Camera’s Web UI” (page 3), which two sub-steps are listed?"}
+{"qid": 69, "question": "On page 4, what condition triggers the password-creation prompt during initialization?"}
+{"qid": 70, "question": "In the page-3 network diagram, what label is printed inside the orange circle representing the camera on the LAN?"}
+{"qid": 71, "question": "In the page-3 diagram, through what network segment does the Turing NVR connect to the Internet?"}
+{"qid": 72, "question": "Which steps in the workflow are covered by the “connect camera directly to LAN” note on page 3?"}
+{"qid": 73, "question": "What are the two column headers in the encoding settings table on page 5?"}
+{"qid": 74, "question": "Which table row includes the value “CBR” for both columns (page 5)?"}
+{"qid": 75, "question": "Which table row lists “15” for both columns (page 5)?"}
+{"qid": 76, "question": "Which table row lists “30” for both columns (page 5)?"}
+{"qid": 77, "question": "Which table row lists “H.264” under both columns (page 5)?"}
+{"qid": 78, "question": "Which table row contains “Less than 3MP (2MP is recommended)” (page 5)?"}
+{"qid": 79, "question": "Which table row contains “1280x720 (720P)” (page 5)?"}
+{"qid": 80, "question": "How many major installation steps are enumerated on page 2?"}
+{"qid": 81, "question": "What is the short title of step 1 on page 2?"}
+{"qid": 82, "question": "What is the short title of step 2 on page 2?"}
+{"qid": 83, "question": "What is the short title of step 5 on page 2?"}
+{"qid": 84, "question": "In step 3 (page 5 intro text), what are you asked to modify specifically?"}
+{"qid": 85, "question": "In step 4 (page 6), which section of the UI contains the motion-detection screen?"}
+{"qid": 86, "question": "What is the name of the discovery feature referenced on page 3 for finding camera IPs?"}
+{"qid": 87, "question": "What button name is used to persist changes on the camera-side motion-detection page (page 6)?"}
+{"qid": 88, "question": "What button name is used to persist changes on the NVR when adding a camera (page 7)?"}
+{"qid": 89, "question": "Which exact menu path is shown to find a camera’s IP using the NVR (page 3 tip)?"}
+{"qid": 90, "question": "What product branding appears with “Vision” in the document’s title pages?"}
+{"qid": 91, "question": "What device brand is the integration guide targeting?"}
+{"qid": 92, "question": "Besides the five steps, what two resources are listed on page 2 under the checklist (titles only)?"}
+{"qid": 93, "question": "On page 5, which profile mapping (H.264/H.265) does the NVR use to distinguish Main vs. Sub Streams?"}
+{"qid": 94, "question": "In the motion-detection page (page 6), what four configurable elements are explicitly called out in the text?"}
+{"qid": 95, "question": "In the page-7 steps, after selecting a channel and clicking Modify, which credential fields must be updated?"}
+{"qid": 96, "question": "Which instruction on page 7 tells you how to reach the NVR web UI in the first place?"}
+{"qid": 97, "question": "True or False: The document recommends VBR as the bitrate type for both streams."}
+{"qid": 98, "question": "True or False: Turing Vision currently supports Hanwha Smart VCA events."}
+{"qid": 99, "question": "True or False: The recommended Sub Stream resolution in the table is 720p."}
+{"qid": 100, "question": "True or False: On the motion-detection page, you save settings by clicking Save, not Apply."}
