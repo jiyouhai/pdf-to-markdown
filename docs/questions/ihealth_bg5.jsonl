@@ -1,0 +1,100 @@
+{"qid": 1, "question": "What is the full product name and model number stated on the manual’s cover?"}
+{"qid": 2, "question": "List all items included in the package contents for the BG5 kit."}
+{"qid": 3, "question": "Which accessories in the package are marked as “may vary by geographic market”?"}
+{"qid": 4, "question": "Which iPhone models are explicitly listed as compatible with the BG5?"}
+{"qid": 5, "question": "Which iPad models are explicitly listed as compatible with the BG5?"}
+{"qid": 6, "question": "Which iPod touch models are explicitly listed as compatible with the BG5?"}
+{"qid": 7, "question": "What is the minimum iOS version required to use the BG5?"}
+{"qid": 8, "question": "For what types of samples and users is the BG5 intended (include sample type and single-patient use guidance)?"}
+{"qid": 9, "question": "According to “Intended Use,” name two purposes for which the BG5 should not be used."}
+{"qid": 10, "question": "What warning is given about using Alternate Site Testing (AST) to calibrate CGMs or for insulin dosing?"}
+{"qid": 11, "question": "Define Alternate Site Testing (AST) as described in the manual."}
+{"qid": 12, "question": "List all five body sites (other than the fingertip) permitted for AST with the BG5."}
+{"qid": 13, "question": "What are the three “steady-state” situations when AST is suitable?"}
+{"qid": 14, "question": "Name four situations when AST should not be used (e.g., suspected hypoglycemia)."}
+{"qid": 15, "question": "Briefly describe how the BG5 measures glucose (“How the test works?” section)."}
+{"qid": 16, "question": "What are two general “Important Safety Instructions” about device sharing and liquids?"}
+{"qid": 17, "question": "What caution is given about use near aerosol sprays or oxygen administration?"}
+{"qid": 18, "question": "What does the manual advise about blocking test ports or placing the meter on soft surfaces?"}
+{"qid": 19, "question": "State two “Important Testing Information” cautions related to dehydration and symptoms inconsistent with readings."}
+{"qid": 20, "question": "What sample type is required for testing (include “fresh” and “capillary” qualifiers)?"}
+{"qid": 21, "question": "What symbol appears on the meter when it is connected to an iOS device via Bluetooth?"}
+{"qid": 22, "question": "Where are the Memory Button and Eject Button located on the device housing?"}
+{"qid": 23, "question": "What is the function of the Mini USB port?"}
+{"qid": 24, "question": "Name the four labeled parts of the blood glucose test strip."}
+{"qid": 25, "question": "Which brand/model of test strips must be used with the BG5?"}
+{"qid": 26, "question": "What message accompanies the CTL symbol on the display regarding memory storage?"}
+{"qid": 27, "question": "What two measurement units can the meter display with results?"}
+{"qid": 28, "question": "What does the flashing “blood drop” (Blood Sample Symbol) indicate?"}
+{"qid": 29, "question": "Before first use, how is the meter time set and saved?"}
+{"qid": 30, "question": "In setup, how long should you press and hold the Memory Button to power on for Bluetooth pairing?"}
+{"qid": 31, "question": "What Bluetooth device name appears during pairing (format shown in the manual)?"}
+{"qid": 32, "question": "What is the purpose of scanning the two-dimensional code on the test strip vial?"}
+{"qid": 33, "question": "In offline mode, what starts automatically when the confirmation window is filled?"}
+{"qid": 34, "question": "In offline mode, when does the result appear and where is it shown?"}
+{"qid": 35, "question": "In online mode, what cue tells you to remove the strip from the blood sample?"}
+{"qid": 36, "question": "In online mode, where are results displayed?"}
+{"qid": 37, "question": "What reminder does the manual give about plasma calibration of results (and why it matters)?"}
+{"qid": 38, "question": "What steps does the manual give for safely discarding used test strips?"}
+{"qid": 39, "question": "What steps does the manual give for safely discarding used lancets?"}
+{"qid": 40, "question": "Under what circumstances does the manual urge consulting a healthcare professional after getting results?"}
+{"qid": 41, "question": "When should a Control Solution test be performed? List at least five triggers from the manual."}
+{"qid": 42, "question": "For an offline Control Solution test, how do you enter CTL mode and what does it change?"}
+{"qid": 43, "question": "For the Control Solution drop, which drop is recommended for use and why?"}
+{"qid": 44, "question": "What specific instruction is given to avoid contaminating the Control Solution vial?"}
+{"qid": 45, "question": "Where should the Control Solution result fall, and where is that range printed?"}
+{"qid": 46, "question": "List four possible causes when a Control Solution result is out of the specified range."}
+{"qid": 47, "question": "What phone number is provided for iHealth Labs Customer Service in the U.S.?"}
+{"qid": 48, "question": "In the online Control Solution workflow, how do you switch the app to CTL mode?"}
+{"qid": 49, "question": "What warning does the manual give about mistakenly saving Control Solution tests as regular tests?"}
+{"qid": 50, "question": "How many blood-glucose results (with date/time) can the meter store in memory?"}
+{"qid": 51, "question": "How do you review stored results on the meter, and what appears when you reach the last result?"}
+{"qid": 52, "question": "What auto-off behavior is described when the meter is idle in memory mode?"}
+{"qid": 53, "question": "According to the “Reference Value” table, what fasting/pre-meal glucose value is considered normal for people without diabetes?"}
+{"qid": 54, "question": "According to the same table, what value is considered normal two hours after meals for people without diabetes?"}
+{"qid": 55, "question": "What three “Before Going to the Lab” steps are listed for comparing meter and lab results?"}
+{"qid": 56, "question": "During lab comparison, within what time frame should both samples be taken?"}
+{"qid": 57, "question": "Name two sample-handling cautions given under “While at the Lab” (e.g., no test-tube blood)."}
+{"qid": 58, "question": "Why might results from the BG5 differ from laboratory results, according to the manual?"}
+{"qid": 59, "question": "Which disinfectant product (brand and EPA registration) does the manual recommend for cleaning the meter and lancing device?"}
+{"qid": 60, "question": "After wiping, how long should the surface remain wet to meet the disinfection contact time?"}
+{"qid": 61, "question": "How many cleaning+disinfection cycles does the manual estimate over a five-year life if used 5–6 times/day?"}
+{"qid": 62, "question": "What explicit warning is given about inserting disinfecting wipes into the strip port or metal connector?"}
+{"qid": 63, "question": "List the two public-health links (FDA and CDC topics) cited in the cleaning section and summarize their caution in one phrase."}
+{"qid": 64, "question": "What is the BG5’s measuring method (enzyme and technique)?"}
+{"qid": 65, "question": "What is the BG5’s result range in mg/dL and mmol/L?"}
+{"qid": 66, "question": "What is the stated power source specification (voltage and battery capacity)?"}
+{"qid": 67, "question": "What Bluetooth version/class/profile and frequency band are listed in the specifications?"}
+{"qid": 68, "question": "What storage conditions are specified for test strips (temperature and humidity)?"}
+{"qid": 69, "question": "What storage conditions are specified for the meter (temperature and humidity)?"}
+{"qid": 70, "question": "What operating temperature range is specified for the meter?"}
+{"qid": 71, "question": "What is the minimum blood volume required for a measurement?"}
+{"qid": 72, "question": "What is the stated lifespan of the meter?"}
+{"qid": 73, "question": "Up to what altitude can the BG5 be used? Provide both meters and feet as printed."}
+{"qid": 74, "question": "Which interfering substances (name at least three) may affect results by >10% at high levels?"}
+{"qid": 75, "question": "Name at least four patient conditions under “Limitations of Use” where the BG5 should not be used or results may be inaccurate."}
+{"qid": 76, "question": "What caution does the manual give about extreme hematocrit levels?"}
+{"qid": 77, "question": "What caution does the manual give regarding oxygen therapy?"}
+{"qid": 78, "question": "What two messages correspond to results below 20 mg/dL and above 600 mg/dL, respectively?"}
+{"qid": 79, "question": "What action is advised when the result indicates severe hyperglycemia?"}
+{"qid": 80, "question": "Which error message indicates the battery has insufficient power, and what is the advised action?"}
+{"qid": 81, "question": "What environmental temperature triggers the “too low” error, and what should the user do?"}
+{"qid": 82, "question": "What environmental temperature triggers the “too high” error, and what should the user do?"}
+{"qid": 83, "question": "Which error message indicates that the meter’s time has not been set, and what is the fix?"}
+{"qid": 84, "question": "What error is associated with problems related to test strip use, and what is the remedy?"}
+{"qid": 85, "question": "In troubleshooting, list three causes of inconsistent test results or out-of-range Control Solution results."}
+{"qid": 86, "question": "In troubleshooting, what are the four solutions suggested for inconsistent results/out-of-range CS tests?"}
+{"qid": 87, "question": "What are the three possible causes when the countdown does not start, and what’s the remedy?"}
+{"qid": 88, "question": "What three causes are listed if the display remains blank after insertion of a strip, and what’s the first remedy?"}
+{"qid": 89, "question": "What does the manual recommend about periodic comparison of the BG5 with another provider-maintained system?"}
+{"qid": 90, "question": "What physical signs of device deterioration are listed, and what action is recommended if they appear?"}
+{"qid": 91, "question": "What guidance is given about handling the meter (dropping/throwing) under “Maintenance and Storage”?"}
+{"qid": 92, "question": "What patient populations or sample types are explicitly excluded (e.g., newborns, arterial blood)?"}
+{"qid": 93, "question": "What are the recommended user hand-hygiene steps before handling the meter and strips?"}
+{"qid": 94, "question": "Which symbols on the “Parts and Display Indicators” page correspond to low battery, CTL mode, and measurement units? (Name each symbol’s meaning.)"}
+{"qid": 95, "question": "What note is repeated in both testing modes about comparing plasma-calibrated meter results to lab tests?"}
+{"qid": 96, "question": "What brand and model of control solution is referenced, and where can additional control solution be obtained?"}
+{"qid": 97, "question": "Which sections provide the U.S. and EU contact details for iHealth (company names and locations)?"}
+{"qid": 98, "question": "Summarize the FCC Part 15 two operating conditions the device must comply with."}
+{"qid": 99, "question": "What interference-mitigation steps does the FCC section recommend if the device disrupts radio/TV reception?"}
+{"qid": 100, "question": "Which Apple “Made for” marks are listed, and what disclaimer is provided about Apple’s responsibility and wireless performance?"}

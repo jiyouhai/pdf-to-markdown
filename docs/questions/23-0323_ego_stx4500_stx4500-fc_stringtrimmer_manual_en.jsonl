@@ -1,0 +1,100 @@
+{"qid": 1, "question": "What exact model numbers does this manual cover?", "page_hint": "p.1"}
+{"qid": 2, "question": "What is the full product name shown on the cover?", "page_hint": "p.1"}
+{"qid": 3, "question": "On which page does the Français section begin?", "page_hint": "p.1, p.2"}
+{"qid": 4, "question": "On which page does the Español section begin?", "page_hint": "p.1, p.2"}
+{"qid": 5, "question": "Which U.S. state is referenced in the dust exposure warning at the beginning of the manual?", "page_hint": "p.3"}
+{"qid": 6, "question": "Which mineral from masonry products is explicitly named as a hazardous dust example?", "page_hint": "p.3"}
+{"qid": 7, "question": "What is one recommended method to reduce dust exposure listed in the warning?", "page_hint": "p.3"}
+{"qid": 8, "question": "According to the FCC statement, this product is tested to which class of digital device?", "page_hint": "p.4"}
+{"qid": 9, "question": "What part of the FCC rules does this device comply with?", "page_hint": "p.4"}
+{"qid": 10, "question": "What does the Safety Alert symbol indicate?", "page_hint": "p.5–6"}
+{"qid": 11, "question": "Which ANSI standard must eye protection comply with when operating this machine?", "page_hint": "p.5–6"}
+{"qid": 12, "question": "What minimum distance must bystanders keep from the machine?", "page_hint": "p.7"}
+{"qid": 13, "question": "What does the IPX marking relate to in this manual’s symbol table?", "page_hint": "p.7"}
+{"qid": 14, "question": "What battery chemistry is stated under the Battery Recycle symbol?", "page_hint": "p.7"}
+{"qid": 15, "question": "What is the unit used for rotational speed in the symbol table (abbreviation and meaning)?", "page_hint": "p.7"}
+{"qid": 16, "question": "What is the tool’s rated voltage?", "page_hint": "p.16"}
+{"qid": 17, "question": "List the three no-load speeds (n₀) in /min.", "page_hint": "p.16"}
+{"qid": 18, "question": "What is the cutting swath in inches and centimeters?", "page_hint": "p.16"}
+{"qid": 19, "question": "What cutting line diameter is the unit kitted with by default?", "page_hint": "p.16"}
+{"qid": 20, "question": "What is the maximum compatible cutting line diameter?", "page_hint": "p.16"}
+{"qid": 21, "question": "What is the ingress protection rating of the tool/battery system?", "page_hint": "p.16"}
+{"qid": 22, "question": "What are the recommended operating temperature limits (°F and °C)?", "page_hint": "p.16"}
+{"qid": 23, "question": "What are the recommended storage temperature limits (°F and °C)?", "page_hint": "p.16"}
+{"qid": 24, "question": "What is the tool’s weight without the battery (lbs and kg)?", "page_hint": "p.16"}
+{"qid": 25, "question": "Which trimmer head model is listed as a recommended accessory?", "page_hint": "p.16"}
+{"qid": 26, "question": "Name one recommended cutting line part number from the accessories table.", "page_hint": "p.16"}
+{"qid": 27, "question": "On the labeled diagram, what control toggles between speed modes?", "page_hint": "Fig. 1, p.17"}
+{"qid": 28, "question": "What must be moved forward before pressing the trigger to start the machine?", "page_hint": "Fig. 1, p.17; p.18, p.28"}
+{"qid": 29, "question": "What component on the guard keeps line at the proper length?", "page_hint": "p.18"}
+{"qid": 30, "question": "What is the function of the Quick Adjustable Loop Handle?", "page_hint": "p.18"}
+{"qid": 31, "question": "What is the purpose of the Safety Barrier Bar?", "page_hint": "p.18"}
+{"qid": 32, "question": "What does the Battery-status Indicator communicate?", "page_hint": "p.19"}
+{"qid": 33, "question": "What does the Bluetooth® Indicator signify?", "page_hint": "p.19, p.31"}
+{"qid": 34, "question": "What size hex key is included in the packing list?", "page_hint": "p.20"}
+{"qid": 35, "question": "Which item in the packing list is “only for use with brush cutter head”?", "page_hint": "p.20"}
+{"qid": 36, "question": "During loop-handle assembly, which two features must be aligned on the barrier bar and loop handle (recessed vs. protruded)?", "page_hint": "p.21–22"}
+{"qid": 37, "question": "What fastener is used to secure the loop handle after positioning?", "page_hint": "p.21–22"}
+{"qid": 38, "question": "When using the brush cutter head, what must be installed on the loop handle?", "page_hint": "p.21"}
+{"qid": 39, "question": "How many bolts secure the string trimmer guard to the shaft?", "page_hint": "p.23"}
+{"qid": 40, "question": "What safety warning is given about operating without the guard?", "page_hint": "p.23"}
+{"qid": 41, "question": "Which guard type (string trimmer vs. brush cutter) is not included with the base product?", "page_hint": "p.23"}
+{"qid": 42, "question": "When attaching the battery, what features must be aligned before sliding it in?", "page_hint": "p.24"}
+{"qid": 43, "question": "What caution is given about pressing the battery-release button at a high location?", "page_hint": "p.24"}
+{"qid": 44, "question": "What is the model number of the single-shoulder strap mentioned as sold separately?", "page_hint": "p.25"}
+{"qid": 45, "question": "What are the two ways to release the shoulder strap described?", "page_hint": "p.25"}
+{"qid": 46, "question": "In the Applications section, what tasks are listed for the trimmer head configuration?", "page_hint": "p.26"}
+{"qid": 47, "question": "In the Applications section, what is the maximum stem diameter recommended for the 3-tooth metal blade?", "page_hint": "p.26"}
+{"qid": 48, "question": "What specific PPE does the manual say to wear while operating (beyond eye protection)? Name any two.", "page_hint": "p.27"}
+{"qid": 49, "question": "Before each use, which three components are emphasized for damage/wear checks?", "page_hint": "p.27"}
+{"qid": 50, "question": "What cleaning caution is given about using water on the trimmer?", "page_hint": "p.28"}
+{"qid": 51, "question": "To start the machine, which two controls must be actuated simultaneously?", "page_hint": "p.28"}
+{"qid": 52, "question": "How is speed controlled once the machine is on?", "page_hint": "p.28"}
+{"qid": 53, "question": "How many speed modes does the tool have?", "page_hint": "p.29"}
+{"qid": 54, "question": "How does the speed indicator display high speed mode?", "page_hint": "p.29"}
+{"qid": 55, "question": "Which speed mode provides longer runtime per charge, according to the manual?", "page_hint": "p.29"}
+{"qid": 56, "question": "When do the battery-status and speed indicators illuminate besides startup?", "page_hint": "p.30"}
+{"qid": 57, "question": "What battery-status light color indicates 20%–100% state of charge?", "page_hint": "p.30"}
+{"qid": 58, "question": "What battery-status light/color indicates 10%–20% state of charge?", "page_hint": "p.30"}
+{"qid": 59, "question": "What battery-status light/color indicates less than 10% state of charge?", "page_hint": "p.30"}
+{"qid": 60, "question": "What condition is indicated when the battery-status LED flashes red/green alternately?", "page_hint": "p.30–31"}
+{"qid": 61, "question": "What temperature must the battery pack drop below to clear the orange over-temperature indication in the indicator table?", "page_hint": "p.30"}
+{"qid": 62, "question": "According to the Battery High-temperature Protection section, at what temperature does the battery protection trigger?", "page_hint": "p.31"}
+{"qid": 63, "question": "What does a solid orange speed indicator signify?", "page_hint": "p.30–31"}
+{"qid": 64, "question": "What does a flashing orange speed indicator signify, and what general action should you take?", "page_hint": "p.30–31"}
+{"qid": 65, "question": "According to Machine High-temperature Protection, above what temperature does the tool shut off to prevent damage?", "page_hint": "p.31"}
+{"qid": 66, "question": "What happens when a Bluetooth connection to a mobile device is established?", "page_hint": "p.31"}
+{"qid": 67, "question": "How do you extend more cutting line during operation?", "page_hint": "p.32"}
+{"qid": 68, "question": "What warning is given about removing or altering the line-cutting blade?", "page_hint": "p.32"}
+{"qid": 69, "question": "Where should you tap the head for best line release results?", "page_hint": "p.32"}
+{"qid": 70, "question": "What trimming angle is recommended relative to the ground?", "page_hint": "p.33"}
+{"qid": 71, "question": "What is the recommended method for cutting grass over 8 inches (20 cm) tall?", "page_hint": "p.33"}
+{"qid": 72, "question": "What surfaces or objects cause rapid cutting-line wear, as listed in the tips? Name two.", "page_hint": "p.33"}
+{"qid": 73, "question": "What total length of cutting line should you cut when replacing line with 0.095 in (2.4 mm) line?", "page_hint": "p.34–35"}
+{"qid": 74, "question": "After winding, how much line should remain visible on each side of the head?", "page_hint": "p.34–35"}
+{"qid": 75, "question": "Which component must “click” into place when reinstalling the lower cover during reloading?", "page_hint": "p.34–35"}
+{"qid": 76, "question": "When reloading, which part’s original position must you confirm before reassembly?", "page_hint": "p.34–35"}
+{"qid": 77, "question": "What kit number converts the trimmer to a brush cutter?", "page_hint": "p.36"}
+{"qid": 78, "question": "Besides installing the metal blade, what two other changes are required for brush-cutter conversion?", "page_hint": "p.36"}
+{"qid": 79, "question": "To remove the trimmer head, in which direction do you rotate it?", "page_hint": "p.36–37"}
+{"qid": 80, "question": "What tool is inserted into the gear case to lock the shaft when removing/installing heads?", "page_hint": "p.36–37"}
+{"qid": 81, "question": "What protective accessory is the 3-tooth blade shipped in, and what should you do with it after removal?", "page_hint": "p.36–37"}
+{"qid": 82, "question": "When mounting the 3-tooth blade, which side of the blade must be flush with which feature of the inner flange?", "page_hint": "p.37"}
+{"qid": 83, "question": "In which direction do you finger-tighten the nut for the blade before final tightening?", "page_hint": "p.37"}
+{"qid": 84, "question": "What socket size is recommended to tighten the blade nut?", "page_hint": "Fig. 12f, p.37"}
+{"qid": 85, "question": "When swapping guards for brush-cutting, which bolts and washers are reused?", "page_hint": "p.38"}
+{"qid": 86, "question": "For cutting woody material up to 3/4 in (2 cm), which side of the blade should be used to reduce blade thrust?", "page_hint": "p.39"}
+{"qid": 87, "question": "What is the stated risk when using the cutting attachment above waist height?", "page_hint": "p.39"}
+{"qid": 88, "question": "List two precautions to reduce risk of injury from a cracking/shattering blade.", "page_hint": "p.39"}
+{"qid": 89, "question": "In the brush-cutting tips, from which direction to which should you sweep the unit for best results?", "page_hint": "p.40"}
+{"qid": 90, "question": "Which brand of blade does the manual specify to use with this brush cutter?", "page_hint": "p.40"}
+{"qid": 91, "question": "What general maintenance warning is emphasized about using non-identical replacement parts?", "page_hint": "p.41"}
+{"qid": 92, "question": "What repeated caution is given about battery machines during maintenance?", "page_hint": "p.41"}
+{"qid": 93, "question": "What’s the recommended method for cleaning debris from the air vents on the rear housing?", "page_hint": "p.41"}
+{"qid": 94, "question": "What warning is given about using solvents on plastic parts?", "page_hint": "p.41–42"}
+{"qid": 95, "question": "When installing a new trimmer head, in which direction is the head tightened onto the shaft?", "page_hint": "p.42"}
+{"qid": 96, "question": "Before installing a new trimmer head, which two parts must be correctly located on the motor shaft?", "page_hint": "p.42"}
+{"qid": 97, "question": "What personal protective equipment is required when sharpening the line-cutting blade?", "page_hint": "p.43"}
+{"qid": 98, "question": "What tool(s) does the manual recommend for sharpening the line-cutting blade edges?", "page_hint": "p.43"}
+{"qid": 99, "question": "How often should you check the gear-case grease level?", "page_hint": "p.43"}
+{"qid": 100, "question": "To what fraction of capacity should you fill the transmission gear case with grease?", "page_hint": "p.43"}

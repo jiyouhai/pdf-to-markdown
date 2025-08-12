@@ -1,80 +1,124 @@
 <!doctype html>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>PDF-to-Markdown Evaluation</title>
-<style>
-body { max-width: 980px; margin: 2rem auto; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif; padding: 0 1rem; }
-h1, h2 { margin: 0.2rem 0 1rem; }
-ul { line-height: 1.6; }
-small { color: #666; }
-a { text-decoration: none; }
-</style>
-<h1>PDF-to-Markdown Evaluation</h1>
-<h2>Featured PDF</h2>
-<p><a href="pdfs/zt4200s_ego_zero-turn-riding-mower_version-a.pdf" download>Download</a> · <a href="pdfs/zt4200s_ego_zero-turn-riding-mower_version-a.pdf" target="_blank">Open</a></p>
-<object id="pdfviewer" type="application/pdf" width="100%" height="900"></object>
-<script>
-  const link = document.querySelector('a[target="_blank"]');
-  if (link) document.getElementById('pdfviewer').setAttribute('data', link.getAttribute('href'));
-</script>
-<h2>All PDFs</h2>
-<ul>
-  <li><a href="pdfs/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.pdf">23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.pdf</a></li>
-  <li><a href="pdfs/FEIER.pdf">FEIER.pdf</a></li>
-  <li><a href="pdfs/Hanwha_Integration_Guide.pdf">Hanwha_Integration_Guide.pdf</a></li>
-  <li><a href="pdfs/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A.pdf">SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A.pdf</a></li>
-  <li><a href="pdfs/TP-MVD8MV2-rotated.pdf">TP-MVD8MV2-rotated.pdf</a></li>
-  <li><a href="pdfs/ego_accessory_compatibility_matrix.pdf">ego_accessory_compatibility_matrix.pdf</a></li>
-  <li><a href="pdfs/feier_start_100_manual.pdf">feier_start_100_manual.pdf</a></li>
-  <li><a href="pdfs/ihealth_bg5.pdf">ihealth_bg5.pdf</a></li>
-  <li><a href="pdfs/zt4200s_ego_zero-turn-riding-mower_version-a.pdf">zt4200s_ego_zero-turn-riding-mower_version-a.pdf</a></li>
-</ul>
-<h2>Markdown outputs</h2>
-<ul>
-  <li><a href="md/Reducto/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.md">Reducto/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.md</a></li>
-  <li><a href="md/Reducto/FEIER.md">Reducto/FEIER.md</a></li>
-  <li><a href="md/Reducto/Hanwha_Integration_Guide.md">Reducto/Hanwha_Integration_Guide.md</a></li>
-  <li><a href="md/Reducto/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A.md">Reducto/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A.md</a></li>
-  <li><a href="md/Reducto/TP-MVD8MV2-rotated.md">Reducto/TP-MVD8MV2-rotated.md</a></li>
-  <li><a href="md/Reducto/ego_accessory_compatibility_matrix.md">Reducto/ego_accessory_compatibility_matrix.md</a></li>
-  <li><a href="md/Reducto/feier_start_100_manual.md">Reducto/feier_start_100_manual.md</a></li>
-  <li><a href="md/Reducto/ihealth_bg5.md">Reducto/ihealth_bg5.md</a></li>
-  <li><a href="md/Reducto/zt4200s_ego_zero-turn-riding-mower_version-a.md">Reducto/zt4200s_ego_zero-turn-riding-mower_version-a.md</a></li>
-  <li><a href="md/md_marker/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.md">md_marker/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.md</a></li>
-  <li><a href="md/md_marker/FEIER/FEIER.md">md_marker/FEIER/FEIER.md</a></li>
-  <li><a href="md/md_marker/Hanwha_Integration_Guide/Hanwha_Integration_Guide.md">md_marker/Hanwha_Integration_Guide/Hanwha_Integration_Guide.md</a></li>
-  <li><a href="md/md_marker/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A.md">md_marker/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A.md</a></li>
-  <li><a href="md/md_marker/TP-MVD8MV2-rotated/TP-MVD8MV2-rotated.md">md_marker/TP-MVD8MV2-rotated/TP-MVD8MV2-rotated.md</a></li>
-  <li><a href="md/md_marker/ego_accessory_compatibility_matrix/ego_accessory_compatibility_matrix.md">md_marker/ego_accessory_compatibility_matrix/ego_accessory_compatibility_matrix.md</a></li>
-  <li><a href="md/md_marker/feier_start_100_manual/feier_start_100_manual.md">md_marker/feier_start_100_manual/feier_start_100_manual.md</a></li>
-  <li><a href="md/md_marker/ihealth_bg5/ihealth_bg5.md">md_marker/ihealth_bg5/ihealth_bg5.md</a></li>
-  <li><a href="md/md_mathpix/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.md">md_mathpix/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.md</a></li>
-  <li><a href="md/md_mathpix/FEIER.md">md_mathpix/FEIER.md</a></li>
-  <li><a href="md/md_mathpix/Hanwha_Integration_Guide.md">md_mathpix/Hanwha_Integration_Guide.md</a></li>
-  <li><a href="md/md_mathpix/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A.md">md_mathpix/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A.md</a></li>
-  <li><a href="md/md_mathpix/TP-MVD8MV2-rotated.md">md_mathpix/TP-MVD8MV2-rotated.md</a></li>
-  <li><a href="md/md_mathpix/ego_accessory_compatibility_matrix.md">md_mathpix/ego_accessory_compatibility_matrix.md</a></li>
-  <li><a href="md/md_mathpix/feier_start_100_manual.md">md_mathpix/feier_start_100_manual.md</a></li>
-  <li><a href="md/md_mathpix/ihealth_bg5.md">md_mathpix/ihealth_bg5.md</a></li>
-  <li><a href="md/md_mathpix/zt4200s_ego_zero-turn-riding-mower_version-a.md">md_mathpix/zt4200s_ego_zero-turn-riding-mower_version-a.md</a></li>
-  <li><a href="md/own tool/livex_23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en_markdown.md">own tool/livex_23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en_markdown.md</a></li>
-  <li><a href="md/own tool/livex_FEIER_markdown.md">own tool/livex_FEIER_markdown.md</a></li>
-  <li><a href="md/own tool/livex_Hanwha_Integration_Guide_markdown.md">own tool/livex_Hanwha_Integration_Guide_markdown.md</a></li>
-  <li><a href="md/own tool/livex_SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A_markdown.md">own tool/livex_SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A_markdown.md</a></li>
-  <li><a href="md/own tool/livex_TP-MVD8MV2-rotated_markdown.md">own tool/livex_TP-MVD8MV2-rotated_markdown.md</a></li>
-  <li><a href="md/own tool/livex_ego_accessory_compatibility_matrix_markdown.md">own tool/livex_ego_accessory_compatibility_matrix_markdown.md</a></li>
-  <li><a href="md/own tool/livex_feier_start_100_manual_markdown.md">own tool/livex_feier_start_100_manual_markdown.md</a></li>
-  <li><a href="md/own tool/livex_ihealth_bg5_markdown.md">own tool/livex_ihealth_bg5_markdown.md</a></li>
-  <li><a href="md/own tool/livex_zt4200s_ego_zero-turn-riding-mower_version-a_markdown.md">own tool/livex_zt4200s_ego_zero-turn-riding-mower_version-a_markdown.md</a></li>
-  <li><a href="md/textin/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.md">textin/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.md</a></li>
-  <li><a href="md/textin/FEIER.md">textin/FEIER.md</a></li>
-  <li><a href="md/textin/Hanwha_Integration_Guide.md">textin/Hanwha_Integration_Guide.md</a></li>
-  <li><a href="md/textin/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A.md">textin/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A.md</a></li>
-  <li><a href="md/textin/TP-MVD8MV2-rotated.md">textin/TP-MVD8MV2-rotated.md</a></li>
-  <li><a href="md/textin/ego_accessory_compatibility_matrix.md">textin/ego_accessory_compatibility_matrix.md</a></li>
-  <li><a href="md/textin/feier_start_100_manual.md">textin/feier_start_100_manual.md</a></li>
-  <li><a href="md/textin/ihealth_bg5.md">textin/ihealth_bg5.md</a></li>
-  <li><a href="md/textin/zt4200s_ego_zero-turn-riding-mower_version-a.md">textin/zt4200s_ego_zero-turn-riding-mower_version-a.md</a></li>
-</ul>
-<hr>
-<small>Published via GitHub Pages.</small>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>PDF-to-Markdown Evaluation</title>
+  <link rel="stylesheet" href="./assets/style.css"/>
+  <script defer src="./assets/app.js"></script>
+</head>
+<body>
+<header class="site-header"><a href="./index.html">PDF→MD Evaluation</a></header>
+
+<main class="container">
+  <section class="hero">
+    <h1>PDF→Markdown Evaluation</h1>
+    <p class="sub">9 PDFs · 700 questions · Multiple parsers (Mathpix / TextIn / Reducto / Marker / Internal)</p>
+    <div class="cta">
+      <a class="btn" href="./pdfs/evaluation-report.pdf" target="_blank" rel="noopener">📘 Read the Report</a>
+      <a class="btn ghost" href="https://github.com/jiyouhai/pdf-to-markdown" target="_blank" rel="noopener">⭐ GitHub</a>
+    </div>
+    <p class="meta">Last updated: 2025-08-12 22:27 UTC</p>
+  </section>
+
+  <section class="card">
+    <div class="split">
+      <div>
+        <h2>Datasets <span class="muted">(9)</span></h2>
+      </div>
+      <div>
+        <input id="search" class="search" type="search" placeholder="Search by doc id…"/>
+      </div>
+    </div>
+    <div id="grid" class="grid">
+      
+      <a class="card card-link" href="./datasets/23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en.html">
+        <div class="card-title">23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en</div>
+        <div class="card-body">
+          <div class="pill">PDF</div>
+          <div class="pill">100 Qs</div>
+        </div>
+      </a>
+    
+      <a class="card card-link" href="./datasets/FEIER.html">
+        <div class="card-title">FEIER</div>
+        <div class="card-body">
+          <div class="pill">PDF</div>
+          <div class="pill">100 Qs</div>
+        </div>
+      </a>
+    
+      <a class="card card-link" href="./datasets/Hanwha_Integration_Guide.html">
+        <div class="card-title">Hanwha_Integration_Guide</div>
+        <div class="card-body">
+          <div class="pill">PDF</div>
+          <div class="pill">100 Qs</div>
+        </div>
+      </a>
+    
+      <a class="card card-link" href="./datasets/SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A.html">
+        <div class="card-title">SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A</div>
+        <div class="card-body">
+          <div class="pill">PDF</div>
+          <div class="pill">100 Qs</div>
+        </div>
+      </a>
+    
+      <a class="card card-link" href="./datasets/TP-MVD8MV2-rotated.html">
+        <div class="card-title">TP-MVD8MV2-rotated</div>
+        <div class="card-body">
+          <div class="pill">PDF</div>
+          <div class="pill">0 Qs</div>
+        </div>
+      </a>
+    
+      <a class="card card-link" href="./datasets/ego_accessory_compatibility_matrix.html">
+        <div class="card-title">ego_accessory_compatibility_matrix</div>
+        <div class="card-body">
+          <div class="pill">PDF</div>
+          <div class="pill">100 Qs</div>
+        </div>
+      </a>
+    
+      <a class="card card-link" href="./datasets/feier_start_100_manual.html">
+        <div class="card-title">feier_start_100_manual</div>
+        <div class="card-body">
+          <div class="pill">PDF</div>
+          <div class="pill">0 Qs</div>
+        </div>
+      </a>
+    
+      <a class="card card-link" href="./datasets/ihealth_bg5.html">
+        <div class="card-title">ihealth_bg5</div>
+        <div class="card-body">
+          <div class="pill">PDF</div>
+          <div class="pill">100 Qs</div>
+        </div>
+      </a>
+    
+      <a class="card card-link" href="./datasets/zt4200s_ego_zero-turn-riding-mower_version-a.html">
+        <div class="card-title">zt4200s_ego_zero-turn-riding-mower_version-a</div>
+        <div class="card-body">
+          <div class="pill">PDF</div>
+          <div class="pill">100 Qs</div>
+        </div>
+      </a>
+    
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>How this works</h2>
+    <ol class="steps">
+      <li>Convert each PDF with multiple parsers → store Markdown under <code>docs/md/&lt;parser&gt;/&lt;doc_id&gt;/</code></li>
+      <li>100 PDF-specific questions per doc → <code>questions/&lt;doc_id&gt;/questions.jsonl</code> (mirrored to site)</li>
+      <li>Run RAG pipelines → write answers to <code>runs/&lt;parser&gt;/&lt;doc_id&gt;/answers.jsonl</code></li>
+      <li>Use an LLM evaluator (or exact-match) against the original PDF to score</li>
+    </ol>
+  </section>
+</main>
+
+<footer class="site-footer">
+  &copy; 2025 Xiaoxiao · <a href="./pdfs/evaluation-report.pdf">Report PDF</a>
+</footer>
+</body></html>
