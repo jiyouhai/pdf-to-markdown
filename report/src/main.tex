@@ -1,17 +1,17 @@
 \documentclass[11pt,a4paper]{article}
 
-% Encoding & fonts
+% ------- Encoding & fonts -------
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{microtype}
 
-% Layout & links
+% ------- Layout & color & links -------
 \usepackage[a4paper,margin=1in]{geometry}
 \usepackage{hyperref}
 \hypersetup{colorlinks=true,linkcolor=black,citecolor=black,urlcolor=blue}
 
-% Tables & formatting
+% ------- Tables & formatting -------
 \usepackage{booktabs}
 \usepackage{longtable}
 \usepackage{array}
@@ -19,38 +19,297 @@
 \usepackage{enumitem}
 \usepackage{graphicx}
 \usepackage{amsmath,amssymb}
+\usepackage{footnote}
 \usepackage{tabularx}
 \makesavenoteenv{tabular}
 \makesavenoteenv{longtable}
+
+% Column types for wrapped cells
 \newcolumntype{P}[1]{>{\RaggedRight\arraybackslash}p{#1}}
 \newcolumntype{Y}{>{\RaggedRight\arraybackslash}X}
 
-\title{PDF\texorpdfstring{$\to$}{->}Markdown Evaluation}
-\author{Xiaoxiao}
+\title{Comparison of PDF\texorpdfstring{$\to$}{->}Markdown Tools:\\
+TextIn vs.\ Reducto vs.\ Mathpix vs.\ Marker vs.\ Livex Internal Tool}
+\author{Prepared for livex.ai}
 \date{\today}
 
 \begin{document}
 \maketitle
 
-\begin{abstract}
-This is a placeholder build so that CI can compile and publish the report PDF.
-Replace \texttt{report/src/main.tex} with your full Overleaf content to produce the final report.
-\end{abstract}
+\section*{Executive Summary}
 
-\section*{How to use this repo}
+We evaluated five PDF$\to$Markdown converters on 9 representative PDFs (integration guides, manuals, datasheets):
+\textbf{TextIn}, \textbf{Reducto}, \textbf{Mathpix (Convert API)}, \textbf{Marker}, and the \textbf{Livex internal tool}.
+Each tool was scored across six dimensions (0--10 each): \emph{Structural Fidelity, Formatting Accuracy, Special Content Handling, Content Cleanliness, Ease of Post-Processing, Automation Readiness}.
+Marker’s scores and qualitative findings below reflect the separate report you provided that compared Marker/Docling/Reducto/Mathpix.\footnote{Source: internal evaluation PDF “Comparison of Markdown Conversion Tools (Marker, Docling, Reducto, Mathpix)”.}
+
+\smallskip
+\noindent\textbf{Equal-weight totals (sum of 6 metrics)}:
 \begin{itemize}[leftmargin=1.2em]
-  \item Place your final \LaTeX{} source at \verb|report/src/main.tex|.
-  \item Push to \verb|main|. GitHub Actions compiles the PDF and publishes it to \verb|docs/pdfs/evaluation-report.pdf|.
-  \item GitHub Pages serves it at the project site.
+  \item Mathpix: \textbf{52}/60 (avg 8.67)
+  \item TextIn: \textbf{47}/60 (avg 7.83)
+  \item Reducto: \textbf{41}/60 (avg 6.83)
+  \item Marker: \textbf{38}/60 (avg 6.33)
+  \item Internal: \textbf{33}/60 (avg 5.50)
 \end{itemize}
 
-\section{Executive Summary (placeholder)}
-Add your real executive summary here.
+\noindent\textbf{Recommendation}: Use \textbf{Mathpix} as primary. Keep \textbf{Reducto} for table-heavy or audit/“no-loss” cases. Use \textbf{TextIn} for cost-conscious runs where inline emphasis matters. Treat \textbf{Marker} as a visual-fidelity option (good styling, but tables-as-images hurt downstream use). The \textbf{internal tool} remains backup until upgraded (headings, tables, images).
 
-\section{Methodology (placeholder)}
-Describe tools, datasets, metrics, and pipelines here.
+\section*{Methodology}
 
-\section{Results (placeholder)}
-Put your tables/figures here.
+\subsection*{Inputs, Process, and What “counts”}
+\begin{enumerate}[leftmargin=1.2em]
+  \item \textbf{Documents}: 9 PDFs (integration guide for Hanwha cameras; user/product manuals; a spec sheet with an 8-column matrix; a networking quickstart; etc.).
+  \item \textbf{Runs}: Each tool processed the same PDFs. We compared raw outputs (no hand edits) against the source.
+  \item \textbf{Marker evidence}: Derived from your internal Marker/Docling/Reducto/Mathpix report (citations and examples summarized below).\footnote{See executive-summary footnote for the internal PDF reference.}
+  \item \textbf{Scoring rubric}: For each dimension we apply sub-criteria and award 0--10 based on concrete behaviors.
+\end{enumerate}
+
+\subsection*{Scoring Rubric (per dimension, max 10)}
+\begin{description}[leftmargin=1.1em,itemsep=0.35em]
+  \item[Structural Fidelity]
+    \begin{itemize}[leftmargin=1.2em,itemsep=0.2em]
+      \item Headings recognized as Markdown (\verb|#|/\verb|##|/\verb|###|) with correct hierarchy (0--4).
+      \item Lists represented as Markdown with proper nesting (0--3).
+      \item Reading order preserved across pages/columns (0--3).
+    \end{itemize}
+  \item[Formatting Accuracy]
+    \begin{itemize}[leftmargin=1.2em,itemsep=0.2em]
+      \item Meaningful bold/italic preserved (\verb|**|, \verb|_|) (0--4).
+      \item Callouts/warnings retained (e.g., \verb|**WARNING**| or heading) (0--3).
+      \item Minimal misclassification (e.g., logo mistaken as math) (0--3).
+    \end{itemize}
+  \item[Special Content Handling]
+    \begin{itemize}[leftmargin=1.2em,itemsep=0.2em]
+      \item \textbf{Tables}: Structured (Markdown/HTML) rows/cols intact (0--4).
+      \item \textbf{Math}: Equations preserved (LaTeX preferred) (0--3).
+      \item \textbf{Code/Images}: Code fenced; images linked with captions (0--3).
+    \end{itemize}
+  \item[Content Cleanliness]
+    \begin{itemize}[leftmargin=1.2em,itemsep=0.2em]
+      \item Low noise (no page tags/base64 blobs) (0--4).
+      \item OCR accuracy/symbols correct (0--3).
+      \item Logical paragraphs and column merge (0--3).
+    \end{itemize}
+  \item[Ease of Post-Processing]
+    \begin{itemize}[leftmargin=1.2em,itemsep=0.2em]
+      \item Few fixes (regex vs.\ structural surgery) (0--4).
+      \item Tables/images ingestable; little per-doc tailoring (0--3).
+      \item Plays well with standard Markdown renderers (0--3).
+    \end{itemize}
+  \item[Automation Readiness]
+    \begin{itemize}[leftmargin=1.2em,itemsep=0.2em]
+      \item Consistent output patterns; stable conventions (0--4).
+      \item Predictable error modes; easy to script normalization (0--3).
+      \item Scales to batch without format surprises (0--3).
+    \end{itemize}
+  \end{description}
+
+\section*{Detailed Findings with Examples}
+
+\subsection*{1) Structural Fidelity (Headings, Sections, Lists)}
+
+\paragraph{TextIn (8/10).}
+Reliable Markdown headings for titles/sections; lists appear but often start with a literal black circle glyph that needs replacing with \verb|- |. Occasional OCR slips in headers (e.g., “TURING”$\to$“TURIN”). A simple find/replace recovers proper lists.
+
+\paragraph{Reducto (5/10).}
+Captures all content page-by-page, but emits page markers (e.g., \verb|[[START OF PAGE 1]]|) and does not mark headings with \verb|#|. Lists are inconsistent and sometimes include artifacts; structure must be inferred later.
+
+\paragraph{Mathpix (9/10).}
+Human-like Markdown: correct \verb|#|/\verb|##| hierarchy; properly nested lists; large manuals reflect the original TOC.
+
+\paragraph{Marker (7/10).}
+Preserves hierarchy using \verb|#| but sometimes produces consecutive top-level headings and injects HTML spans (e.g., \verb|<span id="page-3-0"></span>|) inside list items; lists exist but may include extraneous symbols/HTML that require cleanup.\footnote{Marker structural notes and score reflect your internal report’s observations and 7/10 rating.}
+
+\paragraph{Livex Internal Tool (4/10).}
+Plain-text dump: no Markdown headings or list syntax; hierarchy flattened.
+
+\subsection*{2) Formatting Accuracy (Bold, Italics, Callouts)}
+
+\paragraph{TextIn (9/10).}
+Bold/italic widely preserved; minor use of \verb|<br>| inside table cells.
+
+\paragraph{Reducto (6/10).}
+Intentionally plain; nearly no bold/italic markup; emphasizes content over style.
+
+\paragraph{Mathpix (7/10).}
+Prefers structure over inline style; lists/headings are correct, but bold/italic rarely surfaced; occasional misread decorative text as math.
+
+\paragraph{Marker (9/10).}
+Strong at style retention; many \verb|**...**| occurrences for bold (e.g., \textbf{WARNING}); also keeps list syntax, though small HTML artifacts remain.\footnote{Marker formatting behaviors and 9/10 score per your internal report.}
+
+\paragraph{Livex Internal Tool (5/10).}
+No bold/italic retention; all plain text.
+
+\subsection*{3) Special Content (Tables, Equations, Code, Images)}
+
+\paragraph{TextIn (7/10).}
+Tables $\to$ Markdown (pipes); complex/merged headers approximated; no LaTeX; code not fenced; images linked.
+
+\paragraph{Reducto (9/10).}
+Tables $\to$ HTML \verb|<table>| with proper cells/colspans; often adds a table image thumbnail; equations as text/images; images linked with captions.
+
+\paragraph{Mathpix (9/10).}
+Tables $\to$ Markdown tables; equations $\to$ LaTeX; code often fenced; small images used for rare symbols.
+
+\paragraph{Marker (3/10).}
+Tables rendered as images (often base64 or linked) rather than text; no special math handling; code not specifically detected---hurts search/editability.\footnote{Marker special-content limitations and 3/10 score per your internal report’s comparison table.}
+
+\paragraph{Livex Internal Tool (5/10).}
+Tables flattened to text; no LaTeX; code as ordinary lines; images omitted.
+
+\subsection*{4) Content Cleanliness (Noise, Artifacts, OCR)}
+
+\paragraph{TextIn (8/10).}
+Clean Markdown; a few typos; uses HTML comments to hide inconsequential UI text read from screenshots.
+
+\paragraph{Reducto (7/10).}
+Accurate text but noisy structural markers and repeated headers/footers; easy to strip via script.
+
+\paragraph{Mathpix (9/10).}
+Very clean; no page tags; multi-column flow is natural; rare misclassification (e.g., logo as math).
+
+\paragraph{Marker (6/10).}
+Generally readable; avoids giant base64 blobs in the main text if images are linked, but may embed HTML spans and non-standard symbols; text portions are accurate; image-only tables are not text-searchable.\footnote{Marker cleanliness notes and 6/10 score per your internal report.}
+
+\paragraph{Livex Internal Tool (7/10).}
+No tool-added tags, but propagates page headers/numbers into body; modest OCR slips.
+
+\subsection*{5) Ease of Post-Processing}
+
+\paragraph{TextIn (7/10).}
+Fix bullets (glyph $\to$ dash), optional removal of commented blocks, spell-check; tables already textual.
+
+\paragraph{Reducto (6/10).}
+Cleanup stage required: remove page markers; dedupe headers; add headings; keep/convert HTML tables.
+
+\paragraph{Mathpix (9/10).}
+Plug-and-play; maybe replace tiny symbol images or verify LaTeX rendering.
+
+\paragraph{Marker (6/10).}
+Moderate effort: strip \verb|<span>| IDs and symbol clutter; biggest blocker is tables-as-images (need OCR or manual transcription for data).\footnote{Marker post-processing effort and 6/10 score per your internal report.}
+
+\paragraph{Livex Internal Tool (5/10).}
+Add headings/lists, reconstruct tables/images; heavier manual/algorithmic work.
+
+\subsection*{6) Automation Readiness (Batch Consistency)}
+
+\paragraph{TextIn (8/10).}
+Stable conventions (headers present; known bullet glyph); predictable normalization rules.
+
+\paragraph{Reducto (8/10).}
+Highly consistent, machine-friendly tags; once cleaned, great for pipelines.
+
+\paragraph{Mathpix (9/10).}
+Standard Markdown + LaTeX; minimal special-casing across docs.
+
+\paragraph{Marker (7/10).}
+Consistent patterns (headings/lists/images), but image-only tables are opaque to text-based automation and HTML spans require pre-cleaning.\footnote{Marker automation notes and 7/10 score per your internal report.}
+
+\paragraph{Livex Internal Tool (7/10).}
+Consistently minimal output; downstream parser must infer structure.
+
+\section*{Scoreboard, Totals, and Recommendation}
+
+\subsection*{Per-dimension Scores (0--10)}
+\begin{center}
+\small
+\begin{longtable}{@{}P{0.22\textwidth}P{0.14\textwidth}P{0.14\textwidth}P{0.14\textwidth}P{0.14\textwidth}P{0.14\textwidth}@{}}
+\toprule
+\textbf{Dimension} & \textbf{TextIn} & \textbf{Reducto} & \textbf{Mathpix} & \textbf{Marker} & \textbf{Internal} \\
+\midrule
+Structural Fidelity & 8 & 5 & 9 & 7 & 4 \\
+Formatting Accuracy & 9 & 6 & 7 & 9 & 5 \\
+Special Content & 7 & 9 & 9 & 3 & 5 \\
+Content Cleanliness & 8 & 7 & 9 & 6 & 7 \\
+Ease of Post-Processing & 7 & 6 & 9 & 6 & 5 \\
+Automation Readiness & 8 & 8 & 9 & 7 & 7 \\
+\midrule
+\textbf{Total (/60)} & \textbf{47} & \textbf{41} & \textbf{52} & \textbf{38} & \textbf{33} \\
+\bottomrule
+\end{longtable}
+\end{center}
+\footnotetext{Marker scores reflect the “Comparison of Markdown Conversion Tools (Marker, Docling, Reducto, Mathpix)” PDF. Where that report showed small internal inconsistencies (e.g., one section listed 4/10 for special-content and the final table showed 3/10), we align to the table.}
+
+\subsection*{Interpretation (equal weights)}
+\textbf{Mathpix} leads (52/60): clean, structured, and text-rich outputs. \textbf{TextIn} is a strong generalist (47/60). \textbf{Reducto} (41/60) excels at tables/consistency but needs a cleanup pass. \textbf{Marker} (38/60) shines at styling but loses points for tables-as-images. \textbf{Internal} (33/60) needs upgrades.
+
+\subsection*{Alternate weighting (emphasize tables \& scale)}
+If we weight \emph{Special Content} (40\%), \emph{Automation} (25\%), \emph{Cleanliness} (15\%), \emph{Structure} (10\%), \emph{Ease} (5\%), \emph{Formatting} (5\%), scores remain: Mathpix $\approx$ 8.90; Reducto $\approx$ 7.75; TextIn $\approx$ 7.60; Marker $\approx$ 5.55; Internal $\approx$ 5.70. Mathpix remains \#1; Reducto remains the strongest fallback for data-heavy docs.
+
+\section*{Security \& Compliance (vendor-stated / known status)}
+\small
+\begin{tabularx}{\textwidth}{@{}l P{1.7cm} P{2.0cm} P{1.5cm} Y@{}}
+\toprule
+\textbf{Tool} & \textbf{SOC 2} & \textbf{HIPAA} & \textbf{GDPR} & \textbf{Notes} \\
+\midrule
+Mathpix & Type 1 (Type 2 in progress)\footnote{Per internal vendor communication shared by your team (email thread). Request latest SOC 2 report under NDA for procurement verification.} & Not claimed publicly (request BAA if needed)\footnote{No public HIPAA claim noted in our materials; verify with vendor.} & Not publicly stated & Seek formal attestation and \emph{BAA} if PHI is in scope. \\
+Reducto & Type 1 and 2\footnote{Per internal vendor communication shared by your team. Ask for most recent SOC 2 Type 2 report.} & Offered for Growth/Enterprise tiers (BAA)\footnote{Vendor indicated HIPAA available for higher tiers; confirm scope and sign BAA.} & Not publicly stated & Confirm data handling/location and \emph{DPAs}. \\
+TextIn & Unknown & Unknown & Unknown & No published compliance docs in hand; contact sales for attestations. \\
+Marker & Unknown & Unknown & Unknown & Evaluate deployment model and data residency; request SOC 2/DPAs if shortlisted. \\
+Livex Internal & N/A (internal) & N/A (internal) & GDPR-readiness depends on infra & Align with company-wide controls (audit logging, access, retention, DPA). \\
+\bottomrule
+\end{tabularx}
+\normalsize
+
+\paragraph{Guidance.} For any external vendor used in production, request: SOC~2 report (Type~2 preferred), penetration-test summary, \emph{DPA/BAA} (as applicable), sub-processor list, data residency and retention policies, and incident-response SLAs.
+
+\section*{Public Pricing \& Billing (exact quotes + links)}
+
+\subsection*{Mathpix Convert (official wording)}
+\emph{“The Convert Monthly Subscription costs USD \$19.99/Mo. Includes USD \$29 monthly credit in addition to discounts for all other endpoints on the PDF and OCR tab.”} \\
+\emph{“Convert pricing: PDF conversion \$0.005 per PDF page up to 1M pages per month, then \$0.0035 per PDF page beyond 1M pages per month.”} \\
+\emph{“The Convert Monthly Subscription has 500 pages included per month.”}\footnote{\url{https://docs.mathpix.com/docs/billing/pricing}}
+
+\subsection*{Reducto (official wording)}
+\emph{“Starter: \$350/month — 15K credits; \$0.020 per credit thereafter.”} \\
+\emph{“Each page of a document entry usually equals 1 credit… advanced features and document complexity may increase the page credit ratio (e.g., 0.5x for simple pages, 2x for complex features).”}\footnote{\url{https://reducto.ai/pricing}}
+
+\subsection*{TextIn / Marker}
+Public per-unit API rates are not published on the product sites we have on hand; contact sales for current pricing.
+
+\section*{Operational Notes for livex.ai}
+
+\subsection*{Typical cleanup scripts}
+\begin{itemize}[leftmargin=1.2em]
+  \item \textbf{TextIn}: Replace leading black-circle bullets with ``- ''; optionally drop HTML comments; spell-check.
+  \item \textbf{Reducto}: Strip \verb|[[START/END OF PAGE]]| tags; dedupe headers/footers; promote heading-like lines; keep/convert HTML tables.
+  \item \textbf{Mathpix}: Replace rare tiny symbol images with Unicode; enable LaTeX rendering downstream.
+  \item \textbf{Marker}: Remove \verb|<span id="...">| anchors and stray symbols; OCR or manually transcribe tables that came as images.
+  \item \textbf{Internal}: Heuristic heading detection; reconstruct lists/tables; extract and link images from the source PDF.
+\end{itemize}
+
+\subsection*{Throughput \& latency}
+Vendors do not publish authoritative end-to-end page/second metrics for our exact workloads; to maintain accuracy, we omit numeric speed claims. We recommend timing a 100-page batch for each tool in our environment and logging wall-clock seconds/page.
+
+\section*{Appendix A: Compact Comparison (highlights)}
+
+\begin{center}
+\small
+\begin{tabularx}{\textwidth}{@{}lYYYYY@{}}
+\toprule
+ & \textbf{TextIn} & \textbf{Reducto} & \textbf{Mathpix} & \textbf{Marker} & \textbf{Internal} \\
+\midrule
+Structure & Headers good; bullet glyph fix & Page markers; no \# & Full Markdown outline & Headings ok; span clutter & Plain text only \\
+Formatting & Bold/italic preserved & Mostly plain & Structure over inline style & Strong bold/italic & No bold/italic \\
+Tables/math & MD tables; no LaTeX & HTML tables (no loss) & MD tables; LaTeX math & Tables as images & Tables flattened \\
+Cleanliness & Clean; few typos & Accurate but noisy tags & Very clean & Some HTML/symbol noise & Page noise; some OCR \\
+Post-process & Light polish & Cleanup stage & Plug-and-play & Moderate; tables hurt & Heavy structuring \\
+Automation & Stable conventions & Very predictable & Standard Markdown & Consistent but image tables & Consistent minimalism \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+\section*{Appendix B: Snippet Patterns}
+
+\begin{itemize}[leftmargin=1.2em]
+  \item Reducto page markers: \verb|[[START OF PAGE 5]]| \ldots \verb|[[END OF PAGE 5]]|
+  \item Mathpix heading: \verb|## Adding Hanwha Cameras to Turing Vision|
+  \item TextIn bullet fix: replace start-of-line black circle with \verb|- |
+  \item Marker cleanup: remove \verb|<span id="page-3-0"></span>| and stray \verb|\textbullet|
+    % 或者（显示一个圆点，而不是代码）：
+    % \item ... and stray \texttt{\textbullet}
+  \item Reducto table: inline HTML \verb|<table><tr><td>...| (with \verb|colspan|)
+\end{itemize}
 
 \end{document}
