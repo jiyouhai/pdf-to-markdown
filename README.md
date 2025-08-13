@@ -2,6 +2,8 @@
 
 [website](https://jiyouhai.github.io/pdf-to-markdown/)
 
+For the report, we use two methods to evaluate the performance of these PDF-to-Markdown tools. The first method is to use ChatGPT’s deep research capability: upload all the zip files and have it generate a report based on our criteria. The second method is to place each PDF alongside its corresponding Markdown file. Since we have nine samples, we open nine separate windows and let ChatGPT 5 Pro or Deep Thinking score the tools according to our standards.
+
 *Reproducible, parser-agnostic benchmarks for turning PDFs into Markdown—and measuring downstream usefulness with QA.*
 
 > This repository hosts a lightweight evaluation framework and a static site (GitHub Pages) that publishes datasets, parser outputs, and question sets (JSONL). The goal is to judge **downstream usability** (search, RAG, automation), not just visual fidelity.
