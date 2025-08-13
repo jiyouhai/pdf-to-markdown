@@ -1,5 +1,7 @@
 # PDF → Markdown Evaluation
 
+[website](https://jiyouhai.github.io/pdf-to-markdown/)
+
 *Reproducible, parser-agnostic benchmarks for turning PDFs into Markdown—and measuring downstream usefulness with QA.*
 
 > This repository hosts a lightweight evaluation framework and a static site (GitHub Pages) that publishes datasets, parser outputs, and question sets (JSONL). The goal is to judge **downstream usability** (search, RAG, automation), not just visual fidelity.
