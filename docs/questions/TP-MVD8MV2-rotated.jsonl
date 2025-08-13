@@ -1,100 +1,100 @@
-{"qid": 1, "question": "What is the full model name of the camera shown on the cover?"}
-{"qid": 2, "question": "Which product series does this camera belong to?"}
-{"qid": 3, "question": "What is the marketing descriptor directly under the model name (e.g., “8MP HD …”)?"}
-{"qid": 4, "question": "According to the key features, which NVR line must this camera be used with?"}
-{"qid": 5, "question": "What is the focal length range of the motorized lens?"}
-{"qid": 6, "question": "What is the maximum resolution and frame rate available at 8MP on the main stream?"}
-{"qid": 7, "question": "What branded low-light technology is highlighted on the cover?"}
-{"qid": 8, "question": "Does the camera include a built-in microphone?"}
-{"qid": 9, "question": "What is the maximum IR illumination distance in meters and feet?"}
-{"qid": 10, "question": "What is the maximum supported microSD card capacity?"}
-{"qid": 11, "question": "What environmental and vandal ratings are listed in the key features?"}
-{"qid": 12, "question": "What is the sensor size, resolution, scan type, and sensor technology?"}
-{"qid": 13, "question": "What are the horizontal, vertical, and diagonal (O) angle-of-view ranges?"}
-{"qid": 14, "question": "What pan, tilt, and rotate adjustment ranges are specified for the turret?"}
-{"qid": 15, "question": "What is the shutter speed range (from slowest to fastest)?"}
-{"qid": 16, "question": "What is the minimum illumination in color mode (including aperture and gain condition)?"}
-{"qid": 17, "question": "What is the specified minimum illumination when IR is active?"}
-{"qid": 18, "question": "What mechanism is used for day/night switching?"}
-{"qid": 19, "question": "What types of digital noise reduction are supported?"}
-{"qid": 20, "question": "What is the minimum signal-to-noise ratio listed in dB?"}
-{"qid": 21, "question": "What IR wavelength is specified?"}
-{"qid": 22, "question": "How is IR on/off control configured (modes)?"}
-{"qid": 23, "question": "Is digital defog supported?"}
-{"qid": 24, "question": "What exact WDR value (in dB) is listed in the specifications?"}
-{"qid": 25, "question": "Which video compression formats are supported?"}
-{"qid": 26, "question": "Which H.264 profiles are explicitly listed?"}
-{"qid": 27, "question": "For the main stream, what resolutions are supported and what is the maximum fps for each?"}
-{"qid": 28, "question": "For the sub stream, list the supported resolutions and their maximum frame rates."}
-{"qid": 29, "question": "For the third stream, list the supported resolutions and their maximum frame rates."}
-{"qid": 30, "question": "What is the configurable video bit rate range?"}
-{"qid": 31, "question": "How many simultaneous OSD overlays are supported at most?"}
-{"qid": 32, "question": "How many privacy mask areas are supported?"}
-{"qid": 33, "question": "How many regions of interest (ROI) are supported?"}
-{"qid": 34, "question": "How many motion detection areas are supported?"}
-{"qid": 35, "question": "Which white balance modes are available?"}
-{"qid": 36, "question": "Is Smart IR supported?"}
-{"qid": 37, "question": "What image flip/orientation options are provided?"}
-{"qid": 38, "question": "Is dewarping supported?"}
-{"qid": 39, "question": "Is HLC (high light compensation) supported?"}
-{"qid": 40, "question": "Is BLC (back light compensation) supported?"}
-{"qid": 41, "question": "What audio codec is supported?"}
-{"qid": 42, "question": "Is two-way audio supported?"}
-{"qid": 43, "question": "Is audio noise suppression supported?"}
-{"qid": 44, "question": "What is the audio sampling rate in kHz?"}
-{"qid": 45, "question": "What type of edge storage is supported and up to what capacity?"}
-{"qid": 46, "question": "What form of network storage resilience is supported?"}
-{"qid": 47, "question": "Which smart intrusion prevention analytics are listed?"}
-{"qid": 48, "question": "Which Turing SMART NVR models are listed as compatible?"}
-{"qid": 49, "question": "Which basic event detections are listed?"}
-{"qid": 50, "question": "Name three general security/control functions from the specifications."}
-{"qid": 51, "question": "Which IP networking and transport protocols are explicitly listed (name at least five)?"}
-{"qid": 52, "question": "Which ONVIF profiles are listed for compatible integration?"}
-{"qid": 53, "question": "For live view in a web browser, which browsers and versions require a plug-in?"}
-{"qid": 54, "question": "Is a built-in microphone listed in the interfaces section?"}
-{"qid": 55, "question": "What is the network interface type and speed?"}
-{"qid": 56, "question": "Which safety/EMC regulatory certifications are shown?"}
-{"qid": 57, "question": "What power inputs are supported (including PoE standard)?"}
-{"qid": 58, "question": "What is the maximum power consumption in watts?"}
-{"qid": 59, "question": "What are the physical dimensions (diameter and height) in millimeters and inches?"}
-{"qid": 60, "question": "What is the net weight in kilograms and pounds?"}
-{"qid": 61, "question": "What is the chassis material?"}
-{"qid": 62, "question": "What is the operating temperature range in °C and °F?"}
-{"qid": 63, "question": "What is the maximum operating humidity rating and condition (e.g., non-condensing)?"}
-{"qid": 64, "question": "What is the storage temperature range and humidity rating?"}
-{"qid": 65, "question": "What surge protection level (in kV) is specified?"}
-{"qid": 66, "question": "What ingress protection rating is listed?"}
-{"qid": 67, "question": "What vandal resistance rating is listed?"}
-{"qid": 68, "question": "Is a hardware reset button supported?"}
-{"qid": 69, "question": "What model name appears at the top of the specifications table on page 2, and how does it differ from the model name elsewhere?"}
-{"qid": 70, "question": "On the dimensions diagram (page 3), what is the labeled diameter (DIA.) value shown for the base, including both metric and imperial units?"}
-{"qid": 71, "question": "According to the dimensions diagram (page 3), what is the height of the turret body in millimeters and inches?"}
-{"qid": 72, "question": "According to the dimensions diagram (page 3), how many mounting holes are shown and what is their diameter?"}
-{"qid": 73, "question": "Which wall-mount accessory is listed, and what is its part number?"}
-{"qid": 74, "question": "Which wall-mount option that uses a junction box is listed, and what is its part number?"}
-{"qid": 75, "question": "Which pole-mount accessory is listed, and what is its part number?"}
-{"qid": 76, "question": "Which pendant mount accessory is listed, and what is its part number?"}
-{"qid": 77, "question": "Which junction box accessory is listed, and what is its part number?"}
-{"qid": 78, "question": "Which optional cable gland is listed, and what is its part number?"}
-{"qid": 79, "question": "What optional pendant extension part numbers are listed, and what are their lengths?"}
-{"qid": 80, "question": "According to the cover, what company website is provided?"}
-{"qid": 81, "question": "According to the cover, what sales email address is provided?"}
-{"qid": 82, "question": "According to the cover, what phone number is provided for contact?"}
-{"qid": 83, "question": "What brand name is printed on the camera rendering on the cover and diagrams?"}
-{"qid": 84, "question": "What is the maximum frame rate for 5MP resolution on the main stream?"}
-{"qid": 85, "question": "What is the maximum frame rate for 4MP resolution on the main stream?"}
-{"qid": 86, "question": "What is the horizontal viewing angle at the widest focal length?"}
-{"qid": 87, "question": "What is the vertical viewing angle at the longest focal length?"}
-{"qid": 88, "question": "What tilt angle limit (in degrees) is specified—does it reach 90°?"}
-{"qid": 89, "question": "What is the meaning of “AF” in the lens description, and how is it supported here?"}
-{"qid": 90, "question": "What is the IR cut filter type acronym used for day/night switching?"}
-{"qid": 91, "question": "In addition to IP67, what vandal or impact rating is specified?"}
-{"qid": 92, "question": "Does the specifications table mention “Ultra 265” in addition to H.265?"}
-{"qid": 93, "question": "Which authentication mechanisms are mentioned in the general function list?"}
-{"qid": 94, "question": "What access-control or network protection items are listed besides authentication (name two)?"}
-{"qid": 95, "question": "What range of DC input voltage tolerance is specified around 12V?"}
-{"qid": 96, "question": "Which page lists the mounting accessories and which shows the dimensions drawing?"}
-{"qid": 97, "question": "Which page contains the detailed specifications table?"}
-{"qid": 98, "question": "What is the stated brand name of the low-light feature next to the checkmarks on page 1?"}
-{"qid": 99, "question": "Which three environmental or durability ratings are called out on the cover with checkmarks?"}
-{"qid": 100, "question": "Which IEEE standard is cited for PoE support?"}
+{"qid": 1, "question": "What is the full model and product type?", "answer": "TP‑MVD8MV2 — an 8MP HD TwilightVision™ IR VF Turret Network Camera.", "page_hint": "p.1"}
+{"qid": 2, "question": "Does this camera work with Turing SMART Series NVR and Turing Vision Cloud?", "answer": "Yes. It is to be used with SMART Series NVR with Turing Vision Cloud, and it is compatible with Turing SMART NVR TR‑MR(P) models.", "page_hint": "p.1, p.2"}
+{"qid": 3, "question": "What lens does it use?", "answer": "A 2.8–12 mm motorized zoom lens with AF (automatic focusing).", "page_hint": "p.1, p.2"}
+{"qid": 4, "question": "What is the maximum resolution and frame rate on the main stream?", "answer": "8MP (3840×2160) at up to 20 fps.", "page_hint": "p.1, p.2"}
+{"qid": 5, "question": "What are the other main‑stream options besides 8MP?", "answer": "5MP (3072×1728) up to 30 fps; 4MP (2560×1440) up to 30 fps; 1080p (1920×1080) up to 30 fps.", "page_hint": "p.2"}
+{"qid": 6, "question": "What sensor size and type does the camera use?", "answer": "1/2.8\" 8.0‑megapixel progressive‑scan CMOS.", "page_hint": "p.2"}
+{"qid": 7, "question": "Is there a built‑in microphone?", "answer": "Yes, a built‑in mic is supported.", "page_hint": "p.1, p.2"}
+{"qid": 8, "question": "How far does the IR illumination reach?", "answer": "Up to 40 m (131 ft).", "page_hint": "p.1, p.2"}
+{"qid": 9, "question": "How well does it perform in low light?", "answer": "It features TwilightVision™ for superior low‑light performance; minimum color illumination is 0.003 Lux (F1.6, AGC ON) and 0 Lux with IR.", "page_hint": "p.1, p.2"}
+{"qid": 10, "question": "What wide dynamic range (WDR) value is specified?", "answer": "120 dB WDR.", "page_hint": "p.2"}
+{"qid": 11, "question": "What is the IR wavelength?", "answer": "850 nm.", "page_hint": "p.2"}
+{"qid": 12, "question": "What horizontal angle‑of‑view range does the lens provide?", "answer": "Approximately 107.4° to 29.2° (wide to tele).", "page_hint": "p.2"}
+{"qid": 13, "question": "What vertical angle‑of‑view range does the lens provide?", "answer": "Approximately 54.2° to 16.3° (wide to tele).", "page_hint": "p.2"}
+{"qid": 14, "question": "What diagonal angle‑of‑view (O) range is listed?", "answer": "Approximately 111.0° to 33.1°.", "page_hint": "p.2"}
+{"qid": 15, "question": "How can the camera be mechanically adjusted after mounting?", "answer": "Pan 0°–360°, tilt 0°–75°, rotate 0°–360°.", "page_hint": "p.2"}
+{"qid": 16, "question": "What is the shutter speed range?", "answer": "1 s to 1/100000 s (auto or manual).", "page_hint": "p.2"}
+{"qid": 17, "question": "What is the specified signal‑to‑noise ratio (S/N)?", "answer": ">56 dB.", "page_hint": "p.2"}
+{"qid": 18, "question": "How does day/night switching work?", "answer": "Via an IR‑cut filter with auto switch (ICR).", "page_hint": "p.2"}
+{"qid": 19, "question": "What digital noise reduction modes are supported?", "answer": "2D and 3D DNR.", "page_hint": "p.2"}
+{"qid": 20, "question": "How is the IR turned on or off?", "answer": "IR on/off control supports Auto or Manual.", "page_hint": "p.2"}
+{"qid": 21, "question": "Is digital defog available?", "answer": "Yes, Digital Defog is supported.", "page_hint": "p.2"}
+{"qid": 22, "question": "Which video compression formats are supported?", "answer": "Ultra 265, H.265, H.264, and MJPEG.", "page_hint": "p.2"}
+{"qid": 23, "question": "Which H.264 profiles are listed?", "answer": "Baseline Profile and Main Profile.", "page_hint": "p.2"}
+{"qid": 24, "question": "What sub‑stream resolutions and frame rates are available?", "answer": "1080p, 720p, D1 (720×576), 640×360, 2CIF (704×288), CIF (352×288) — each up to 30 fps.", "page_hint": "p.2"}
+{"qid": 25, "question": "What third‑stream options are available?", "answer": "D1 (720×576), 640×360, 2CIF (704×288), CIF (352×288) — each up to 30 fps.", "page_hint": "p.2"}
+{"qid": 26, "question": "What is the configurable video bit‑rate range?", "answer": "128 Kbps to 16 Mbps.", "page_hint": "p.2"}
+{"qid": 27, "question": "How many on‑screen displays (OSDs) can be shown?", "answer": "Up to 8 OSDs.", "page_hint": "p.2"}
+{"qid": 28, "question": "How many privacy mask areas can be set?", "answer": "Up to 4 areas.", "page_hint": "p.2"}
+{"qid": 29, "question": "How many ROI regions are supported?", "answer": "Up to 8 areas.", "page_hint": "p.2"}
+{"qid": 30, "question": "How many motion‑detection areas are supported?", "answer": "Up to 4 areas.", "page_hint": "p.2"}
+{"qid": 31, "question": "Which white balance modes are available?", "answer": "Auto, Outdoor, Fine Tune, Sodium Lamp, Locked, and Auto2.", "page_hint": "p.2"}
+{"qid": 32, "question": "Is Smart IR supported?", "answer": "Yes, Smart IR is supported.", "page_hint": "p.2"}
+{"qid": 33, "question": "What image flip/orientation options are available?", "answer": "Normal, Vertical, Horizontal, 180°, 90° clockwise, and 90° anti‑clockwise.", "page_hint": "p.2"}
+{"qid": 34, "question": "Is dewarping supported?", "answer": "Yes, dewarping is supported.", "page_hint": "p.2"}
+{"qid": 35, "question": "Does the camera support HLC (high light compensation)?", "answer": "Yes, HLC is supported.", "page_hint": "p.2"}
+{"qid": 36, "question": "Does the camera support BLC (back light compensation)?", "answer": "Yes, BLC is supported.", "page_hint": "p.2"}
+{"qid": 37, "question": "What audio codec does it use?", "answer": "G.711.", "page_hint": "p.2"}
+{"qid": 38, "question": "Is two‑way audio supported?", "answer": "Yes, two‑way audio is supported.", "page_hint": "p.2"}
+{"qid": 39, "question": "Is audio noise suppression supported?", "answer": "Yes, suppression is supported.", "page_hint": "p.2"}
+{"qid": 40, "question": "What is the audio sampling rate?", "answer": "8 kHz.", "page_hint": "p.2"}
+{"qid": 41, "question": "What kind of edge storage is supported and up to what capacity?", "answer": "MicroSD card storage up to 256 GB.", "page_hint": "p.1, p.2"}
+{"qid": 42, "question": "Does it support ANR (Automatic Network Replenishment)?", "answer": "Yes, ANR network storage is supported.", "page_hint": "p.2"}
+{"qid": 43, "question": "What smart intrusion‑prevention analytics are included?", "answer": "Cross‑line, intrusion, and enter‑area detection.", "page_hint": "p.2"}
+{"qid": 44, "question": "Which basic event detections are supported?", "answer": "Motion detection, tampering alarm, and audio detection.", "page_hint": "p.2"}
+{"qid": 45, "question": "Which general security/control features are listed?", "answer": "Watermark, IP address filtering, tampering alarm, alarm input/output, access policy, ARP protection, RTSP authentication, and user authentication.", "page_hint": "p.2"}
+{"qid": 46, "question": "Which network protocols are supported?", "answer": "IPv4, IGMP, ICMP, ARP, TCP, UDP, DHCP, PPPoE, RTP, RTSP, RTCP, DNS, DDNS, NTP, FTP, UPnP, HTTP, HTTPS, SMTP, 802.1x, SNMP, and QoS.", "page_hint": "p.2"}
+{"qid": 47, "question": "Which ONVIF profiles are supported for integration?", "answer": "ONVIF Profiles S, G, and T (plus API support).", "page_hint": "p.2"}
+{"qid": 48, "question": "Do web browsers require a plug‑in for live view?", "answer": "A plug‑in is required for IE9+, Chrome 41 and below, and Firefox 52 and below.", "page_hint": "p.2"}
+{"qid": 49, "question": "What network interface is provided?", "answer": "1× RJ45 10/100 Base‑TX Ethernet.", "page_hint": "p.2"}
+{"qid": 50, "question": "What power options are supported?", "answer": "DC 12V ±25% and PoE (IEEE 802.3af).", "page_hint": "p.2"}
+{"qid": 51, "question": "What is the maximum power consumption?", "answer": "Up to 9.0 W.", "page_hint": "p.2"}
+{"qid": 52, "question": "What are the dimensions (diameter × height)?", "answer": "Φ129 × 110 mm (Φ5.1\" × 4.3\").", "page_hint": "p.2"}
+{"qid": 53, "question": "What is the net weight?", "answer": "0.69 kg (1.52 lb).", "page_hint": "p.2"}
+{"qid": 54, "question": "What is the housing material?", "answer": "Metal.", "page_hint": "p.2"}
+{"qid": 55, "question": "What operating temperature and humidity are supported?", "answer": "−30°C to 60°C (−22°F to 140°F); ≤95% RH (non‑condensing).", "page_hint": "p.2"}
+{"qid": 56, "question": "What storage temperature and humidity are supported?", "answer": "−30°C to 60°C (−22°F to 140°F); ≤95% RH (non‑condensing).", "page_hint": "p.2"}
+{"qid": 57, "question": "What surge protection level is specified?", "answer": "6 kV.", "page_hint": "p.2"}
+{"qid": 58, "question": "What ingress protection rating does it have?", "answer": "IP67.", "page_hint": "p.1, p.2"}
+{"qid": 59, "question": "What vandal‑resistance rating does it have?", "answer": "IK10.", "page_hint": "p.1, p.2"}
+{"qid": 60, "question": "Is there a hardware reset button?", "answer": "Yes, a reset button is supported.", "page_hint": "p.2"}
+{"qid": 61, "question": "Which certifications are listed?", "answer": "CE (EN 60950‑1), UL (UL60950‑1), and FCC (FCC Part 15).", "page_hint": "p.2"}
+{"qid": 62, "question": "What is the company website shown on the datasheet?", "answer": "turing.ai.", "page_hint": "p.1–3 footers"}
+{"qid": 63, "question": "What sales email is provided?", "answer": "sales@turingvideo.com.", "page_hint": "p.1–3 footers"}
+{"qid": 64, "question": "What phone number is provided for contact?", "answer": "(877) 730‑8222.", "page_hint": "p.1–3 footers"}
+{"qid": 65, "question": "How many simultaneous video streams are available?", "answer": "Three streams: main, sub, and third.", "page_hint": "p.2"}
+{"qid": 66, "question": "What are the day/night switch modes?", "answer": "IR‑cut filter with auto switch (ICR).", "page_hint": "p.2"}
+{"qid": 67, "question": "Does the camera support HTTPS and 802.1x?", "answer": "Yes, both HTTPS and 802.1x are supported.", "page_hint": "p.2"}
+{"qid": 68, "question": "Is SNMP supported for monitoring?", "answer": "Yes, SNMP is listed among supported protocols.", "page_hint": "p.2"}
+{"qid": 69, "question": "Is UPnP supported?", "answer": "Yes, UPnP is supported.", "page_hint": "p.2"}
+{"qid": 70, "question": "Does it support DHCP and PPPoE?", "answer": "Yes, both DHCP and PPPoE are supported.", "page_hint": "p.2"}
+{"qid": 71, "question": "Are RTP/RTSP/RTCP supported for streaming?", "answer": "Yes, RTP, RTSP, and RTCP are supported.", "page_hint": "p.2"}
+{"qid": 72, "question": "Are DNS and DDNS supported?", "answer": "Yes, both DNS and DDNS are supported.", "page_hint": "p.2"}
+{"qid": 73, "question": "What browser versions are explicitly mentioned for plug‑in live view?", "answer": "IE9+, Chrome 41 and below, and Firefox 52 and below.", "page_hint": "p.2"}
+{"qid": 74, "question": "What mounting accessories are offered for wall installation?", "answer": "Wall Mount TP‑VDWM and Wall Mount with Junction Box TP‑VDWJ.", "page_hint": "p.3"}
+{"qid": 75, "question": "What accessory is used for pole mounting?", "answer": "Pole Mount TP‑UDPM.", "page_hint": "p.3"}
+{"qid": 76, "question": "What accessory is used for pendant mounting?", "answer": "Pendant Mount TP‑AIPMB.", "page_hint": "p.3"}
+{"qid": 77, "question": "What junction box part number is shown?", "answer": "TP‑VDJB.", "page_hint": "p.3"}
+{"qid": 78, "question": "Is there an optional cable gland?", "answer": "Yes, optional cable gland TP‑UWPJ.", "page_hint": "p.3"}
+{"qid": 79, "question": "Are pendant extensions available?", "answer": "Yes — TP‑IPME2 (9\") and TP‑IPME5 (22\").", "page_hint": "p.3"}
+{"qid": 80, "question": "How many mounting holes are shown on the base and what is their size?", "answer": "Three mounting holes, each about 4.5 mm (0.2\").", "page_hint": "p.3 (diagram)"}
+{"qid": 81, "question": "What is the listed IR range in both metric and imperial units?", "answer": "Up to 40 m (131 ft).", "page_hint": "p.1, p.2"}
+{"qid": 82, "question": "What is the minimum illumination with IR on?", "answer": "0 Lux with IR.", "page_hint": "p.2"}
+{"qid": 83, "question": "Which image enhancement options help with backlighting and highlights?", "answer": "WDR (120 dB), BLC, and HLC.", "page_hint": "p.2"}
+{"qid": 84, "question": "Which compression provides the highest efficiency listed?", "answer": "Ultra 265.", "page_hint": "p.2"}
+{"qid": 85, "question": "What are the supported main‑stream resolutions and their max frame rates (summary)?", "answer": "8MP at 20 fps; 5MP, 4MP, and 1080p each up to 30 fps.", "page_hint": "p.2"}
+{"qid": 86, "question": "Does the camera support ROI and privacy masking together?", "answer": "Yes — up to 8 ROI areas and up to 4 privacy mask areas.", "page_hint": "p.2"}
+{"qid": 87, "question": "What is the Ethernet speed on the RJ45 port?", "answer": "10/100 Mbps.", "page_hint": "p.2"}
+{"qid": 88, "question": "Does the camera support two‑way audio over the network?", "answer": "Yes, two‑way audio is supported.", "page_hint": "p.2"}
+{"qid": 89, "question": "Which authentication methods for streaming are mentioned?", "answer": "RTSP authentication and user authentication.", "page_hint": "p.2"}
+{"qid": 90, "question": "What protective ratings make it suitable for outdoor use?", "answer": "IP67 ingress protection and IK10 vandal resistance.", "page_hint": "p.1, p.2"}
+{"qid": 91, "question": "Does it include a reset option for troubleshooting?", "answer": "Yes, a reset button is supported.", "page_hint": "p.2"}
+{"qid": 92, "question": "What is the maximum microSD capacity the camera can handle?", "answer": "Up to 256 GB.", "page_hint": "p.1, p.2"}
+{"qid": 93, "question": "What is the listed company brand feature for low light?", "answer": "TwilightVision™ technology.", "page_hint": "p.1"}
+{"qid": 94, "question": "What are the recommended NVR models for best compatibility?", "answer": "Turing SMART NVR TR‑MR(P) models.", "page_hint": "p.2"}
+{"qid": 95, "question": "Does the camera support QoS on the network?", "answer": "Yes, QoS is supported.", "page_hint": "p.2"}
+{"qid": 96, "question": "Is there support for alarm input and output?", "answer": "Yes, alarm input and alarm output are listed under general functions.", "page_hint": "p.2"}
+{"qid": 97, "question": "Which streaming protocols are available for live video?", "answer": "RTP/RTSP/RTCP, plus HTTP/HTTPS for access.", "page_hint": "p.2"}
+{"qid": 98, "question": "What horizontal FOV do you get at the widest end of the lens?", "answer": "About 107.4°.", "page_hint": "p.2"}
+{"qid": 99, "question": "What is the vertical FOV at the longest focal length?", "answer": "About 16.3°.", "page_hint": "p.2"}
+{"qid": 100, "question": "What makes this model a good outdoor turret option at a glance?", "answer": "8MP resolution, TwilightVision™ low‑light performance, built‑in mic, Smart IR to 40 m, microSD up to 256 GB, IP67/IK10, and 120 dB WDR.", "page_hint": "p.1–2"}
