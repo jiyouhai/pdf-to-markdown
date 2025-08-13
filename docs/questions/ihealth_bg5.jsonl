@@ -1,100 +1,100 @@
-{"qid": 1, "question": "What is the full product name and model number stated on the manual’s cover?"}
-{"qid": 2, "question": "List all items included in the package contents for the BG5 kit."}
-{"qid": 3, "question": "Which accessories in the package are marked as “may vary by geographic market”?"}
-{"qid": 4, "question": "Which iPhone models are explicitly listed as compatible with the BG5?"}
-{"qid": 5, "question": "Which iPad models are explicitly listed as compatible with the BG5?"}
-{"qid": 6, "question": "Which iPod touch models are explicitly listed as compatible with the BG5?"}
-{"qid": 7, "question": "What is the minimum iOS version required to use the BG5?"}
-{"qid": 8, "question": "For what types of samples and users is the BG5 intended (include sample type and single-patient use guidance)?"}
-{"qid": 9, "question": "According to “Intended Use,” name two purposes for which the BG5 should not be used."}
-{"qid": 10, "question": "What warning is given about using Alternate Site Testing (AST) to calibrate CGMs or for insulin dosing?"}
-{"qid": 11, "question": "Define Alternate Site Testing (AST) as described in the manual."}
-{"qid": 12, "question": "List all five body sites (other than the fingertip) permitted for AST with the BG5."}
-{"qid": 13, "question": "What are the three “steady-state” situations when AST is suitable?"}
-{"qid": 14, "question": "Name four situations when AST should not be used (e.g., suspected hypoglycemia)."}
-{"qid": 15, "question": "Briefly describe how the BG5 measures glucose (“How the test works?” section)."}
-{"qid": 16, "question": "What are two general “Important Safety Instructions” about device sharing and liquids?"}
-{"qid": 17, "question": "What caution is given about use near aerosol sprays or oxygen administration?"}
-{"qid": 18, "question": "What does the manual advise about blocking test ports or placing the meter on soft surfaces?"}
-{"qid": 19, "question": "State two “Important Testing Information” cautions related to dehydration and symptoms inconsistent with readings."}
-{"qid": 20, "question": "What sample type is required for testing (include “fresh” and “capillary” qualifiers)?"}
-{"qid": 21, "question": "What symbol appears on the meter when it is connected to an iOS device via Bluetooth?"}
-{"qid": 22, "question": "Where are the Memory Button and Eject Button located on the device housing?"}
-{"qid": 23, "question": "What is the function of the Mini USB port?"}
-{"qid": 24, "question": "Name the four labeled parts of the blood glucose test strip."}
-{"qid": 25, "question": "Which brand/model of test strips must be used with the BG5?"}
-{"qid": 26, "question": "What message accompanies the CTL symbol on the display regarding memory storage?"}
-{"qid": 27, "question": "What two measurement units can the meter display with results?"}
-{"qid": 28, "question": "What does the flashing “blood drop” (Blood Sample Symbol) indicate?"}
-{"qid": 29, "question": "Before first use, how is the meter time set and saved?"}
-{"qid": 30, "question": "In setup, how long should you press and hold the Memory Button to power on for Bluetooth pairing?"}
-{"qid": 31, "question": "What Bluetooth device name appears during pairing (format shown in the manual)?"}
-{"qid": 32, "question": "What is the purpose of scanning the two-dimensional code on the test strip vial?"}
-{"qid": 33, "question": "In offline mode, what starts automatically when the confirmation window is filled?"}
-{"qid": 34, "question": "In offline mode, when does the result appear and where is it shown?"}
-{"qid": 35, "question": "In online mode, what cue tells you to remove the strip from the blood sample?"}
-{"qid": 36, "question": "In online mode, where are results displayed?"}
-{"qid": 37, "question": "What reminder does the manual give about plasma calibration of results (and why it matters)?"}
-{"qid": 38, "question": "What steps does the manual give for safely discarding used test strips?"}
-{"qid": 39, "question": "What steps does the manual give for safely discarding used lancets?"}
-{"qid": 40, "question": "Under what circumstances does the manual urge consulting a healthcare professional after getting results?"}
-{"qid": 41, "question": "When should a Control Solution test be performed? List at least five triggers from the manual."}
-{"qid": 42, "question": "For an offline Control Solution test, how do you enter CTL mode and what does it change?"}
-{"qid": 43, "question": "For the Control Solution drop, which drop is recommended for use and why?"}
-{"qid": 44, "question": "What specific instruction is given to avoid contaminating the Control Solution vial?"}
-{"qid": 45, "question": "Where should the Control Solution result fall, and where is that range printed?"}
-{"qid": 46, "question": "List four possible causes when a Control Solution result is out of the specified range."}
-{"qid": 47, "question": "What phone number is provided for iHealth Labs Customer Service in the U.S.?"}
-{"qid": 48, "question": "In the online Control Solution workflow, how do you switch the app to CTL mode?"}
-{"qid": 49, "question": "What warning does the manual give about mistakenly saving Control Solution tests as regular tests?"}
-{"qid": 50, "question": "How many blood-glucose results (with date/time) can the meter store in memory?"}
-{"qid": 51, "question": "How do you review stored results on the meter, and what appears when you reach the last result?"}
-{"qid": 52, "question": "What auto-off behavior is described when the meter is idle in memory mode?"}
-{"qid": 53, "question": "According to the “Reference Value” table, what fasting/pre-meal glucose value is considered normal for people without diabetes?"}
-{"qid": 54, "question": "According to the same table, what value is considered normal two hours after meals for people without diabetes?"}
-{"qid": 55, "question": "What three “Before Going to the Lab” steps are listed for comparing meter and lab results?"}
-{"qid": 56, "question": "During lab comparison, within what time frame should both samples be taken?"}
-{"qid": 57, "question": "Name two sample-handling cautions given under “While at the Lab” (e.g., no test-tube blood)."}
-{"qid": 58, "question": "Why might results from the BG5 differ from laboratory results, according to the manual?"}
-{"qid": 59, "question": "Which disinfectant product (brand and EPA registration) does the manual recommend for cleaning the meter and lancing device?"}
-{"qid": 60, "question": "After wiping, how long should the surface remain wet to meet the disinfection contact time?"}
-{"qid": 61, "question": "How many cleaning+disinfection cycles does the manual estimate over a five-year life if used 5–6 times/day?"}
-{"qid": 62, "question": "What explicit warning is given about inserting disinfecting wipes into the strip port or metal connector?"}
-{"qid": 63, "question": "List the two public-health links (FDA and CDC topics) cited in the cleaning section and summarize their caution in one phrase."}
-{"qid": 64, "question": "What is the BG5’s measuring method (enzyme and technique)?"}
-{"qid": 65, "question": "What is the BG5’s result range in mg/dL and mmol/L?"}
-{"qid": 66, "question": "What is the stated power source specification (voltage and battery capacity)?"}
-{"qid": 67, "question": "What Bluetooth version/class/profile and frequency band are listed in the specifications?"}
-{"qid": 68, "question": "What storage conditions are specified for test strips (temperature and humidity)?"}
-{"qid": 69, "question": "What storage conditions are specified for the meter (temperature and humidity)?"}
-{"qid": 70, "question": "What operating temperature range is specified for the meter?"}
-{"qid": 71, "question": "What is the minimum blood volume required for a measurement?"}
-{"qid": 72, "question": "What is the stated lifespan of the meter?"}
-{"qid": 73, "question": "Up to what altitude can the BG5 be used? Provide both meters and feet as printed."}
-{"qid": 74, "question": "Which interfering substances (name at least three) may affect results by >10% at high levels?"}
-{"qid": 75, "question": "Name at least four patient conditions under “Limitations of Use” where the BG5 should not be used or results may be inaccurate."}
-{"qid": 76, "question": "What caution does the manual give about extreme hematocrit levels?"}
-{"qid": 77, "question": "What caution does the manual give regarding oxygen therapy?"}
-{"qid": 78, "question": "What two messages correspond to results below 20 mg/dL and above 600 mg/dL, respectively?"}
-{"qid": 79, "question": "What action is advised when the result indicates severe hyperglycemia?"}
-{"qid": 80, "question": "Which error message indicates the battery has insufficient power, and what is the advised action?"}
-{"qid": 81, "question": "What environmental temperature triggers the “too low” error, and what should the user do?"}
-{"qid": 82, "question": "What environmental temperature triggers the “too high” error, and what should the user do?"}
-{"qid": 83, "question": "Which error message indicates that the meter’s time has not been set, and what is the fix?"}
-{"qid": 84, "question": "What error is associated with problems related to test strip use, and what is the remedy?"}
-{"qid": 85, "question": "In troubleshooting, list three causes of inconsistent test results or out-of-range Control Solution results."}
-{"qid": 86, "question": "In troubleshooting, what are the four solutions suggested for inconsistent results/out-of-range CS tests?"}
-{"qid": 87, "question": "What are the three possible causes when the countdown does not start, and what’s the remedy?"}
-{"qid": 88, "question": "What three causes are listed if the display remains blank after insertion of a strip, and what’s the first remedy?"}
-{"qid": 89, "question": "What does the manual recommend about periodic comparison of the BG5 with another provider-maintained system?"}
-{"qid": 90, "question": "What physical signs of device deterioration are listed, and what action is recommended if they appear?"}
-{"qid": 91, "question": "What guidance is given about handling the meter (dropping/throwing) under “Maintenance and Storage”?"}
-{"qid": 92, "question": "What patient populations or sample types are explicitly excluded (e.g., newborns, arterial blood)?"}
-{"qid": 93, "question": "What are the recommended user hand-hygiene steps before handling the meter and strips?"}
-{"qid": 94, "question": "Which symbols on the “Parts and Display Indicators” page correspond to low battery, CTL mode, and measurement units? (Name each symbol’s meaning.)"}
-{"qid": 95, "question": "What note is repeated in both testing modes about comparing plasma-calibrated meter results to lab tests?"}
-{"qid": 96, "question": "What brand and model of control solution is referenced, and where can additional control solution be obtained?"}
-{"qid": 97, "question": "Which sections provide the U.S. and EU contact details for iHealth (company names and locations)?"}
-{"qid": 98, "question": "Summarize the FCC Part 15 two operating conditions the device must comply with."}
-{"qid": 99, "question": "What interference-mitigation steps does the FCC section recommend if the device disrupts radio/TV reception?"}
-{"qid": 100, "question": "Which Apple “Made for” marks are listed, and what disclaimer is provided about Apple’s responsibility and wireless performance?"}
+{"qid": 1, "question": "What kind of blood sample does the BG5 require?", "answer": "Fresh capillary whole blood from the fingertip, palm, forearm, upper arm, calf, or thigh; single‑patient use only.", "source": "ihealth_bg5.pdf p.3 :contentReference[oaicite:0]{index=0}"}
+{"qid": 2, "question": "Can I use this meter to diagnose diabetes or for newborns?", "answer": "No. It is not for diagnosis or screening and not for neonatal use.", "source": "ihealth_bg5.pdf p.3 :contentReference[oaicite:1]{index=1}"}
+{"qid": 3, "question": "Which iPhone models are listed as compatible with BG5?", "answer": "iPhone 5, iPhone 4S, and iPhone 4.", "source": "ihealth_bg5.pdf p.3 :contentReference[oaicite:2]{index=2}"}
+{"qid": 4, "question": "Which iPad and iPod touch models are listed as compatible?", "answer": "iPad mini, iPad 4, iPad 3, iPad 2; iPod touch (4th and 5th generation).", "source": "ihealth_bg5.pdf p.3 :contentReference[oaicite:3]{index=3}"}
+{"qid": 5, "question": "What is the minimum iOS version required?", "answer": "iOS 5.0 or higher.", "source": "ihealth_bg5.pdf p.3 :contentReference[oaicite:4]{index=4}"}
+{"qid": 6, "question": "What does Alternate Site Testing (AST) mean here?", "answer": "Self‑monitoring using a blood sample from sites other than fingertips (palm, forearm, upper arm, calf, or thigh).", "source": "ihealth_bg5.pdf p.5 :contentReference[oaicite:5]{index=5}"}
+{"qid": 7, "question": "When is AST appropriate?", "answer": "During steady‑state periods such as pre‑meal/fasting, 2+ hours after taking insulin, or 2+ hours after exercise.", "source": "ihealth_bg5.pdf p.7 :contentReference[oaicite:6]{index=6}"}
+{"qid": 8, "question": "When should I avoid AST?", "answer": "If you think glucose is low, suspect hypoglycemia, are testing for hyperglycemia, your results fluctuate often, or you are pregnant.", "source": "ihealth_bg5.pdf p.7 :contentReference[oaicite:7]{index=7}"}
+{"qid": 9, "question": "Can AST readings be used to calibrate a CGM or to dose insulin?", "answer": "No. Do not use AST to calibrate CGMs or for insulin dosing.", "source": "ihealth_bg5.pdf p.7 :contentReference[oaicite:8]{index=8}"}
+{"qid": 10, "question": "What is the advantage of AST?", "answer": "Less pain because non‑finger sites have fewer nerve endings.", "source": "ihealth_bg5.pdf p.6 :contentReference[oaicite:9]{index=9}"}
+{"qid": 11, "question": "How does the BG5 measure glucose?", "answer": "It measures electrical current created when glucose reacts with the strip reagent, then converts that current to a glucose value.", "source": "ihealth_bg5.pdf p.4 :contentReference[oaicite:10]{index=10}"}
+{"qid": 12, "question": "What key safety rule applies to sharing the meter or lancing device?", "answer": "Do not share—single‑patient use only.", "source": "ihealth_bg5.pdf p.4 :contentReference[oaicite:11]{index=11}"}
+{"qid": 13, "question": "What environments should I avoid while using the meter?", "answer": "Avoid liquids, hot surfaces, aerosol sprays, and areas where oxygen is being administered.", "source": "ihealth_bg5.pdf p.4 :contentReference[oaicite:12]{index=12}"}
+{"qid": 14, "question": "What should I do if results seem unusual or don’t match how I feel?", "answer": "Repeat the test. If still unusual or if you have symptoms, follow your healthcare professional’s advice.", "source": "ihealth_bg5.pdf p.4 :contentReference[oaicite:13]{index=13}"}
+{"qid": 15, "question": "What type of blood must I use for testing?", "answer": "Only fresh whole blood (capillary).", "source": "ihealth_bg5.pdf p.4 :contentReference[oaicite:14]{index=14}"}
+{"qid": 16, "question": "Which test strips are approved for BG5?", "answer": "iHealth AGS‑1000I Blood Glucose Test Strips; single‑use only.", "source": "ihealth_bg5.pdf p.9,p.13 :contentReference[oaicite:15]{index=15}"}
+{"qid": 17, "question": "What does the flashing blood‑drop icon mean?", "answer": "The meter is ready for you to apply a blood sample.", "source": "ihealth_bg5.pdf p.9 (display legend on p.6 image) :contentReference[oaicite:16]{index=16}"}
+{"qid": 18, "question": "What does the CTL symbol indicate?", "answer": "Control Solution test mode—this result will not be stored in memory.", "source": "ihealth_bg5.pdf p.6,p.9 :contentReference[oaicite:17]{index=17}"}
+{"qid": 19, "question": "Which measurement units can the meter display?", "answer": "mg/dL or mmol/L.", "source": "ihealth_bg5.pdf p.6 :contentReference[oaicite:18]{index=18}"}
+{"qid": 20, "question": "How do I set the meter time the first time I use it?", "answer": "Connect the meter to your iOS device via Bluetooth; time settings are saved to the meter.", "source": "ihealth_bg5.pdf p.9 :contentReference[oaicite:19]{index=19}"}
+{"qid": 21, "question": "How do I put the meter in Bluetooth pairing mode?", "answer": "Hold the Memory Button for about 3 seconds to turn it on, then pair to “BG5xxxxxx” from your device’s Bluetooth menu.", "source": "ihealth_bg5.pdf p.10 :contentReference[oaicite:20]{index=20}"}
+{"qid": 22, "question": "What does the Bluetooth icon on the meter mean?", "answer": "The meter is connected to an iOS device via Bluetooth.", "source": "ihealth_bg5.pdf p.6,p.10 :contentReference[oaicite:21]{index=21}"}
+{"qid": 23, "question": "Why scan the two‑dimensional code on the strip vial?", "answer": "To help the app manage your test strips after Bluetooth connection.", "source": "ihealth_bg5.pdf p.10 :contentReference[oaicite:22]{index=22}"}
+{"qid": 24, "question": "Are BG5 results plasma‑calibrated?", "answer": "Yes—so you and your provider can compare them with lab tests.", "source": "ihealth_bg5.pdf p.11,p.13 :contentReference[oaicite:23]{index=23}"}
+{"qid": 25, "question": "Can I test without connecting to my phone?", "answer": "Yes. In offline mode the meter displays and stores the result.", "source": "ihealth_bg5.pdf p.10–11 :contentReference[oaicite:24]{index=24}"}
+{"qid": 26, "question": "How do I know when to remove the strip from the blood sample in online mode?", "answer": "Your iOS device will beep to cue removal.", "source": "ihealth_bg5.pdf p.13 :contentReference[oaicite:25]{index=25}"}
+{"qid": 27, "question": "Where are results shown in online mode?", "answer": "On the iOS device screen.", "source": "ihealth_bg5.pdf p.13 :contentReference[oaicite:26]{index=26}"}
+{"qid": 28, "question": "How do I eject and dispose of used test strips?", "answer": "Press and hold the Eject Button to release the strip; discard it in a waste container.", "source": "ihealth_bg5.pdf p.11,p.13 :contentReference[oaicite:27]{index=27}"}
+{"qid": 29, "question": "How should I dispose of used lancets?", "answer": "Place in a sharps container and wash hands thoroughly afterward.", "source": "ihealth_bg5.pdf p.12–13 :contentReference[oaicite:28]{index=28}"}
+{"qid": 30, "question": "When should I run a Control Solution test?", "answer": "At meter receipt, weekly checks, when starting a new vial, if results don’t match how you feel, if the system seems faulty, after drops/damage, or when practicing.", "source": "ihealth_bg5.pdf p.14–15 (section header p.14) :contentReference[oaicite:29]{index=29}"}
+{"qid": 31, "question": "How do I enable CTL mode when testing without the app?", "answer": "Insert a strip, then press the Memory Button until the CTL symbol appears.", "source": "ihealth_bg5.pdf p.14 :contentReference[oaicite:30]{index=30}"}
+{"qid": 32, "question": "Which Control Solution drop should I use?", "answer": "Use the second drop (discard the first) for better results.", "source": "ihealth_bg5.pdf p.14 :contentReference[oaicite:31]{index=31}"}
+{"qid": 33, "question": "How do I avoid contaminating the Control Solution vial?", "answer": "Don’t apply solution directly from the vial to the strip; place a drop in the cap and sample from there.", "source": "ihealth_bg5.pdf p.14 :contentReference[oaicite:32]{index=32}"}
+{"qid": 34, "question": "Where should the Control Solution result fall?", "answer": "Within the range printed on the test strip vial label.", "source": "ihealth_bg5.pdf p.15 :contentReference[oaicite:33]{index=33}"}
+{"qid": 35, "question": "Why might a Control Solution result be out of range?", "answer": "User error, expired/contaminated Control Solution, expired/contaminated test strips, or device malfunction.", "source": "ihealth_bg5.pdf p.16 :contentReference[oaicite:34]{index=34}"}
+{"qid": 36, "question": "What happens if I log a Control Solution test as a normal test in the app?", "answer": "It saves with regular results and may distort your records—always select CTL mode.", "source": "ihealth_bg5.pdf p.16 :contentReference[oaicite:35]{index=35}"}
+{"qid": 37, "question": "How many results can the meter store?", "answer": "Up to 500 results with date and time.", "source": "ihealth_bg5.pdf p.16–18 :contentReference[oaicite:36]{index=36}"}
+{"qid": 38, "question": "How do I review stored results on the meter?", "answer": "Press the Memory Button; the newest result shows first. When the last result is reached, “End” appears and the meter turns off.", "source": "ihealth_bg5.pdf p.17 :contentReference[oaicite:37]{index=37}"}
+{"qid": 39, "question": "When will the meter turn off automatically in memory mode?", "answer": "If not operated for about 30 seconds.", "source": "ihealth_bg5.pdf p.17 :contentReference[oaicite:38]{index=38}"}
+{"qid": 40, "question": "What fasting/pre‑meal value is listed as normal for people without diabetes?", "answer": "<110 mg/dL.", "source": "ihealth_bg5.pdf p.19 :contentReference[oaicite:39]{index=39}"}
+{"qid": 41, "question": "What 2‑hour post‑meal value is listed as normal for people without diabetes?", "answer": "<140 mg/dL.", "source": "ihealth_bg5.pdf p.19 :contentReference[oaicite:40]{index=40}"}
+{"qid": 42, "question": "How should I compare my meter to a lab test?", "answer": "Run a Control Solution test, fast about 8 hours if possible, and bring the meter to the lab. Take both samples within 15 minutes.", "source": "ihealth_bg5.pdf p.18–19 :contentReference[oaicite:41]{index=41}"}
+{"qid": 43, "question": "What sample type should I use for lab comparisons?", "answer": "Fresh capillary blood only; never use blood collected in a test tube for the meter.", "source": "ihealth_bg5.pdf p.19 :contentReference[oaicite:42]{index=42}"}
+{"qid": 44, "question": "Which disinfectant is recommended for the meter and lancing device?", "answer": "CaviWipes (EPA Registration No. 46781‑8).", "source": "ihealth_bg5.pdf p.20–21 :contentReference[oaicite:43]{index=43}"}
+{"qid": 45, "question": "How long should the surface stay wet during disinfection?", "answer": "Keep it wet for 2 minutes (after a pre‑clean).", "source": "ihealth_bg5.pdf p.21 :contentReference[oaicite:44]{index=44}"}
+{"qid": 46, "question": "How many cleaning+disinfection cycles are estimated over five years if testing 5–6 times/day?", "answer": "About 11,000 cycles.", "source": "ihealth_bg5.pdf p.21 :contentReference[oaicite:45]{index=45}"}
+{"qid": 47, "question": "What cleaning caution is given about the strip port and connector?", "answer": "Do not insert disinfecting wipes into the strip port or metal connector; clean only the surface.", "source": "ihealth_bg5.pdf p.21 :contentReference[oaicite:46]{index=46}"}
+{"qid": 48, "question": "What public‑health warnings are referenced for fingerstick device safety?", "answer": "FDA and CDC reminders about risks of using fingerstick devices on more than one person.", "source": "ihealth_bg5.pdf p.21 :contentReference[oaicite:47]{index=47}"}
+{"qid": 49, "question": "What is the BG5 measurement method?", "answer": "Amperometric technology using glucose oxidase.", "source": "ihealth_bg5.pdf p.22 (spec #3) :contentReference[oaicite:48]{index=48}"}
+{"qid": 50, "question": "What result range does the meter display?", "answer": "20–600 mg/dL (1.1–33.3 mmol/L).", "source": "ihealth_bg5.pdf p.22 (spec #4) :contentReference[oaicite:49]{index=49}"}
+{"qid": 51, "question": "What are the power and battery specs?", "answer": "DC 3.7 V, Li‑ion 250 mAh rechargeable battery.", "source": "ihealth_bg5.pdf p.22 (spec #5) :contentReference[oaicite:50]{index=50}"}
+{"qid": 52, "question": "What Bluetooth and radio specs are listed?", "answer": "Bluetooth V3.0 + EDR, Class 2 SPP; 2.402–2.480 GHz frequency band.", "source": "ihealth_bg5.pdf p.22 (spec #6) :contentReference[oaicite:51]{index=51}"}
+{"qid": 53, "question": "What are the storage conditions for test strips?", "answer": "39.2–86°F (4–30°C); humidity <80% RH.", "source": "ihealth_bg5.pdf p.22 (spec #7) :contentReference[oaicite:52]{index=52}"}
+{"qid": 54, "question": "What are the meter’s storage conditions?", "answer": "−4 to 131°F (−20 to 55°C); humidity <80% RH.", "source": "ihealth_bg5.pdf p.22 (spec #8) :contentReference[oaicite:53]{index=53}"}
+{"qid": 55, "question": "What operating temperature range is specified?", "answer": "50–104°F (10–40°C).", "source": "ihealth_bg5.pdf p.22 (spec #9) :contentReference[oaicite:54]{index=54}"}
+{"qid": 56, "question": "What is the minimum blood volume needed?", "answer": "0.7 microliter.", "source": "ihealth_bg5.pdf p.22 (spec #11) :contentReference[oaicite:55]{index=55}"}
+{"qid": 57, "question": "What is the expected lifespan of the meter?", "answer": "Five years.", "source": "ihealth_bg5.pdf p.22 (spec #12) :contentReference[oaicite:56]{index=56}"}
+{"qid": 58, "question": "To what altitude can I use the BG5?", "answer": "Up to about 3,276 meters (10,744 feet).", "source": "ihealth_bg5.pdf p.23 (limitations) :contentReference[oaicite:57]{index=57}"}
+{"qid": 59, "question": "Which substances at high levels can interfere with results?", "answer": "Ascorbic acid, uric acid, acetaminophen, dopamine, L‑dopa, etc.", "source": "ihealth_bg5.pdf p.23 (limitations) :contentReference[oaicite:58]{index=58}"}
+{"qid": 60, "question": "Which patient conditions may yield inaccurate results or are not intended for use?", "answer": "Oxygen therapy, hyperglycemic‑hyperosmolar state (± ketosis), critical illness, dehydration, hypertension or hypotension, or shock.", "source": "ihealth_bg5.pdf p.23 (limitations) :contentReference[oaicite:59]{index=59}"}
+{"qid": 61, "question": "Which sample types should I avoid?", "answer": "Do not use arterial blood, serum, or plasma; avoid hemolyzed, icteric, or high‑lipemia samples.", "source": "ihealth_bg5.pdf p.23 (limitations) :contentReference[oaicite:60]{index=60}"}
+{"qid": 62, "question": "Is the meter intended for newborns?", "answer": "No.", "source": "ihealth_bg5.pdf p.23 (limitations) :contentReference[oaicite:61]{index=61}"}
+{"qid": 63, "question": "What low result message does the meter show and what should I do?", "answer": "“Lo” indicates <20 mg/dL (1.1 mmol/L); consult your healthcare professional.", "source": "ihealth_bg5.pdf p.24 (result readings) :contentReference[oaicite:62]{index=62}"}
+{"qid": 64, "question": "What high result message does the meter show and what should I do?", "answer": "“HI” indicates >600 mg/dL (33.3 mmol/L); seek immediate medical help.", "source": "ihealth_bg5.pdf p.24 (result readings) :contentReference[oaicite:63]{index=63}"}
+{"qid": 65, "question": "What does a low‑temperature error mean?", "answer": "Environment is below 50°F; move to a warmer location before testing.", "source": "ihealth_bg5.pdf p.25 (error messages) :contentReference[oaicite:64]{index=64}"}
+{"qid": 66, "question": "What does a high‑temperature error mean?", "answer": "Environment is above 104°F; move to a cooler location before testing.", "source": "ihealth_bg5.pdf p.25 (error messages) :contentReference[oaicite:65]{index=65}"}
+{"qid": 67, "question": "Which error indicates low battery and what should I do?", "answer": "Battery‑power error—charge the meter.", "source": "ihealth_bg5.pdf p.25 (error messages) :contentReference[oaicite:66]{index=66}"}
+{"qid": 68, "question": "Which error indicates the time has not been set, and what’s the fix?", "answer": "Time‑not‑set error—connect an iOS device to synchronize time.", "source": "ihealth_bg5.pdf p.25 (error messages) :contentReference[oaicite:67]{index=67}"}
+{"qid": 69, "question": "Display stays blank after inserting a strip—what are likely causes and first steps?", "answer": "Low battery, too much time between inserting strip and testing, or strip not fully inserted. Charge the battery and reinsert the strip firmly.", "source": "ihealth_bg5.pdf p.26 (troubleshooting) :contentReference[oaicite:68]{index=68}"}
+{"qid": 70, "question": "Countdown didn’t start—what should I do?", "answer": "The strip was not inserted correctly. Use a new strip and redo the test.", "source": "ihealth_bg5.pdf p.26 (troubleshooting) :contentReference[oaicite:69]{index=69}"}
+{"qid": 71, "question": "Why might results be inconsistent or Control Solution results fall outside the range?", "answer": "Too little sample; expired strip/solution; strip damage from heat or humidity; application too slow; testing outside room temperature.", "source": "ihealth_bg5.pdf p.26 (troubleshooting) :contentReference[oaicite:70]{index=70}"}
+{"qid": 72, "question": "What basic maintenance and storage advice is given?", "answer": "Handle with care; avoid extreme humidity, heat, cold, and dust; wash and dry hands before handling the meter and strips.", "source": "ihealth_bg5.pdf p.22–23 :contentReference[oaicite:71]{index=71}"}
+{"qid": 73, "question": "Can I place the meter on soft surfaces while testing?", "answer": "No—do not block the test ports; keep them free of lint, hair, and debris.", "source": "ihealth_bg5.pdf p.4 :contentReference[oaicite:72]{index=72}"}
+{"qid": 74, "question": "Where is the Memory Button and what does it do?", "answer": "On the side of the meter; it turns the meter on and lets you view past results.", "source": "ihealth_bg5.pdf p.9 (diagram p.8) :contentReference[oaicite:73]{index=73}"}
+{"qid": 75, "question": "Where is the Eject Button and what does it do?", "answer": "On the back; it automatically ejects the test strip.", "source": "ihealth_bg5.pdf p.9 (diagram p.8) :contentReference[oaicite:74]{index=74}"}
+{"qid": 76, "question": "How do I charge the meter?", "answer": "Use the mini‑USB port with the provided USB cable.", "source": "ihealth_bg5.pdf p.9 (diagram p.8) :contentReference[oaicite:75]{index=75}"}
+{"qid": 77, "question": "What does the low‑battery symbol mean?", "answer": "The battery is low and needs charging.", "source": "ihealth_bg5.pdf p.9 (diagram p.8) :contentReference[oaicite:76]{index=76}"}
+{"qid": 78, "question": "How should I touch the test strip when removing it from the vial?", "answer": "You may touch it anywhere with clean, dry hands; do not bend, cut, or modify it.", "source": "ihealth_bg5.pdf p.11,p.13 :contentReference[oaicite:77]{index=77}"}
+{"qid": 79, "question": "If I tested offline, will results sync to the app later?", "answer": "Yes. Results are saved and sent to the app with date/time when connected.", "source": "ihealth_bg5.pdf p.18–19 :contentReference[oaicite:78]{index=78}"}
+{"qid": 80, "question": "What does the app show during online testing?", "answer": "Your measurement status and the glucose result.", "source": "ihealth_bg5.pdf p.11,p.13 :contentReference[oaicite:79]{index=79}"}
+{"qid": 81, "question": "What should I do after handling the meter, lancing device, or strips?", "answer": "Wash hands thoroughly with soap and water.", "source": "ihealth_bg5.pdf p.12–13,p.21 :contentReference[oaicite:80]{index=80}"}
+{"qid": 82, "question": "What are the recommended steps before going to a lab for comparison?", "answer": "Run a Control Solution test, fast if possible for ~8 hours, and bring the meter with you.", "source": "ihealth_bg5.pdf p.18–19 :contentReference[oaicite:81]{index=81}"}
+{"qid": 83, "question": "What phone number can I call for iHealth customer support in the U.S.?", "answer": "+1‑855‑816‑7705.", "source": "ihealth_bg5.pdf p.2,p.21,p.23,p.29 :contentReference[oaicite:82]{index=82}"}
+{"qid": 84, "question": "What cautions are listed about dehydration and symptoms vs. readings?", "answer": "Severe dehydration can cause falsely low results; if results don’t match symptoms, repeat the test and follow professional advice.", "source": "ihealth_bg5.pdf p.5 :contentReference[oaicite:83]{index=83}"}
+{"qid": 85, "question": "Can the lancing device be reused and should the lancet be changed?", "answer": "The lancing device can be used several times, but replace the lancet after each use.", "source": "ihealth_bg5.pdf p.3 :contentReference[oaicite:84]{index=84}"}
+{"qid": 86, "question": "What does the meter display show during online testing?", "answer": "Only the Bluetooth symbol (the app shows the glucose result).", "source": "ihealth_bg5.pdf p.12 :contentReference[oaicite:85]{index=85}"}
+{"qid": 87, "question": "What are the basic steps to start an offline blood test?", "answer": "Insert a strip, obtain a blood sample, apply until the confirmation window fills, wait for the countdown, then read the result on the meter.", "source": "ihealth_bg5.pdf p.11 :contentReference[oaicite:86]{index=86}"}
+{"qid": 88, "question": "Where can I find the Control Solution range for comparison?", "answer": "On the label of the test strip vial.", "source": "ihealth_bg5.pdf p.15 :contentReference[oaicite:87]{index=87}"}
+{"qid": 89, "question": "If Control Solution results keep falling outside the range, what should I do?", "answer": "Stop using the system and contact iHealth Customer Service.", "source": "ihealth_bg5.pdf p.16 :contentReference[oaicite:88]{index=88}"}
+{"qid": 90, "question": "What should I do regarding children and the device?", "answer": "Keep it out of reach and do not allow use by children or anyone unable to use it voluntarily.", "source": "ihealth_bg5.pdf p.5 :contentReference[oaicite:89]{index=89}"}
+{"qid": 91, "question": "What FCC Part 15 operating conditions apply to this device?", "answer": "It may not cause harmful interference and must accept any interference received.", "source": "ihealth_bg5.pdf p.28 :contentReference[oaicite:90]{index=90}"}
+{"qid": 92, "question": "How can I reduce radio/TV interference if it occurs?", "answer": "Reorient/relocate the receiving antenna, increase separation, plug into a different circuit, or consult a radio/TV technician.", "source": "ihealth_bg5.pdf p.28 :contentReference[oaicite:91]{index=91}"}
+{"qid": 93, "question": "What does the manual recommend about periodic accuracy checks?", "answer": "Periodically compare the BG5 with another system maintained by a healthcare provider.", "source": "ihealth_bg5.pdf p.24 :contentReference[oaicite:92]{index=92}"}
+{"qid": 94, "question": "Who is the EU representative and where are they located?", "answer": "iHealthLabs Europe SARL, 3 Rue Tronchet, 75008 Paris, France.", "source": "ihealth_bg5.pdf p.29 :contentReference[oaicite:93]{index=93}"}
+{"qid": 95, "question": "Who is the U.S. contact and what are the support hours?", "answer": "iHealth Lab Inc., Mountain View, CA; +1‑855‑816‑7705 (8:30 AM–5:00 PM PST, Mon–Fri).", "source": "ihealth_bg5.pdf p.29 :contentReference[oaicite:94]{index=94}"}
+{"qid": 96, "question": "Where is the device manufactured?", "answer": "Made in China by Andon Health Co., Ltd., Tianjin.", "source": "ihealth_bg5.pdf p.29 :contentReference[oaicite:95]{index=95}"}
+{"qid": 97, "question": "Which Apple “Made for” marks are listed and what’s the disclaimer?", "answer": "Made for iPod, iPad, and iPhone; accessory is certified to meet Apple performance standards. Apple isn’t responsible for device operation/compliance, and use may affect wireless performance.", "source": "ihealth_bg5.pdf p.27,p.29 :contentReference[oaicite:96]{index=96}"}
+{"qid": 98, "question": "What should I check before and during sample application?", "answer": "Ensure the confirmation window fills completely; the countdown starts automatically. Do not remove the strip until cued.", "source": "ihealth_bg5.pdf p.11,p.14 :contentReference[oaicite:97]{index=97}"}
+{"qid": 99, "question": "How do I know the meter is ready for a sample?", "answer": "The Blood Sample Symbol flashes on the display.", "source": "ihealth_bg5.pdf p.9 (display legend p.6 image) :contentReference[oaicite:98]{index=98}"}
+{"qid": 100, "question": "Which app should I install and how can I find it?", "answer": "Install the free iHealth app from the App Store; search for “iHealth,” “BG5,” or “iHealth Gluco‑Smart.”", "source": "ihealth_bg5.pdf p.10 :contentReference[oaicite:99]{index=99}"}
