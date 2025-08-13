@@ -1,100 +1,100 @@
-{"qid": 1, "question": "What full product name appears on the cover of the manual?"}
-{"qid": 2, "question": "Which brand name is listed for the product?"}
-{"qid": 3, "question": "What is the model number shown in the “Product information” table?"}
-{"qid": 4, "question": "Which two color options are specified?"}
-{"qid": 5, "question": "What three board sizes (in inches) are listed under “Specification”?"}
-{"qid": 6, "question": "What battery type is specified?"}
-{"qid": 7, "question": "What battery capacity (in mAh) is listed?"}
-{"qid": 8, "question": "What is the operating voltage (in volts) shown in the table?"}
-{"qid": 9, "question": "What input voltage is specified?"}
-{"qid": 10, "question": "What input current is specified?"}
-{"qid": 11, "question": "What operating current is listed?"}
-{"qid": 12, "question": "What charging current is listed?"}
-{"qid": 13, "question": "What value is shown under Quality?"}
-{"qid": 14, "question": "What is the Inspector ID?"}
-{"qid": 15, "question": "What company is listed as the Manufacturer?"}
-{"qid": 16, "question": "What is the full manufacturer address printed in the table?"}
-{"qid": 17, "question": "What telephone number is provided for the manufacturer?"}
-{"qid": 18, "question": "What app does the manual say you must download to use the product?"}
-{"qid": 19, "question": "What two methods does the manual give for downloading the app?"}
-{"qid": 20, "question": "Which mobile platforms are explicitly indicated for the app?"}
-{"qid": 21, "question": "After powering on, which symbol appears and blinks on the display?"}
-{"qid": 22, "question": "In the app, where does the manual say the Bluetooth icon is located?"}
-{"qid": 23, "question": "What Bluetooth device name should you select when pairing?"}
-{"qid": 24, "question": "What action completes the Bluetooth connection after device info appears?"}
-{"qid": 25, "question": "True or False: The device can be used without downloading the app."}
-{"qid": 26, "question": "How does the manual instruct you to power on the device?"}
-{"qid": 27, "question": "After power-on, which mode does the product enter automatically?"}
-{"qid": 28, "question": "How do you toggle among “times,” “time,” and “calories” on the display?"}
-{"qid": 29, "question": "How do you switch the display light?"}
-{"qid": 30, "question": "In standby, how often does the light bar on the display end light up?"}
-{"qid": 31, "question": "After how many minutes of inactivity does the device enter sleep mode?"}
-{"qid": 32, "question": "What happens to all displays while in sleep mode?"}
-{"qid": 33, "question": "How do you clear all display data?"}
-{"qid": 34, "question": "How do you power off the device manually?"}
-{"qid": 35, "question": "After how many minutes of no operation will the device auto-shutdown?"}
-{"qid": 36, "question": "True or False: Clearing data requires a 4-second long-press."}
-{"qid": 37, "question": "True or False: Double-clicking the power button changes the metric between “times,” “time,” and “calories.”"}
-{"qid": 38, "question": "What kind of surface does the manual require before powering on?"}
-{"qid": 39, "question": "What action transitions the device from sleep back to standby?"}
-{"qid": 40, "question": "If the device sits unused for 2 minutes, which state will it enter?"}
-{"qid": 41, "question": "What should users check about the device before use?"}
-{"qid": 42, "question": "How does the manual classify the product (what type of item is it)?"}
-{"qid": 43, "question": "What does the manual require regarding children and the elderly using the product?"}
-{"qid": 44, "question": "What personal protective gear is recommended for beginners?"}
-{"qid": 45, "question": "How long a warm-up does the manual recommend before use?"}
-{"qid": 46, "question": "Which personal items should be removed before exercising?"}
-{"qid": 47, "question": "What guidance is given for users with high blood pressure, heart disease, or other illnesses?"}
-{"qid": 48, "question": "What should a user do if they feel discomfort during use?"}
-{"qid": 49, "question": "What heat sources or conditions should the product be kept away from?"}
-{"qid": 50, "question": "Approximately how long does a full charge take?"}
-{"qid": 51, "question": "About how many hours of operating time does a full charge provide?"}
-{"qid": 52, "question": "What does the manual advise about using the device while charging?"}
-{"qid": 53, "question": "According to the manual, why might static electricity and small debris accumulate?"}
-{"qid": 54, "question": "Which surface materials are cited in that explanation of static buildup?"}
-{"qid": 55, "question": "True or False: The manual recommends using the slideboard near open flames."}
-{"qid": 56, "question": "True or False: Static electricity indicates a defect in the product."}
-{"qid": 57, "question": "What supervision arrangement is required for minors and elderly users?"}
-{"qid": 58, "question": "What simple step does the manual suggest to prevent injuries for beginners?"}
-{"qid": 59, "question": "The manual states users should do what kind of warm-up prior to use, and for how long?"}
-{"qid": 60, "question": "What does the manual say about avoiding valuable or fragile items during exercise?"}
-{"qid": 61, "question": "What must the product be used with, according to Maintenance?"}
-{"qid": 62, "question": "What types of surfaces/objects must the board avoid contacting?"}
-{"qid": 63, "question": "What cleaning method is recommended for the slideboard surface?"}
-{"qid": 64, "question": "If surface lubrication decreases, what products are recommended?"}
-{"qid": 65, "question": "Where should the product be stored?"}
-{"qid": 66, "question": "What environmental exposure should be avoided during storage?"}
-{"qid": 67, "question": "Which sports or activities are explicitly mentioned as use cases (e.g., ice/roller sports, fitness, rehab)?"}
-{"qid": 68, "question": "Why have slideboards become popular, per the manual?"}
-{"qid": 69, "question": "For which kinds of athletes does the product help maintain training when facilities are unavailable?"}
-{"qid": 70, "question": "What method does the manual propose to maintain optimal physical condition during off-seasons?"}
-{"qid": 71, "question": "What lower-body benefits does slideboarding provide, according to the description?"}
-{"qid": 72, "question": "What effect does a stronger lower body have on upper-body movements?"}
-{"qid": 73, "question": "Name two areas of capability the manual claims slideboarding can enhance (strength, agility, coordination, movement)."}
-{"qid": 74, "question": "Besides home use, where else does the manual say slideboards can be used (fitness centers)?"}
-{"qid": 75, "question": "Does the manual say there are many ways to use the slideboard to enhance strength and agility?"}
-{"qid": 76, "question": "What is the stated purpose of using a slideboard “on land” or “artificial ice,” per the description?"}
-{"qid": 77, "question": "List the three sizes shown under “Specification” (verbatim, including units)."}
-{"qid": 78, "question": "What battery type cell format is specified in the table?"}
-{"qid": 79, "question": "What battery capacity does the table list?"}
-{"qid": 80, "question": "What operating voltage is printed in the table?"}
-{"qid": 81, "question": "What input voltage is printed in the table?"}
-{"qid": 82, "question": "What input current is printed in the table?"}
-{"qid": 83, "question": "What operating current is printed in the table?"}
-{"qid": 84, "question": "What charging current is printed in the table?"}
-{"qid": 85, "question": "What composite materials are listed for the board surface and bottom?"}
-{"qid": 86, "question": "Which materials are listed for the guard plate and the sponge?"}
-{"qid": 87, "question": "What value is shown under Quality (e.g., “Qualified Product”)?"}
-{"qid": 88, "question": "What is the Inspector ID number shown?"}
-{"qid": 89, "question": "What is the manufacturer’s telephone number?"}
-{"qid": 90, "question": "Under what field name are the three sizes presented (e.g., “Specification”)?"}
-{"qid": 91, "question": "What overall dimensions (width × height, in millimeters) are printed for the unfolded tri-fold sheet?"}
-{"qid": 92, "question": "What panel width (in millimeters) is shown at the bottom of the page?"}
-{"qid": 93, "question": "How many exercise diagrams are depicted in total?"}
-{"qid": 94, "question": "What label text appears above each exercise illustration?"}
-{"qid": 95, "question": "If sleep begins after 2 minutes and auto-shutdown occurs after 10 minutes, how long can the device remain asleep but not shut down?"}
-{"qid": 96, "question": "Which action is faster and by how many seconds: clearing data or powering off via long-press?"}
-{"qid": 97, "question": "A user wants to see calories on the display. What should they do?"}
-{"qid": 98, "question": "In standby, if the light bar flashes every 5 seconds, how many times will it light up in one minute?"}
-{"qid": 99, "question": "Which section of the manual contains the advice not to use the device while charging?"}
-{"qid": 100, "question": "Summarize the step sequence to go from powered-off to Bluetooth-connected using the app."}
+{"qid":1,"question":"What is the maximum user weight for the FEIER STAR 100 treadmill?","answer":"264.6 lb. (Technical information, p.15) :contentReference[oaicite:1]{index=1}"}
+{"qid":2,"question":"What are the unfolded dimensions of the treadmill?","answer":"1700 × 790 × 1280 mm. (Technical information, p.15) :contentReference[oaicite:2]{index=2}"}
+{"qid":3,"question":"What are the folded dimensions of the treadmill?","answer":"1700 × 790 × 270 mm. (Technical information, p.15) :contentReference[oaicite:3]{index=3}"}
+{"qid":4,"question":"What is the running surface size?","answer":"1400 × 500 mm. (Technical information, p.15) :contentReference[oaicite:4]{index=4}"}
+{"qid":5,"question":"What speed range does the treadmill support?","answer":"0.6–11.2 mph. (Technical information, p.15) :contentReference[oaicite:5]{index=5}"}
+{"qid":6,"question":"What incline range is available from the console?","answer":"0–12%. (Monitor function instruction, p.18) :contentReference[oaicite:6]{index=6}"}
+{"qid":7,"question":"Does the treadmill require a grounded outlet, and what circuit rating?","answer":"Yes. Use a grounded outlet on a 10A circuit. (Safety/grounding, pp.3–4,7) :contentReference[oaicite:7]{index=7}"}
+{"qid":8,"question":"What mains voltage should the wall outlet provide?","answer":"110–120 V. (Grounding guide, p.26) :contentReference[oaicite:8]{index=8}"}
+{"qid":9,"question":"Are socket adapters allowed with the grounding plug?","answer":"No—socket adapters are not allowed. (Grounding note, p.7) :contentReference[oaicite:9]{index=9}"}
+{"qid":10,"question":"Where should I place the treadmill—indoors or outdoors?","answer":"Indoors only; avoid water and high‑temperature areas. (Safety precaution, pp.3,6) :contentReference[oaicite:10]{index=10}"}
+{"qid":11,"question":"How much clear space should I keep behind the treadmill during use?","answer":"At least 2000 × 1000 mm. (Safety precaution, p.3) :contentReference[oaicite:11]{index=11}"}
+{"qid":12,"question":"What footwear/clothing is recommended?","answer":"Comfortable clothing and sports/aerobic shoes; zip clothes and avoid items that can snag. (Safety, pp.3–4) :contentReference[oaicite:12]{index=12}"}
+{"qid":13,"question":"What is the maximum recommended continuous running time?","answer":"Do not run continuously for more than 2 hours. (Safety precaution, p.3) :contentReference[oaicite:13]{index=13}"}
+{"qid":14,"question":"How should I stand when starting the treadmill?","answer":"Stand on the two side rails until the belt is moving safely. (User Guide, p.3) :contentReference[oaicite:14]{index=14}"}
+{"qid":15,"question":"Where should I clip the safety key?","answer":"Clip it to your clothes at chest level. (Guidelines for Safe Use, p.20) :contentReference[oaicite:15]{index=15}"}
+{"qid":16,"question":"How do I start a workout in manual mode?","answer":"Insert the safety key, select P0 (manual) if needed, then press START; a 5‑second countdown with beeps will run. (Monitor/Guidelines, pp.19–21) :contentReference[oaicite:16]{index=16}"}
+{"qid":17,"question":"What happens immediately after I press START?","answer":"After a 5‑second countdown and 5 beeps, the belt starts gently and accelerates to the set speed. (Guidelines for Safe Use, p.20) :contentReference[oaicite:17]{index=17}"}
+{"qid":18,"question":"What is the initial speed when starting from the Use Instruction page?","answer":"1.0 km/h after a 5‑second delay. (Use Instruction, p.25) :contentReference[oaicite:18]{index=18}"}
+{"qid":19,"question":"What speed range does the manual call the most comfortable for starting out?","answer":"About 2.5–3.5 km/h. (Use Instruction, p.25) :contentReference[oaicite:19]{index=19}"}
+{"qid":20,"question":"How do I stop the treadmill during exercise?","answer":"Press STOP for a slow, smooth stop—or pull out the safety key for an emergency stop. (User Guide/Guidelines, pp.3,20) :contentReference[oaicite:20]{index=20}"}
+{"qid":21,"question":"What does error code E‑07 mean?","answer":"The console does not detect the safety lock (safety key); the treadmill stops and shows “E‑07.” (Safety key/Troubleshooting, pp.19,26,29) :contentReference[oaicite:21]{index=21}"}
+{"qid":22,"question":"How do I switch between kilometers and miles?","answer":"Remove the safety key, then press PROGRAM and MODE together—display 0.6 = km→miles; display 1.0 = miles→km. (Metric/Imperial conversion, p.19) :contentReference[oaicite:22]{index=22}"}
+{"qid":23,"question":"How many automatic programs are built in?","answer":"36 automatic programs (P1–P36), plus manual (P0), 3 USER programs, and BMI. (Monitor function, p.18) :contentReference[oaicite:23]{index=23}"}
+{"qid":24,"question":"How many user‑programmable profiles are available?","answer":"Three (U01–U03). (Monitor function, p.18) :contentReference[oaicite:24]{index=24}"}
+{"qid":25,"question":"In USER mode, how many segments can I set for speed and incline?","answer":"10 segments. (USER mode, p.19) :contentReference[oaicite:25]{index=25}"}
+{"qid":26,"question":"What is the default countdown time for P1–P36 programs?","answer":"30:00 minutes (modifiable 5–99 minutes). (Key operations/Guidelines, pp.19–20) :contentReference[oaicite:26]{index=26}"}
+{"qid":27,"question":"What do the QUICK SPEED keys do?","answer":"They instantly set speed to the labeled values (6 or 9). (Key operations, p.19) :contentReference[oaicite:27]{index=27}"}
+{"qid":28,"question":"What do the QUICK INCLINE keys do?","answer":"They instantly set incline to the labeled values (6 or 9). (Key operations, p.19) :contentReference[oaicite:28]{index=28}"}
+{"qid":29,"question":"How are distance, time, calories, incline, pulse, and speed shown?","answer":"On dedicated LED windows for DISTANCE/TIME, CALORIES, INCLINE, PULSE, and SPEED. (LED window display, p.18) :contentReference[oaicite:29]{index=29}"}
+{"qid":30,"question":"What happens when I change speed or incline during a program segment?","answer":"Changes apply only to the current segment; switching segments triggers three beeps. (Guidelines, p.21) :contentReference[oaicite:30]{index=30}"}
+{"qid":31,"question":"What happens when a P1–P36 program finishes all 10 segments?","answer":"The motor stops automatically with a long stop prompt sound. (Guidelines, p.21) :contentReference[oaicite:31]{index=31}"}
+{"qid":32,"question":"How do I pause and resume a run without losing data?","answer":"Press START while running to toggle pause/run; data and progress are retained on resume. (Guidelines, p.21) :contentReference[oaicite:32]{index=32}"}
+{"qid":33,"question":"What is ERP mode and when does the console sleep?","answer":"Power‑saving mode; it sleeps after about 4.5 minutes of inactivity. (ERP, p.22) :contentReference[oaicite:33]{index=33}"}
+{"qid":34,"question":"How do I turn ERP off and back on?","answer":"In standby, long‑press MODE ~3 s to show ‘2222’ (off); long‑press again ~3 s to show ‘1111’ (on). (ERP, p.22) :contentReference[oaicite:34]{index=34}"}
+{"qid":35,"question":"When will the console show “OIL”, and how do I clear it?","answer":"After 300 km; lubricate as directed, then press any key for 6 seconds to clear. (Lubrication reminder, p.22) :contentReference[oaicite:35]{index=35}"}
+{"qid":36,"question":"What items come in the box?","answer":"Treadmill, manual, safety key, silicon oil, wrench, and 14×17×75 cross wrench. (Packing list, p.12) :contentReference[oaicite:36]{index=36}"}
+{"qid":37,"question":"How do I unfold the treadmill from storage?","answer":"Turn out the foot folding rod with your foot, lift the stand post, then pull up the monitor to a comfortable position. (Unfold instruction, p.16) :contentReference[oaicite:37]{index=37}"}
+{"qid":38,"question":"How do I fold the treadmill for storage?","answer":"Push monitor level with tray, press the button to lay down the tray, step on the foot folding rod to lower the post, unplug the power cord, pull out two stretch foot pads, then stand it upright. (Folding instruction, p.17) :contentReference[oaicite:38]{index=38}"}
+{"qid":39,"question":"What caution is given after standing the machine upright for storage?","answer":"Do not strike the unit after standing up. (Folding instruction, p.17) :contentReference[oaicite:39]{index=39}"}
+{"qid":40,"question":"What should I do before moving the treadmill?","answer":"Turn power off, unplug the power plug, and fold the treadmill. (About moving, p.25) :contentReference[oaicite:40]{index=40}"}
+{"qid":41,"question":"At roughly what tilt angle should I move the treadmill?","answer":"Tilt about 30°–40° toward the chest. (About moving, p.25) :contentReference[oaicite:41]{index=41}"}
+{"qid":42,"question":"How do I start a preset automatic program?","answer":"Press PROGRAM to choose a mode (e.g., P1–P36) and press START; it runs the selected program automatically. (Use Instruction, p.26) :contentReference[oaicite:42]{index=42}"}
+{"qid":43,"question":"Can I quickly jump to a desired speed while running?","answer":"Yes—use the speed quick keys. (Use Instruction, p.25) :contentReference[oaicite:43]{index=43}"}
+{"qid":44,"question":"How do I adjust the physical slope without the incline motor?","answer":"After the motor stops, tilt the treadmill and adjust the rear feet pad (two gears). (Use Instruction, p.26) :contentReference[oaicite:44]{index=44}"}
+{"qid":45,"question":"Where do I place my hands to read heart rate?","answer":"On the metal heart rate sensors on both handles. (Use Instruction, p.26) :contentReference[oaicite:45]{index=45}"}
+{"qid":46,"question":"Are heart‑rate readings for medical use?","answer":"No—readings are for exercise reference only, not medical use. (Use Instruction, p.26; Monitor note, p.18) :contentReference[oaicite:46]{index=46}"}
+{"qid":47,"question":"If I feel dizzy during exercise, what should I do?","answer":"Stop immediately and lie down until you feel better; consult a doctor if unwell. (Danger notes, p.4) :contentReference[oaicite:47]{index=47}"}
+{"qid":48,"question":"Should children be near the treadmill during use?","answer":"No—keep children away; this is not a toy. (Safety and warnings, pp.3,5–6) :contentReference[oaicite:48]{index=48}"}
+{"qid":49,"question":"Can more than one person use the treadmill at the same time?","answer":"No—only one user at a time. (Danger notes, p.4; Warnings, p.6) :contentReference[oaicite:49]{index=49}"}
+{"qid":50,"question":"Is outdoor use allowed?","answer":"No—do not use or store outdoors or near bathrooms/water. (Danger/Warnings, pp.4,6) :contentReference[oaicite:50]{index=50}"}
+{"qid":51,"question":"What should I do after a sudden power failure?","answer":"Pull out the plug to avoid accidents when power resumes. (Warnings, p.7) :contentReference[oaicite:51]{index=51}"}
+{"qid":52,"question":"How should I unplug the machine safely?","answer":"Hold the plug (not the wire) when unplugging. (Warnings, p.7) :contentReference[oaicite:52]{index=52}"}
+{"qid":53,"question":"Can I open the motor or roller covers myself?","answer":"No—do not open unless by professionals. (Danger, p.4) :contentReference[oaicite:53]{index=53}"}
+{"qid":54,"question":"Should I use the treadmill right after meals or when tired?","answer":"No—do not use after meals or when tired. (Warnings, p.6) :contentReference[oaicite:54]{index=54}"}
+{"qid":55,"question":"Is the treadmill intended for home or commercial (gym/school) use?","answer":"Home use only; not for schools or gyms. (Warnings, p.6) :contentReference[oaicite:55]{index=55}"}
+{"qid":56,"question":"Who should consult a doctor before using this treadmill?","answer":"People under treatment or with listed conditions (e.g., heart disease, osteoporosis, high fever >38°C, pregnancy) need professional approval. (Prohibit! list, pp.5–6) :contentReference[oaicite:56]{index=56}"}
+{"qid":57,"question":"How do I enter BMI (body fat) testing?","answer":"Select BMI via PROGRAM, press MODE to set F1–F5 parameters, then hold the handle sensors ~4 s to see a BMI value. (Guidelines, pp.21–22) :contentReference[oaicite:57]{index=57}"}
+{"qid":58,"question":"What are the meaning and ranges of BMI parameters F1–F4?","answer":"F1 Sex (1=male,2=female); F2 Age (1–99); F3 Height (100–220 cm/39–87 in); F4 Weight (20–150 kg/44–330 lb). (Guidelines, pp.21–22) :contentReference[oaicite:58]{index=58}"}
+{"qid":59,"question":"According to the manual, what BMI ranges indicate underweight, ideal, overweight, and obese (Asian standard)?","answer":"<18 thin; 18–24 ideal; 25–28 overweight; >29 obese (exercise reference only). (Guidelines, p.22) :contentReference[oaicite:59]{index=59}"}
+{"qid":60,"question":"What should I do immediately after finishing a run?","answer":"Stop via STOP or safety key, turn off power, and unplug the plug. (User Guide, p.3) :contentReference[oaicite:60]{index=60}"}
+{"qid":61,"question":"How many operation keys does the LED console have?","answer":"12 operation keys. (Monitor function, p.18) :contentReference[oaicite:61]{index=61}"}
+{"qid":62,"question":"Which key cycles among P0–P36, U01–U03, and BMI?","answer":"PROGRAM key. (Key operations, p.19) :contentReference[oaicite:62]{index=62}"}
+{"qid":63,"question":"Which key cycles manual countdown modes (time, distance, calories, normal)?","answer":"MODE key. (Key operations, p.19) :contentReference[oaicite:63]{index=63}"}
+{"qid":64,"question":"What does START/PAUSE do at stop and during running?","answer":"At stop: starts the treadmill; during running: pauses the treadmill. (Key operations, p.19) :contentReference[oaicite:64]{index=64}"}
+{"qid":65,"question":"What does pressing STOP during running do besides stopping?","answer":"Performs a slow stop and clears abnormal prompts if displayed. (Key operations, p.19) :contentReference[oaicite:65]{index=65}"}
+{"qid":66,"question":"How long does the screen fully display after inserting the safety key?","answer":"About 2 seconds before default state. (Safety key, p.19) :contentReference[oaicite:66]{index=66}"}
+{"qid":67,"question":"How many program segments are there per P1–P36 workout?","answer":"10 segments. (Guidelines, p.21) :contentReference[oaicite:67]{index=67}"}
+{"qid":68,"question":"How can I adjust incline while running?","answer":"Use the incline +/– keys or QUICK INCLINE keys. (Guidelines/Key operations, pp.19,21) :contentReference[oaicite:68]{index=68}"}
+{"qid":69,"question":"What should I check before each use?","answer":"Ensure the treadmill is stable and functions normally. (User Guide, p.3) :contentReference[oaicite:69]{index=69}"}
+{"qid":70,"question":"How should I handle the power cord?","answer":"Keep it away from hot objects; don’t twist, damage, or place heavy items on it. (Danger/Warnings, pp.4,6) :contentReference[oaicite:70]{index=70}"}
+{"qid":71,"question":"What should I do if the treadmill cannot start or behaves abnormally?","answer":"Stop using, unplug, and contact service. (Warnings, p.7) :contentReference[oaicite:71]{index=71}"}
+{"qid":72,"question":"What Bluetooth fitness apps are supported?","answer":"Anyrun, Kinomap, and Zwift. (Bluetooth apps connection, p.30) :contentReference[oaicite:72]{index=72}"}
+{"qid":73,"question":"How do I connect to Anyrun via Bluetooth?","answer":"Enable phone Bluetooth; in Anyrun > Settings > Device Management, select the device name shown; the console shows the BT icon when connected. (Bluetooth apps, p.30) :contentReference[oaicite:73]{index=73}"}
+{"qid":74,"question":"How do I connect the treadmill to Zwift?","answer":"In Zwift, select running speed on the matching page, choose the console’s SW‑XXXXXX‑XXXX device, set YOUR SPEED, pick a route/mode, then Run. (Bluetooth apps, p.30) :contentReference[oaicite:74]{index=74}"}
+{"qid":75,"question":"Why won’t Bluetooth connect when I’m in engineering mode?","answer":"The console cannot connect to Bluetooth under the engineering mode page. (Bluetooth apps, p.30) :contentReference[oaicite:75]{index=75}"}
+{"qid":76,"question":"How do I play music via Bluetooth from my phone?","answer":"Turn on phone Bluetooth, tap ‘RUN MUSIC’, and connect; the device shows ‘Connected’. (Bluetooth music steps, pp.31–32) :contentReference[oaicite:76]{index=76}"}
+{"qid":77,"question":"How do I increase running‑belt tension if it slips?","answer":"Turn both left and right rear roller tension bolts clockwise in equal 1/4‑turn steps until slipping stops. (Belt adjustment, p.27) :contentReference[oaicite:77]{index=77}"}
+{"qid":78,"question":"How do I decrease running‑belt tension?","answer":"Turn both tension bolts counter‑clockwise the same number of turns. (Belt adjustment, p.27) :contentReference[oaicite:78]{index=78}"}
+{"qid":79,"question":"How do I re‑center the running belt?","answer":"At 6 km/h with no user on belt, adjust left/right bolts 1/4‑turn as directed toward the opposite side until centered. (Centering, p.27) :contentReference[oaicite:79]{index=79}"}
+{"qid":80,"question":"After centering the belt, what speed should I verify smooth running at?","answer":"13 km/h. (Centering, p.27) :contentReference[oaicite:80]{index=80}"}
+{"qid":81,"question":"How often should I check lubrication, and with what product?","answer":"Check regularly (e.g., every 3 months); use oil‑free silicone spray only. (Lubrication, p.28) :contentReference[oaicite:81]{index=81}"}
+{"qid":82,"question":"How do I apply lubricant to the belt?","answer":"Lift each side of the belt and spray toward the back; spray each side about 4 seconds, then wait 1 minute before starting. (Lubrication, p.28) :contentReference[oaicite:82]{index=82}"}
+{"qid":83,"question":"What cleaning steps are recommended after each workout?","answer":"With power off and unplugged, wipe console and surfaces with a soft damp cloth; keep liquids away from the computer. (Cleaning, p.28) :contentReference[oaicite:83]{index=83}"}
+{"qid":84,"question":"How should I store the treadmill when not in use?","answer":"In a clean, dry place with the master power off and unplugged. (Storage, p.28) :contentReference[oaicite:84]{index=84}"}
+{"qid":85,"question":"What should I do if the speed sensor error E‑03 appears?","answer":"Check/reconnect or clean the sensor; replace sensor if defective; controller may need replacement. (Troubleshooting, p.29) :contentReference[oaicite:85]{index=85}"}
+{"qid":86,"question":"What should I do if E‑01 appears?","answer":"Check the communication cable connections; replace console or controller if needed. (Troubleshooting, p.29) :contentReference[oaicite:86]{index=86}"}
+{"qid":87,"question":"What does E‑02 indicate and how is it resolved?","answer":"Motor/cable/controller issue: check connections; replace motor or controller as required. (Troubleshooting, p.29) :contentReference[oaicite:87]{index=87}"}
+{"qid":88,"question":"What does E‑05 indicate?","answer":"Controller or motor damage, or mechanical failure (e.g., dry belt/blocked rollers). (Troubleshooting, p.29) :contentReference[oaicite:88]{index=88}"}
+{"qid":89,"question":"What if there is no heart‑rate display?","answer":"Check/replace handle‑pulse cables or the console. (Troubleshooting, p.29) :contentReference[oaicite:89]{index=89}"}
+{"qid":90,"question":"How do I wake the console from ERP sleep?","answer":"Press any key. (ERP, p.22) :contentReference[oaicite:90]{index=90}"}
+{"qid":91,"question":"What’s the correct action if something goes wrong while running?","answer":"Hold the handle bar to push up, step off the belt, and stop use. (Danger notes, p.4) :contentReference[oaicite:91]{index=91}"}
+{"qid":92,"question":"Is it okay to jump off the treadmill after use?","answer":"No—do not jump off; it can cause injury. (Safety precaution, p.3) :contentReference[oaicite:92]{index=92}"}
+{"qid":93,"question":"Where should I keep the silicone oil bottle?","answer":"Out of children’s reach. (Safety precaution, p.3) :contentReference[oaicite:93]{index=93}"}
+{"qid":94,"question":"Should I operate the treadmill with wet hands?","answer":"No—do not insert/remove the plug or operate with wet hands. (Warnings, p.6) :contentReference[oaicite:94]{index=94}"}
+{"qid":95,"question":"Can I repair or modify the unit myself?","answer":"No—do not disassemble/repair/change by yourself; contact the distributor. (Warnings, pp.4,6) :contentReference[oaicite:95]{index=95}"}
+{"qid":96,"question":"What should I do before folding the unit?","answer":"Turn the power off. (Use Instruction—About folding, p.25) :contentReference[oaicite:96]{index=96}"}
+{"qid":97,"question":"How do I connect power correctly before use?","answer":"Use a 10A safety‑grounded socket; turn on power; insert the safety key. (Guidelines for Safe Use, p.20) :contentReference[oaicite:97]{index=97}"}
+{"qid":98,"question":"What does the manual say about dust and humidity around the treadmill?","answer":"Keep indoor dust low and some humidity to avoid console/controller interference. (Safety precaution, p.3) :contentReference[oaicite:98]{index=98}"}
+{"qid":99,"question":"What should I do if the system is not working at all?","answer":"Check power and switch, ensure safety key is in place, inspect cables; replace controller/monitor if needed. (Troubleshooting, p.29) :contentReference[oaicite:99]{index=99}"}
+{"qid":100,"question":"What do I do after lubricating when the OIL warning appears?","answer":"Press any key for 6 seconds to clear the OIL message and reset the counter. (Lubrication reminder, p.22) :contentReference[oaicite:100]{index=100}"}
