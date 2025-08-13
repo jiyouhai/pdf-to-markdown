@@ -1,100 +1,100 @@
-{"qid": 1, "question": "What model number is shown in the header of each sheet?"}
-{"qid": 2, "question": "What is the exact “Product Description” line printed at the top of the sheets?"}
-{"qid": 3, "question": "What “Version” is noted in the header?"}
-{"qid": 4, "question": "What is the standard “Issue Date” printed on most sheets?"}
-{"qid": 5, "question": "One sheet has a different “Issue Date” than the others—what is that date and which sheet is it on?"}
-{"qid": 6, "question": "On page 1, what Body Number is printed in the header?"}
-{"qid": 7, "question": "On page 2, what Body Number is printed in the header?"}
-{"qid": 8, "question": "On page 3, what Body Number is printed in the header?"}
-{"qid": 9, "question": "The exploded diagram labeled “201” (page 3) corresponds to which assembly name in the parts list?"}
-{"qid": 10, "question": "The exploded diagram labeled “203” (page 5) corresponds to which assembly name?"}
-{"qid": 11, "question": "The exploded diagram labeled “204” (page 6) corresponds to which assembly name?"}
-{"qid": 12, "question": "The exploded diagram labeled “205” (page 7) corresponds to which assembly name?"}
-{"qid": 13, "question": "The exploded diagram labeled “206” (page 8) corresponds to which assembly name?"}
-{"qid": 14, "question": "The exploded diagram labeled “207” (page 9) corresponds to which assembly name?"}
-{"qid": 15, "question": "The exploded diagram labeled “208” (page 10) corresponds to which assembly name?"}
-{"qid": 16, "question": "The exploded diagram labeled “209” (page 11) corresponds to which assembly name?"}
-{"qid": 17, "question": "The exploded diagram labeled “210” (page 12) corresponds to which assembly name?"}
-{"qid": 18, "question": "The exploded diagram labeled “212” (page 14) corresponds to which assembly name?"}
-{"qid": 19, "question": "In the assembly summary list, what is the part number for the “Wrench Tool Set (214)” and how many are included?"}
-{"qid": 20, "question": "On the general parts list (page 15), what is the quantity for Wire Holder, part number 3131157001?"}
-{"qid": 21, "question": "What are the part numbers and quantities for the Right Lift Arm Assembly and Left Lift Arm Assembly?"}
-{"qid": 22, "question": "What is the part number and quantity for Motor Control System Fuse (80A)?"}
-{"qid": 23, "question": "What is the part number and quantity for Footrest Pedal Assembly?"}
-{"qid": 24, "question": "Two different items in the general list are labeled Lower Housing. What are their part numbers?"}
-{"qid": 25, "question": "What is the part number and quantity for Decorative Cover Assembly in the general list?"}
-{"qid": 26, "question": "What is the part number and quantity for Hanger Rod?"}
-{"qid": 27, "question": "Which item is Pressing Sleeve and what quantity is specified?"}
-{"qid": 28, "question": "What is the part number and quantity for Outer Tube Welded Assembly?"}
-{"qid": 29, "question": "What is the part number and quantity for Inner Tube Welded Assembly?"}
-{"qid": 30, "question": "What is the part number and quantity for Top Cover in the general list?"}
-{"qid": 31, "question": "What are the part numbers for the Left Supporting Plate and Right Supporting Plate?"}
-{"qid": 32, "question": "In the general list, what is the total quantity shown for Hexalobular Socket Thread Forming Screw (part number 5610388001)?"}
-{"qid": 33, "question": "In the general list, how many Hex Serrated Flange Screw (part number 5640373001) are specified?"}
-{"qid": 34, "question": "What is the part number and quantity for Hoop in the general list?"}
-{"qid": 35, "question": "Which item number corresponds to Hitch, and what part number does it use?"}
-{"qid": 36, "question": "What is the part number and quantity for Rear Wheel Set in the general list?"}
-{"qid": 37, "question": "Which item lists Quick Connect Coupling, and what is its part number?"}
-{"qid": 38, "question": "What is the part number and quantity for Front Wheel Set?"}
-{"qid": 39, "question": "The general list contains two Support Assembly entries. What are their part numbers and quantities?"}
-{"qid": 40, "question": "For Battery Box Assembly (201), what component is listed as 201-1, and what is its quantity?"}
-{"qid": 41, "question": "In 201, what is the part number and quantity for BMS Electric Assembly?"}
-{"qid": 42, "question": "In 201, two different lines are labeled Bottom Support. What are their part numbers and quantities?"}
-{"qid": 43, "question": "In 201, what is the part number and quantity for Magnet Ring?"}
-{"qid": 44, "question": "In 201, what is the quantity for Hexagon Socket Screw (part number 5620157006)?"}
-{"qid": 45, "question": "What is the part number and quantity for Battery Box Cover Assembly (201-401)?"}
-{"qid": 46, "question": "In the Control Electric Assembly (202), which line items mention Type-C Male-male Wire and what are their individual quantities?"}
-{"qid": 47, "question": "In 202, what is the part number and quantity for the single Type-C Male-female Wire?"}
-{"qid": 48, "question": "In 202, what is the part number and quantity for Connecting PCBA?"}
-{"qid": 49, "question": "In 202, how many Hexagon Socket Screw (part number 5620377003) are specified?"}
-{"qid": 50, "question": "In 202, what is the part number and quantity for Electrical Assembly?"}
-{"qid": 51, "question": "In 202, two items are labeled PCB Box. What are the two part numbers and their quantities?"}
-{"qid": 52, "question": "In 202, how many distinct Host Power Wire Harness items are listed, and what are their part numbers and quantities?"}
-{"qid": 53, "question": "In 202, what is the quantity for Screw with Washer (part number 5620618001)?"}
-{"qid": 54, "question": "In 202, Cord Anchorage appears more than once. What are the relevant part numbers and quantities?"}
-{"qid": 55, "question": "In 202, what is the part number and quantity for Base Plate?"}
-{"qid": 56, "question": "In 202, which line items are titled Motor Wire Harness (exact wording) and what are their quantities?"}
-{"qid": 57, "question": "For the Drive Train Assembly (203), what is the part number and quantity for the DC Motor?"}
-{"qid": 58, "question": "In 203, which items are Connecting Plate, and what are their part numbers?"}
-{"qid": 59, "question": "In 203, how many Hexagon Head Bolt entries are present, and what quantities are shown for each?"}
-{"qid": 60, "question": "In 203, what is the part number and quantity for Brake Disc?"}
-{"qid": 61, "question": "In 203, what is the part number and quantity for Friction Block?"}
-{"qid": 62, "question": "In 203, which lines reference Right Bracket Assembly and Left Bracket Assembly, and what are their part numbers?"}
-{"qid": 63, "question": "In 203, what is the part number and quantity for Gear Case Assembly (203-401)?"}
-{"qid": 64, "question": "For the Steering Wheel Assembly (204), what is the part number and quantity for Switch Assembly?"}
-{"qid": 65, "question": "In 204, what is the part number and quantity for Damper?"}
-{"qid": 66, "question": "In 204, which line describes the Timing Belt, and what is its quantity?"}
-{"qid": 67, "question": "In 204, which line is the Belt Drive Assembly, and what is its part number?"}
-{"qid": 68, "question": "In 204, what is the part number and quantity for Angle Measuring Electric Assembly?"}
-{"qid": 69, "question": "In 204, what is the part number and quantity for Hexagon Socket Rubber Head Cap Screw?"}
-{"qid": 70, "question": "For the Front Frame Assembly (205), which two lines are LED PCBA, and what are their part numbers?"}
-{"qid": 71, "question": "In 205, what is the part number and quantity for the Front Frame?"}
-{"qid": 72, "question": "In 205, there are two Tapping Screw entries. What part numbers and quantities are listed for each?"}
-{"qid": 73, "question": "In 205, what are the part numbers for the two Transparent Guard Assembly items?"}
-{"qid": 74, "question": "In 205, what is the part number and quantity for Transparent Cap Assembly?"}
-{"qid": 75, "question": "In 205, what is the part number and quantity for Lamp Wire Harness?"}
-{"qid": 76, "question": "For the Parking Assembly (206), what is the part number and quantity for Switch Box Assembly?"}
-{"qid": 77, "question": "In 206, which line is the Pedal, and what is its part number?"}
-{"qid": 78, "question": "In 206, what is the part number and quantity for Seal Packing Case?"}
-{"qid": 79, "question": "In 206, what is the quantity for Hexagon Socket Screw (part number 5620377003)?"}
-{"qid": 80, "question": "In 206, what is the part number and quantity for Rubber Sleeve?"}
-{"qid": 81, "question": "For the Deck Unit (207), what is the part number and quantity for the Deck Unit itself (line 207-14)?"}
-{"qid": 82, "question": "In 207, what is the part number and quantity for the Blade?"}
-{"qid": 83, "question": "In 207, what is the part number and quantity for Chute Deflector Assembly?"}
-{"qid": 84, "question": "In 207, list the fastener lines that include Hexagon Flange in the description and give their quantities."}
-{"qid": 85, "question": "In 207, what is the part number and quantity for the Washer?"}
-{"qid": 86, "question": "In 207, which line lists the O Ring, and how many are used?"}
-{"qid": 87, "question": "In 207, what is the part number and quantity for the Semicircular Head Square Neck Bolt?"}
-{"qid": 88, "question": "In 207, which line references the Outlet Nozzle Assembly, and what is its part number?"}
-{"qid": 89, "question": "For the Left Cover Assembly (208), which items are labeled USB PCBA, and what are their part numbers?"}
-{"qid": 90, "question": "In 208, how many total Nameplate line items appear, and what are their item numbers?"}
-{"qid": 91, "question": "In 208, which line lists the Charging Harness Assembly, and what is its part number?"}
-{"qid": 92, "question": "In 208, what is the part number and quantity for Charging Fuse (40A)?"}
-{"qid": 93, "question": "In 208, what are the part numbers for Left Cover Plate and Left Cover?"}
-{"qid": 94, "question": "For the Rear Guard Assembly (209), what is the part number and quantity for Guard Assembly?"}
-{"qid": 95, "question": "In 209, what is the part number and quantity for LED Electric Assembly?"}
-{"qid": 96, "question": "For the Right Cover Assembly (210), what are the part numbers for Right Cover Plate and Right Cover?"}
-{"qid": 97, "question": "In 210, what is the quantity for Hexagon Socket Screw (part number 5620377003) used in that assembly?"}
-{"qid": 98, "question": "For the Damping Seat Assembly (211), what is the part number and quantity for Armrest?"}
-{"qid": 99, "question": "In 211, which lines list Right Armrest Assembly and Left Armrest Assembly, and what are their part numbers?"}
-{"qid": 100, "question": "For the Accelerator (212), what is the part number and quantity for Accelerator PCBA?"}
+{"qid":1,"question":"What is the mower model covered by this parts catalog?","answer":"ZT4200S"}
+{"qid":2,"question":"What product type does this catalog describe?","answer":"Zero Turn Riding Mower"}
+{"qid":3,"question":"What version is this catalog?","answer":"Version A"}
+{"qid":4,"question":"What is the part number for the Battery Box Assembly?","answer":"2827138002 (Assembly 201)"}
+{"qid":5,"question":"What is the part number for the Control Electric Assembly?","answer":"2831382001 (Assembly 202)"}
+{"qid":6,"question":"What is the part number for the Drive Train Assembly?","answer":"2827266002 (Assembly 203)"}
+{"qid":7,"question":"What is the part number for the Steering Wheel Assembly?","answer":"2829461001 (Assembly 204)"}
+{"qid":8,"question":"What is the part number for the Front Frame Assembly?","answer":"2829473001 (Assembly 205)"}
+{"qid":9,"question":"What is the part number for the Parking Assembly?","answer":"2829823001 (Assembly 206)"}
+{"qid":10,"question":"What is the part number for the Deck Unit assembly?","answer":"2827360002 (Assembly 207)"}
+{"qid":11,"question":"What is the part number for the Left Cover Assembly?","answer":"2829174002 (Assembly 208)"}
+{"qid":12,"question":"What is the part number for the Rear Guard Assembly?","answer":"2827270002 (Assembly 209)"}
+{"qid":13,"question":"What is the part number for the Right Cover Assembly?","answer":"2829374002 (Assembly 210)"}
+{"qid":14,"question":"What is the part number for the Damping Seat Assembly?","answer":"2827269001 (Assembly 211)"}
+{"qid":15,"question":"What is the part number for the Accelerator assembly?","answer":"2829179001 (Assembly 212)"}
+{"qid":16,"question":"Is a wrench tool set included, and what is its part number?","answer":"Yes. Wrench Tool Set 2829672001 (item 214)"}
+{"qid":17,"question":"How many Wire Holders with part number 3131157001 are listed?","answer":"17 pieces (item 12)"}
+{"qid":18,"question":"How many Wire Holders with part number 3131055001 are listed?","answer":"1 piece (item 24)"}
+{"qid":19,"question":"What is the part number and quantity for the Right Lift Arm Assembly?","answer":"2827074001, quantity 1 (item 3)"}
+{"qid":20,"question":"What is the part number and quantity for the Left Lift Arm Assembly?","answer":"2827075001, quantity 1 (item 4)"}
+{"qid":21,"question":"What is the rating and part number of the Motor Control System Fuse?","answer":"80A, part number 4970355001; quantity 4 (item 29)"}
+{"qid":22,"question":"What is the part number and quantity for the Footrest Pedal Assembly?","answer":"2829470001, quantity 1 (item 46)"}
+{"qid":23,"question":"What is the part number and quantity for the Decorative Cover Assembly (general list)?","answer":"2829422001, quantity 1 (item 30)"}
+{"qid":24,"question":"What are the part numbers for the Inner and Outer Tube Welded Assemblies?","answer":"Inner: 2829130001; Outer: 2829131001"}
+{"qid":25,"question":"What is the part number for the Top Cover (general list)?","answer":"3133548001 (item 39)"}
+{"qid":26,"question":"What is the part number for the Hoop (general list)?","answer":"3423390001 (item 42)"}
+{"qid":27,"question":"How many Hex Serrated Flange Screws (5640373001) are specified in the general list?","answer":"2 pieces (item 21)"}
+{"qid":28,"question":"How many Screws with Washer (5620618001) are specified in the general list?","answer":"12 pieces (item 22)"}
+{"qid":29,"question":"What is the part number and quantity for the Rear Wheel Set?","answer":"2828736001, quantity 2 (item 66)"}
+{"qid":30,"question":"What is the part number and quantity for the Front Wheel Set?","answer":"2827184001, quantity 2 (item 57)"}
+{"qid":31,"question":"What is the part number and quantity for the Front Wheel Bracket Assembly?","answer":"2827052001, quantity 2 (item 53)"}
+{"qid":32,"question":"What is the part number and quantity for the Shock Absorber?","answer":"2827209001, quantity 1 (item 60)"}
+{"qid":33,"question":"What is the part number and quantity for the Rear Hubcap?","answer":"3131306001, quantity 2 (item 68)"}
+{"qid":34,"question":"What is the part number and quantity for the Hitch?","answer":"3707449001, quantity 1 (item 70)"}
+{"qid":35,"question":"What is the part number and quantity for the Quick Connect Coupling?","answer":"2823689001, quantity 1 (item 74)"}
+{"qid":36,"question":"What is the part number and quantity for the Hexagon Socket Screw Key tool?","answer":"5680145001, quantity 1 (item 75)"}
+{"qid":37,"question":"Is grease included with the mower, and what is the part number?","answer":"Yes—Grease 5970136002, quantity 1 (item 78)"}
+{"qid":38,"question":"In the Battery Box Assembly, what is the part number and quantity for the BMS Electric Assembly?","answer":"3707335001, quantity 1 (201-8)"}
+{"qid":39,"question":"In the Battery Box Assembly, what is the part number and quantity for the Rear Transparent Guard?","answer":"3130889001, quantity 1 (201-1)"}
+{"qid":40,"question":"In the Battery Box Assembly, what is the part number and quantity for the Clamp?","answer":"3706580001, quantity 2 (201-4)"}
+{"qid":41,"question":"In the Battery Box Assembly, what is the part number and quantity for the E Ring?","answer":"5660305001, quantity 4 (201-6)"}
+{"qid":42,"question":"In the Battery Box Assembly, what is the part number and quantity for the Magnet Ring?","answer":"5610388001, quantity 2 (201-10)"}
+{"qid":43,"question":"What is the part number for the Battery Box Cover Assembly?","answer":"2827772001 (201-401)"}
+{"qid":44,"question":"In the Control Electric Assembly, which items are Type-C male-male wires and how many of each?","answer":"4860797001 ×1 (202-2); 4860792004 ×3 (202-6); 4860792003 ×1 (202-9)"}
+{"qid":45,"question":"In the Control Electric Assembly, what is the part number and quantity for the Type-C male-female wire?","answer":"4860791003, quantity 1 (202-14)"}
+{"qid":46,"question":"In the Control Electric Assembly, how many Hexagon Socket Screws (5620377003) are used?","answer":"27 pieces (202-31)"}
+{"qid":47,"question":"In the Control Electric Assembly, which items are titled “Motor Wire Harness,” and what are their quantities?","answer":"4860751002 ×2 (202-4) and 4860751001 ×2 (202-26)"}
+{"qid":48,"question":"In the Control Electric Assembly, what is the part number and quantity for the Base Plate?","answer":"3707400001, quantity 1 (202-12)"}
+{"qid":49,"question":"In the Control Electric Assembly, what is the part number and quantity for the Electrical Assembly?","answer":"2827424002, quantity 4 (202-11)"}
+{"qid":50,"question":"How many Host Power Wire Harness items are listed in the Control Electric Assembly, and what are their part numbers?","answer":"Three: 4860768001 (202-20), 4860793001 (202-23), 4860793002 (202-28) — each quantity 1"}
+{"qid":51,"question":"In the Control Electric Assembly, how many Cord Anchorage items are listed and what are their part numbers?","answer":"Two: 3700367001 ×1 (202-3) and 3707407001 ×3 (202-25)"}
+{"qid":52,"question":"In the Control Electric Assembly, what is the part number and quantity for the Connecting PCBA?","answer":"4891968001, quantity 1 (202-18)"}
+{"qid":53,"question":"In the Control Electric Assembly, what is the quantity for the Screws with Washer (5620618001)?","answer":"16 pieces (202-24)"}
+{"qid":54,"question":"In the Drive Train Assembly, what is the part number and quantity for the DC Motor?","answer":"2730398001, quantity 2 (203-4)"}
+{"qid":55,"question":"In the Drive Train Assembly, what is the part number and quantity for the Brake Disc?","answer":"3553570001, quantity 2 (203-5)"}
+{"qid":56,"question":"In the Drive Train Assembly, what is the part number and quantity for the Friction Block?","answer":"3521235001, quantity 4 (203-6)"}
+{"qid":57,"question":"In the Drive Train Assembly, what are the part numbers for the two Connecting Plates?","answer":"3707424001 (203-1) and 3707423001 (203-10)"}
+{"qid":58,"question":"In the Drive Train Assembly, what are the part numbers for the Right and Left Bracket Assemblies?","answer":"Right: 2827528002 (203-402); Left: 2827525002 (203-403)"}
+{"qid":59,"question":"In the Drive Train Assembly, what is the part number for the Gear Case Assembly?","answer":"2827439002 (203-401)"}
+{"qid":60,"question":"In the Drive Train Assembly, how many Hexagon Head Bolts (5640247002) are specified?","answer":"8 pieces (203-3)"}
+{"qid":61,"question":"In the Drive Train Assembly, how many Hexagon Head Bolts (5640009003) are specified?","answer":"8 pieces (203-9)"}
+{"qid":62,"question":"In the Steering Wheel Assembly, what is the part number and quantity for the Switch Assembly?","answer":"4870949001, quantity 1 (204-2)"}
+{"qid":63,"question":"In the Steering Wheel Assembly, what is the part number and quantity for the Timing Belt?","answer":"3800215001, quantity 1 (204-7)"}
+{"qid":64,"question":"In the Steering Wheel Assembly, what is the part number and quantity for the Angle Measuring Electric Assembly?","answer":"2831381001, quantity 1 (204-8)"}
+{"qid":65,"question":"In the Steering Wheel Assembly, how many Hexagon Socket Rubber Head Cap Screws (5610925001) are specified?","answer":"3 pieces (204-4)"}
+{"qid":66,"question":"What is the part number for the Belt Drive Assembly in the Steering Wheel Assembly?","answer":"2829590001 (204-402)"}
+{"qid":67,"question":"What is the part number for the Control Assembly in the Steering Wheel Assembly?","answer":"2829534001 (204-401)"}
+{"qid":68,"question":"In the Steering Wheel Assembly, what is the part number and quantity for the Damper?","answer":"2829161001, quantity 1 (204-5)"}
+{"qid":69,"question":"In the Front Frame Assembly, what is the part number and quantity for the Front Frame?","answer":"3130877001, quantity 1 (205-9)"}
+{"qid":70,"question":"In the Front Frame Assembly, how many Tapping Screws (5610021001) are specified?","answer":"10 pieces (205-4)"}
+{"qid":71,"question":"In the Front Frame Assembly, how many Tapping Screws (5610305002) are specified?","answer":"4 pieces (205-10)"}
+{"qid":72,"question":"In the Front Frame Assembly, what are the two LED PCBA part numbers?","answer":"4891966002 (205-3) and 4891967002 (205-5)"}
+{"qid":73,"question":"In the Front Frame Assembly, what is the part number and quantity for the Lamp Wire Harness?","answer":"4860770001, quantity 2 (205-1)"}
+{"qid":74,"question":"In the Parking Assembly, what is the part number and quantity for the Pedal?","answer":"3707284001, quantity 1 (206-3)"}
+{"qid":75,"question":"In the Parking Assembly, what is the part number and quantity for the Seal Packing Case?","answer":"3130932001, quantity 1 (206-7)"}
+{"qid":76,"question":"In the Parking Assembly, what is the part number and quantity for the Switch Box Assembly?","answer":"2829824001, quantity 1 (206-1)"}
+{"qid":77,"question":"In the Parking Assembly, how many Hexagon Socket Screws (5620377003) are specified?","answer":"4 pieces (206-8)"}
+{"qid":78,"question":"In the Deck Unit, what is the part number and quantity for each Blade?","answer":"3707399001, quantity 2 (207-9)"}
+{"qid":79,"question":"In the Deck Unit, what is the part number and quantity for the Chute Deflector Assembly?","answer":"2823670002, quantity 1 (207-2)"}
+{"qid":80,"question":"In the Deck Unit, how many Hexagon Flange Bolts (5640222001) are specified?","answer":"8 pieces (207-7)"}
+{"qid":81,"question":"In the Deck Unit, how many Semicircular Head Square Neck Bolts (5640357001) are specified?","answer":"5 pieces (207-15)"}
+{"qid":82,"question":"In the Deck Unit, what is the part number and quantity for the Outlet Nozzle Assembly?","answer":"2823718002, quantity 1 (207-401)"}
+{"qid":83,"question":"In the Deck Unit, how many O-Rings (5690141001) are specified?","answer":"1 piece (207-13)"}
+{"qid":84,"question":"In the Deck Unit, how many Hexalobular Socket Thread Forming Screws (5610388001) are specified?","answer":"2 pieces (207-12)"}
+{"qid":85,"question":"In the Left Cover Assembly, what are the two USB PCBA part numbers?","answer":"4891973002 and 4891964001 (208-2, 208-3)"}
+{"qid":86,"question":"In the Left Cover Assembly, what is the part number and rating for the Charging Fuse?","answer":"4970354001, 40A (208-12)"}
+{"qid":87,"question":"In the Left Cover Assembly, how many Hexagon Socket Screws (5620377003) are specified?","answer":"18 pieces (208-5)"}
+{"qid":88,"question":"In the Left Cover Assembly, what are the part numbers for the Left Cover Plate and the Left Cover?","answer":"Left Cover Plate: 3131104001 (208-9); Left Cover: 3130901002 (208-10)"}
+{"qid":89,"question":"In the Left Cover Assembly, what is the part number and quantity for the Charging Harness Assembly?","answer":"4860796001, quantity 1 (208-13)"}
+{"qid":90,"question":"Does the Left Cover Assembly include an LED Electric Assembly, and what is its part number?","answer":"Yes—2830790001 (208-4)"}
+{"qid":91,"question":"In the Rear Guard Assembly, what is the part number and quantity for the Guard Assembly?","answer":"3900385001, quantity 1 (209-4)"}
+{"qid":92,"question":"In the Rear Guard Assembly, what is the part number and quantity for the LED Electric Assembly?","answer":"2830770001, quantity 1 (209-5)"}
+{"qid":93,"question":"In the Rear Guard Assembly, what is the part number and quantity for the L R Indicator Cover Set?","answer":"2827628001, quantity 1 (209-1)"}
+{"qid":94,"question":"In the Right Cover Assembly, what are the part numbers for the Right Cover Plate and the Right Cover?","answer":"Right Cover Plate: 3131105001 (210-2); Right Cover: 3130909002 (210-3)"}
+{"qid":95,"question":"In the Right Cover Assembly, how many Hexagon Socket Screws (5620377003) are specified?","answer":"18 pieces (210-9)"}
+{"qid":96,"question":"In the Right Cover Assembly, what is the part number and quantity for the Control Panel Box Assembly?","answer":"2829373001, quantity 1 (210-401)"}
+{"qid":97,"question":"In the Right Cover Assembly, what is the part number and quantity for the Phone Box Cover?","answer":"3322835001, quantity 1 (210-10)"}
+{"qid":98,"question":"In the Damping Seat Assembly, what are the part numbers for the Right and Left Armrest Assemblies?","answer":"Right: 2827759001 (211-401); Left: 2827760001 (211-402)"}
+{"qid":99,"question":"In the Damping Seat Assembly, what is the part number and quantity for the Armrest?","answer":"3402283001, quantity 2 (211-1)"}
+{"qid":100,"question":"In the Accelerator assembly, what is the part number and quantity for the Accelerator PCBA?","answer":"2831380001, quantity 1 (212-3)"}
