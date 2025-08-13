@@ -1,100 +1,100 @@
-{"qid": 1, "question": "What is the exact title shown above the matrix of accessories and models?"}
-{"qid": 2, "question": "List the five mower model groups in the header, in the order they appear from left to right."}
-{"qid": 3, "question": "For the model group “ZT4200L / ZT4200E-L,” is accessory ABK4200 marked suitable or not?"}
-{"qid": 4, "question": "What parenthetical note follows ABK4200-A in its description? Give the exact text."}
-{"qid": 5, "question": "Which accessory code corresponds to “Zero Turn Riding Mower 1600W charger”?"}
-{"qid": 6, "question": "According to the legend, what do the symbols “●” and “X” mean? Give both meanings."}
-{"qid": 7, "question": "Which accessory shows an unusual “●/X” compatibility notation, and under which model group does it appear?"}
-{"qid": 8, "question": "Is the CRM001 “Zero turn riding mower cover” compatible with TR3800E-B (EU)?"}
-{"qid": 9, "question": "Name all model groups for which CHV1600 is marked suitable."}
-{"qid": 10, "question": "For AB4200D, which model groups are marked “X”?"}
-{"qid": 11, "question": "Which accessories explicitly contain “42” in their names and are compatible with TR4200 / TR4200E (EU&AU)? List codes."}
-{"qid": 12, "question": "Provide the exact description text for AB4201D as printed in the PDF."}
-{"qid": 13, "question": "For ZT5200L / ZT5200E-L, name every accessory that is marked suitable and contains “52” in its name."}
-{"qid": 14, "question": "Which accessory’s description is written in all caps (\"HIGH-LIFT BAGGING BLADE\"), and what is its code?"}
-{"qid": 15, "question": "Among AMG1000, AMS1000, and AMB1000, which are compatible with TR4200 / TR4200E (EU&AU)?"}
-{"qid": 16, "question": "True or False: AMB1000 is compatible with all three ZT model groups but neither tractor model group."}
-{"qid": 17, "question": "Which model group(s) include a regional qualifier “(EU&AU)” in their header label?"}
-{"qid": 18, "question": "What is the compatibility of ACA1000 across all five model groups (list the five symbols in order)?"}
-{"qid": 19, "question": "For ABP5200, is the item a “mulching kit” or a “mulching plug”? Quote the exact wording."}
-{"qid": 20, "question": "Which accessory has the description “Zero turn riding mower on-board storage”? Provide its code."}
-{"qid": 21, "question": "How many accessories on page 1 include “mulching” in their description? Give the count."}
-{"qid": 22, "question": "Provide the exact parenthetical quantity noted for AB5200D."}
-{"qid": 23, "question": "Which accessories list “(1pc)” or “(1pcs blade)” in their descriptions? List codes."}
-{"qid": 24, "question": "For ZT4200S / ZT4200E-S, is AMP4200 suitable?"}
-{"qid": 25, "question": "Which accessories are compatible with all five model groups? List codes."}
-{"qid": 26, "question": "True or False: CRM001 is compatible with TR4200 / TR4200E (EU&AU)."}
-{"qid": 27, "question": "Name the accessory that is a “Zero turn riding mower sun shade,” and list the model groups it supports."}
-{"qid": 28, "question": "For AB5201D, which model groups are marked “X”?"}
-{"qid": 29, "question": "Which accessory code corresponds to “Mulching Blade for 52“ Zero turn riding mower (1pcs blade)”? "}
-{"qid": 30, "question": "For AB5201, list its compatibility symbols across the five model groups in left-to-right order."}
-{"qid": 31, "question": "Which 42″ zero-turn bagger kit is offered “w/o blade,” and what is its code?"}
-{"qid": 32, "question": "Counting both pages, how many total accessory rows are listed?"}
-{"qid": 33, "question": "Which accessories on page 2 are exclusive (suitable only) to TR3800E-B (EU)? List codes."}
-{"qid": 34, "question": "Provide the exact description (including the parenthetical note) for AB3801TD."}
-{"qid": 35, "question": "On page 2, which two accessories are tractor bagging kits for 107 cm (42'') side discharge, and how are they region-labeled?"}
-{"qid": 36, "question": "What additional items are specified in parentheses for ABK4200T(NA)? List them verbatim."}
-{"qid": 37, "question": "True or False: ABK4200T-A (EU) includes blades."}
-{"qid": 38, "question": "Which accessories on page 1 are compatible with all three ZT model groups and with TR4200 / TR4200E (EU&AU), but not with TR3800E-B (EU)? "}
-{"qid": 39, "question": "Provide the compatibility symbols for ABK4200 across all five model groups in order."}
-{"qid": 40, "question": "Which model group header contains “(EU)” without “&AU”?"}
-{"qid": 41, "question": "For AMP3800T, list the five compatibility symbols left-to-right."}
-{"qid": 42, "question": "Which accessories on page 1 have codes beginning with ABK and what are their deck sizes?"}
-{"qid": 43, "question": "What is the only accessory on page 1 that mentions “Charging Adaptor”? Provide its code and compatibility for each model group."}
-{"qid": 44, "question": "For AB4201, provide the exact description including the parenthetical note."}
-{"qid": 45, "question": "Name all “bagging blade set” accessories across both deck sizes on page 1. List codes."}
-{"qid": 46, "question": "True or False: AB5200D is compatible with ZT4200L / ZT4200E-L."}
-{"qid": 47, "question": "Which accessory codes include the substring “5200” and are not compatible with any tractor model? List codes."}
-{"qid": 48, "question": "Provide the compatibility for ABK5200-A across the five model groups (symbols in order)."}
-{"qid": 49, "question": "What is the exact wording of the column-group label that begins with “Riding Mower Model”? Quote it."}
-{"qid": 50, "question": "Which accessory codes start with AM on page 1, and what are their product names?"}
-{"qid": 51, "question": "Which accessories have “plug” (not “kit”) in their descriptions, and what are their codes? Consider both pages."}
-{"qid": 52, "question": "For CRM001, list the full set of compatibility symbols across the model groups in order."}
-{"qid": 53, "question": "True or False: ACA1000 is shown as suitable for ZT5200L / ZT5200E-L."}
-{"qid": 54, "question": "Which accessories on page 1 are compatible with TR4200 / TR4200E (EU&AU) but not compatible with ZT5200L / ZT5200E-L? List codes."}
-{"qid": 55, "question": "What is the exact code and description for the 52″ “mulching kit”?"}
-{"qid": 56, "question": "Compare ABK4200 vs ABK4200-A: what single difference is called out in parentheses?"}
-{"qid": 57, "question": "Which accessories on page 2 are compatible with TR4200 / TR4200E (EU&AU)? List codes."}
-{"qid": 58, "question": "Provide the complete header text for the TR4200 / TR4200E model group including any regional qualifier."}
-{"qid": 59, "question": "True or False: ABK5200 is compatible with ZT4200S / ZT4200E-S."}
-{"qid": 60, "question": "Which 42″ zero-turn accessories (codes) are not compatible with TR4200 / TR4200E (EU&AU)?"}
-{"qid": 61, "question": "Provide the exact description text for AB5200 (include the “(1pcs blade)” parenthetical)."}
-{"qid": 62, "question": "For AMS1000, list the model groups where it is marked “●”."}
-{"qid": 63, "question": "Which accessory explicitly uses the phrase “rear Bumper,” and what is its cross-model compatibility?"}
-{"qid": 64, "question": "True or False: AMP4200 is marked suitable for both ZT4200 model groups and TR4200 / TR4200E (EU&AU)."}
-{"qid": 65, "question": "Which model group(s) are compatible with ABP5200?"}
-{"qid": 66, "question": "Provide the exact spacing and punctuation around “52 ” (with the closing quote) as it appears in the ABP5200 description."}
-{"qid": 67, "question": "Which accessories on page 1 have descriptions containing “bagger kit”? List codes and deck sizes."}
-{"qid": 68, "question": "For AB4200, list all model groups where it is marked suitable."}
-{"qid": 69, "question": "Which page contains the legend explaining “●” and “X”?"}
-{"qid": 70, "question": "What is the exact phrasing of the legend items for “●” and for “X”? Quote both."}
-{"qid": 71, "question": "True or False: ABK4200T(NA) is compatible with any ZT model group."}
-{"qid": 72, "question": "Which accessories (codes) include a regional tag “(EU)” or “(NA)” in the code line itself?"}
-{"qid": 73, "question": "For ABK4200T-A (EU), what is the deck size in centimeters and inches stated in the description?"}
-{"qid": 74, "question": "Which accessories across both pages use the word “Bagging” in their description (not just “Bagger”)? List codes."}
-{"qid": 75, "question": "Provide the compatibility row for ABK4200T(NA) in symbol order from ZT4200L/E-L to TR4200/TR4200E."}
-{"qid": 76, "question": "Which accessories are compatible with all three ZT model groups? List codes."}
-{"qid": 77, "question": "True or False: CRM001 is marked “X” for exactly one model group. Name that group."}
-{"qid": 78, "question": "What accessory code is associated with “on-board storage,” and which tractor model (if any) is incompatible with it?"}
-{"qid": 79, "question": "For AB5201, what is the parenthetical quantity noted in the description?"}
-{"qid": 80, "question": "Which page mentions “counter weights,” and in which accessory’s description does this appear?"}
-{"qid": 81, "question": "Provide the exact formatting of the TR3800E-B (EU) header label, including hyphenation and parentheses."}
-{"qid": 82, "question": "Which accessories on page 1 have compatibility “X” for TR3800E-B (EU) but “●” for TR4200 / TR4200E (EU&AU)? List codes."}
-{"qid": 83, "question": "True or False: CHV1600 is the only accessory on page 1 with “●” under all five model groups."}
-{"qid": 84, "question": "For ABK5200, what is the compatibility symbol under ZT4200S / ZT4200E-S?"}
-{"qid": 85, "question": "Which accessories on page 1 are compatible with ZT5200L / ZT5200E-L but are not compatible with either TR model group? List codes."}
-{"qid": 86, "question": "Provide the exact capitalization of the word “Turn” in the CHV1600 description."}
-{"qid": 87, "question": "Which accessories on page 2 are compatible only with TR4200 / TR4200E (EU&AU)? List codes."}
-{"qid": 88, "question": "True or False: AB4201D is a “bagging blade set.” Quote its deck size from the description."}
-{"qid": 89, "question": "Which accessories on page 1 include the word “plug,” and for each, list the model groups where they are suitable."}
-{"qid": 90, "question": "For ABK4200, does the compatibility differ between the two ZT4200 model groups? Explain using the symbols shown."}
-{"qid": 91, "question": "Provide the five compatibility symbols (left-to-right) for AB5200."}
-{"qid": 92, "question": "Which accessories on page 1 list quantity “(3pc)” in their descriptions? List codes."}
-{"qid": 93, "question": "What is the exact description text for AMP3800T?"}
-{"qid": 94, "question": "Which accessories on page 1 have “bagger kit” in the description and are not compatible with TR4200 / TR4200E (EU&AU)? List codes."}
-{"qid": 95, "question": "True or False: ACA1000 is compatible with ZT4200L / ZT4200E-L."}
-{"qid": 96, "question": "Which accessory code corresponds to “Zero turn riding mower mulching plug” for the 42″ deck?"}
-{"qid": 97, "question": "For AB3801TD, which ZT and TR4200 model groups are marked “X”? List all groups marked “X”."}
-{"qid": 98, "question": "Provide the compatibility of ABK5200-A specifically under TR3800E-B (EU) and TR4200 / TR4200E (EU&AU)."}
-{"qid": 99, "question": "Which accessories are compatible with TR4200 / TR4200E (EU&AU) but have “X” for both ZT5200 and TR3800E-B (EU)? List codes."}
-{"qid": 100, "question": "On page 1, identify the accessories that are suitable for all three ZT model groups; among those, which are not suitable for TR4200 / TR4200E (EU&AU)? List codes."}
+{"qid":1,"question":"Will the 42\" bagger kit ABK4200 fit my ZT4200L / ZT4200E-L mower?","answer":"Yes. ABK4200 is marked suitable (●) for ZT4200L / ZT4200E-L."}
+{"qid":2,"question":"Is ABK4200 compatible with ZT4200S / ZT4200E-S?","answer":"Yes. ABK4200 is marked suitable (●) for ZT4200S / ZT4200E-S."}
+{"qid":3,"question":"Can I use ABK4200 on ZT5200L / ZT5200E-L?","answer":"No. ABK4200 is marked X for ZT5200L / ZT5200E-L."}
+{"qid":4,"question":"Does ABK4200 work on TR3800E-B (EU)?","answer":"No. ABK4200 is marked X for TR3800E-B (EU)."}
+{"qid":5,"question":"Is ABK4200 compatible with TR4200 / TR4200E (EU&AU)?","answer":"No. ABK4200 is marked X for TR4200 / TR4200E (EU&AU)."}
+{"qid":6,"question":"What’s the difference between ABK4200 and ABK4200-A?","answer":"Both are 42\" zero turn bagger kits, but ABK4200-A is specified as “w/o blade.” Compatibility is the same: suitable for the two ZT4200 groups only."}
+{"qid":7,"question":"Does the 42\" bagger kit ABK4200-A fit ZT4200S / ZT4200E-S?","answer":"Yes. ABK4200-A is marked suitable (●) for ZT4200S / ZT4200E-S."}
+{"qid":8,"question":"Will ABK4200-A fit ZT5200L / ZT5200E-L?","answer":"No. ABK4200-A is marked X for ZT5200L / ZT5200E-L."}
+{"qid":9,"question":"I want to mulch with a 42\" deck on ZT4200L — which accessories should I consider?","answer":"Use the 42\" mulching plug AMP4200 and either the 42\" mulching blade set AB4200D or the single 42\" mulching blade AB4200."}
+{"qid":10,"question":"Are 42\" mulching blades (AB4200D) compatible with TR4200 / TR4200E (EU&AU)?","answer":"Yes. AB4200D is marked suitable (●) for TR4200 / TR4200E (EU&AU)."}
+{"qid":11,"question":"Can I use the single 42\" mulching blade AB4200 on ZT5200L / ZT5200E-L?","answer":"No. AB4200 is marked X for ZT5200L / ZT5200E-L."}
+{"qid":12,"question":"Do the 42\" bagging blades (AB4201D set) fit ZT4200L?","answer":"Yes. AB4201D is marked suitable (●) for ZT4200L / ZT4200E-L."}
+{"qid":13,"question":"Is the 42\" bagging blade (AB4201 single) compatible with TR4200 / TR4200E (EU&AU)?","answer":"Yes. AB4201 is marked suitable (●) for TR4200 / TR4200E (EU&AU)."}
+{"qid":14,"question":"Will the 42\" mulching plug AMP4200 work on TR3800E-B (EU)?","answer":"No. AMP4200 is marked X for TR3800E-B (EU)."}
+{"qid":15,"question":"Is the zero‑turn mower cover CRM001 compatible with TR3800E-B (EU)?","answer":"No. CRM001 is marked X for TR3800E-B (EU)."}
+{"qid":16,"question":"Does the CRM001 cover fit ZT5200L / ZT5200E-L?","answer":"Yes. CRM001 is marked suitable (●) for ZT5200L / ZT5200E-L."}
+{"qid":17,"question":"Is there any accessory in this chart that works with all five model groups?","answer":"Yes. CHV1600 (Zero Turn Riding Mower 1600W charger) is marked suitable (●) for all five groups."}
+{"qid":18,"question":"Does ACA1000 (POWER+ Charging Adaptor) work with TR4200 / TR4200E (EU&AU)?","answer":"The table shows “●/X” for TR4200 / TR4200E (EU&AU), indicating mixed compatibility; it is X for all other groups."}
+{"qid":19,"question":"Which bagger kits are available for the 52\" zero‑turn deck?","answer":"ABK5200 and ABK5200-A (the latter noted “w/o blade”). Both fit ZT5200L / ZT5200E-L only."}
+{"qid":20,"question":"Will the 52\" bagger kit ABK5200 fit ZT4200S / ZT4200E-S?","answer":"No. ABK5200 is marked X for ZT4200S / ZT4200E-S."}
+{"qid":21,"question":"Can I use the 52\" mulching kit ABP5200 on ZT5200L / ZT5200E-L?","answer":"Yes. ABP5200 is marked suitable (●) for ZT5200L / ZT5200E-L."}
+{"qid":22,"question":"Is the 52\" mulching kit ABP5200 compatible with TR4200 / TR4200E (EU&AU)?","answer":"No. ABP5200 is marked X for TR4200 / TR4200E (EU&AU)."}
+{"qid":23,"question":"Will the 52\" blade set AB5200D work on ZT5200L?","answer":"Yes. AB5200D is marked suitable (●) for ZT5200L / ZT5200E-L."}
+{"qid":24,"question":"Are the 52\" blades (AB5200D/AB5200) usable on any tractor model in this chart?","answer":"No. All 52\" blade SKUs (AB5200D, AB5200, AB5201D, AB5201) are marked X for both tractor groups."}
+{"qid":25,"question":"Is the 52\" HIGH‑LIFT bagging blade AB5201 compatible with ZT4200L?","answer":"No. AB5201 is marked X for ZT4200L / ZT4200E-L; it is only suitable for ZT5200L / ZT5200E-L."}
+{"qid":26,"question":"Does AMG1000 (on‑board storage) fit TR4200 / TR4200E (EU&AU)?","answer":"Yes. AMG1000 is marked suitable (●) for TR4200 / TR4200E (EU&AU)."}
+{"qid":27,"question":"Can I install AMG1000 on TR3800E-B (EU)?","answer":"No. AMG1000 is marked X for TR3800E-B (EU)."}
+{"qid":28,"question":"Is the sun shade AMS1000 compatible with ZT models and TR4200?","answer":"Yes. AMS1000 is marked suitable (●) for all three ZT groups and for TR4200 / TR4200E (EU&AU)."}
+{"qid":29,"question":"Does the rear bumper AMB1000 fit TR4200 / TR4200E (EU&AU)?","answer":"No. AMB1000 is marked X for both tractor groups; it fits all three ZT groups only."}
+{"qid":30,"question":"Which accessories are available specifically for TR3800E-B (EU)?","answer":"AMP3800T (Mulching Plug) and AB3801TD (Bagging blade, one left & one right)."}
+{"qid":31,"question":"Is there a tractor‑specific 42\" bagger kit for TR4200 / TR4200E?","answer":"Yes. ABK4200T-A (EU) and ABK4200T(NA) are 107 cm (42\") tractor side‑discharge bagging kits for TR4200 / TR4200E."}
+{"qid":32,"question":"Do the tractor 42\" bagger kits include blades?","answer":"ABK4200T-A (EU) is noted “Bagger, no blades”; ABK4200T(NA) is noted “Bagger, bagging blades, counter weights.”"}
+{"qid":33,"question":"I have ZT4200S — what are my 42\" bagging options?","answer":"Use ABK4200 or ABK4200-A (w/o blade) and the corresponding 42\" bagging blades AB4201D (set) or AB4201 (single)."}
+{"qid":34,"question":"I have ZT4200L — which 42\" bagging blades should I buy?","answer":"Choose AB4201D (42\" bagging blade set) or AB4201 (42\" bagging blade, 1 pc)."}
+{"qid":35,"question":"For ZT5200L, what are my 52\" bagging options?","answer":"ABK5200 or ABK5200-A (w/o blade) as the bagger kit, plus 52\" bagging blades AB5201D (set) or AB5201 (high‑lift, 1 pc)."}
+{"qid":36,"question":"What are the 52\" mulching options for ZT5200L / ZT5200E-L?","answer":"Use ABP5200 (52\" mulching kit), AB5200D (52\" blade set), or AB5200 (single 52\" mulching blade)."}
+{"qid":37,"question":"For TR4200 / TR4200E, which 42\" mulching parts are compatible?","answer":"AMP4200 (42\" mulching plug) and the 42\" mulching blades AB4200D (set) or AB4200 (single)."}
+{"qid":38,"question":"Does the mower cover CRM001 fit TR4200 / TR4200E (EU&AU)?","answer":"Yes. CRM001 is marked suitable (●) for TR4200 / TR4200E (EU&AU)."}
+{"qid":39,"question":"Which accessories fit all three ZT model groups (both 42\" groups and 52\")?","answer":"CRM001 (cover), CHV1600 (1600W charger), AMG1000 (on‑board storage), AMS1000 (sun shade), and AMB1000 (rear bumper)."}
+{"qid":40,"question":"Is there a 52\" mulching plug listed?","answer":"No dedicated 52\" plug is listed; the 52\" option shown is the mulching kit ABP5200 (plus 52\" mulching blades AB5200D/AB5200)."}
+{"qid":41,"question":"Can I use AB4200D (42\" mulching blade set) on ZT5200L?","answer":"No. AB4200D is for the two ZT4200 groups and TR4200; it is marked X for ZT5200L / ZT5200E-L."}
+{"qid":42,"question":"Is the 1600W charger CHV1600 compatible with TR3800E-B (EU)?","answer":"Yes. CHV1600 is marked suitable (●) for all groups, including TR3800E-B (EU)."}
+{"qid":43,"question":"Does the POWER+ Charging Adaptor ACA1000 work on ZT models?","answer":"No. ACA1000 is marked X for all three ZT groups; only TR4200 / TR4200E shows “●/X.”"}
+{"qid":44,"question":"What accessories are compatible with ZT4200L / ZT4200E-L?","answer":"ABK4200, ABK4200-A, AB4200D, AB4200, AB4201D, AB4201, AMP4200, CRM001, CHV1600, AMG1000, AMS1000, AMB1000."}
+{"qid":45,"question":"What accessories are compatible with ZT4200S / ZT4200E-S?","answer":"ABK4200, ABK4200-A, AB4200D, AB4200, AB4201D, AB4201, AMP4200, CRM001, CHV1600, AMG1000, AMS1000, AMB1000."}
+{"qid":46,"question":"What accessories are compatible with ZT5200L / ZT5200E-L?","answer":"ABK5200, ABK5200-A, ABP5200, AB5200D, AB5200, AB5201D, AB5201, CRM001, CHV1600, AMG1000, AMS1000, AMB1000."}
+{"qid":47,"question":"What accessories are compatible with TR3800E-B (EU)?","answer":"CHV1600, plus two tractor‑specific SKUs: AMP3800T (Mulching Plug) and AB3801TD (Bagging blade, L+R)."}
+{"qid":48,"question":"What accessories are compatible with TR4200 / TR4200E (EU&AU)?","answer":"AB4200D, AB4200, AB4201D, AB4201, AMP4200, CRM001, CHV1600, ACA1000 (●/X), AMG1000, AMS1000, plus tractor 42\" bagger kits ABK4200T-A (EU) and ABK4200T(NA)."}
+{"qid":49,"question":"Is there a rear bumper option for ZT5200L?","answer":"Yes. AMB1000 (rear bumper) is suitable (●) for ZT5200L / ZT5200E-L."}
+{"qid":50,"question":"Which 42\" accessories do NOT work with TR3800E-B (EU) but DO work with TR4200 / TR4200E?","answer":"AB4200D, AB4200, AB4201D, AB4201, AMP4200 — each is X for TR3800E-B but ● for TR4200 / TR4200E."}
+{"qid":51,"question":"Is there any bagger kit for ZT5200 that ships without blades?","answer":"Yes. ABK5200-A is labeled “w/o blade.”"}
+{"qid":52,"question":"Which part number is the 42\" mulching plug for zero‑turn?","answer":"AMP4200."}
+{"qid":53,"question":"Which part number is the 52\" HIGH‑LIFT bagging blade?","answer":"AB5201."}
+{"qid":54,"question":"Which part number is the zero‑turn sun shade?","answer":"AMS1000."}
+{"qid":55,"question":"Which part number is the zero‑turn on‑board storage?","answer":"AMG1000."}
+{"qid":56,"question":"Which part number is the zero‑turn rear bumper?","answer":"AMB1000."}
+{"qid":57,"question":"Which part number is the 1600W charger for these mowers?","answer":"CHV1600."}
+{"qid":58,"question":"I have a TR3800E-B (EU). What can I buy to mulch?","answer":"AMP3800T, the tractor mulching plug specific to TR3800E-B (EU)."}
+{"qid":59,"question":"I have a TR3800E-B (EU). What blades should I buy for bagging?","answer":"AB3801TD (bagging blade pair: left & right)."}
+{"qid":60,"question":"Will the tractor bagger kit ABK4200T-A (EU) fit any zero‑turn model?","answer":"No. It is X for all ZT groups; it is only suitable (●) for TR4200 / TR4200E (EU&AU)."}
+{"qid":61,"question":"Does ABK4200T(NA) work on TR3800E-B (EU)?","answer":"No. ABK4200T(NA) is X for TR3800E-B (EU); it is only suitable (●) for TR4200 / TR4200E (EU&AU)."}
+{"qid":62,"question":"Is there a cover that works on both ZT and TR4200 tractors?","answer":"Yes. CRM001 fits all three ZT groups and TR4200 / TR4200E (EU&AU)."}
+{"qid":63,"question":"Which accessories are ZT‑only (not for tractors)?","answer":"ABK4200, ABK4200-A, ABK5200, ABK5200-A, ABP5200, AB5200D, AB5200, AB5201D, AB5201, AMB1000."}
+{"qid":64,"question":"Which accessories are tractor‑only (not for ZT)?","answer":"AMP3800T, AB3801TD, ABK4200T-A (EU), ABK4200T(NA)."}
+{"qid":65,"question":"Which accessories work on both ZT and TR4200 / TR4200E?","answer":"AB4200D, AB4200, AB4201D, AB4201, AMP4200, CRM001, CHV1600, AMG1000, AMS1000, and (conditionally) ACA1000 (●/X) for TR4200."}
+{"qid":66,"question":"How many accessories are listed as compatible with ZT5200L / ZT5200E-L?","answer":"Twelve: ABK5200, ABK5200-A, ABP5200, AB5200D, AB5200, AB5201D, AB5201, CRM001, CHV1600, AMG1000, AMS1000, AMB1000."}
+{"qid":67,"question":"How many accessories are shown as compatible with TR3800E-B (EU)?","answer":"Three: CHV1600, AMP3800T, AB3801TD."}
+{"qid":68,"question":"How many accessories are compatible with TR4200 / TR4200E (EU&AU)?","answer":"Twelve (including ABK4200T-A and ABK4200T(NA) on page 2)."}
+{"qid":69,"question":"Can I use the 42\" bagger kit ABK4200 on a tractor model?","answer":"No. ABK4200 is X for both tractor groups."}
+{"qid":70,"question":"Is the 52\" mulching kit ABP5200 usable on tractors?","answer":"No. ABP5200 is X for both tractor groups."}
+{"qid":71,"question":"For ZT4200 owners: which single 42\" replacement blades are listed?","answer":"AB4200 (42\" mulching blade, 1 pc) and AB4201 (42\" bagging blade, 1 pc)."}
+{"qid":72,"question":"For ZT5200 owners: which single 52\" replacement blades are listed?","answer":"AB5200 (mulching blade, 1 pc) and AB5201 (HIGH‑LIFT bagging blade, 1 pc)."}
+{"qid":73,"question":"Does the chart list any counterweights for tractor bagging?","answer":"Yes. ABK4200T(NA) notes “bagging blades, counter weights.”"}
+{"qid":74,"question":"Are there any accessories that fit ZT4200 models but NOT ZT5200?","answer":"Yes. All the 42\" ZT items (ABK4200/‑A, AB4200D, AB4200, AB4201D, AB4201, AMP4200) are X for ZT5200."}
+{"qid":75,"question":"Are there any accessories that fit ZT5200 but NOT ZT4200 models?","answer":"Yes. All the 52\" ZT items (ABK5200/‑A, ABP5200, AB5200D, AB5200, AB5201D, AB5201) are X for both ZT4200 groups."}
+{"qid":76,"question":"Is there a sun shade option for TR4200?","answer":"Yes. AMS1000 is suitable (●) for TR4200 / TR4200E (EU&AU)."}
+{"qid":77,"question":"Does the rear bumper AMB1000 fit ZT4200S / ZT4200E-S?","answer":"Yes. AMB1000 is marked suitable (●) for ZT4200S / ZT4200E-S."}
+{"qid":78,"question":"Does the on‑board storage AMG1000 fit ZT4200L / ZT4200E-L?","answer":"Yes. AMG1000 is marked suitable (●) for ZT4200L / ZT4200E-L."}
+{"qid":79,"question":"Is the 1600W charger CHV1600 compatible with ZT5200L / ZT5200E-L?","answer":"Yes. CHV1600 is marked suitable (●) for ZT5200L / ZT5200E-L."}
+{"qid":80,"question":"Can TR4200 owners use the 52\" blade set AB5200D?","answer":"No. AB5200D is X for TR4200 / TR4200E (EU&AU)."}
+{"qid":81,"question":"Which 42\" items are recommended when switching a ZT4200 to bagging?","answer":"Bagger kit ABK4200 or ABK4200-A (w/o blade) and bagging blades AB4201D (set) or AB4201 (single)."}
+{"qid":82,"question":"Which 52\" items are recommended when switching a ZT5200 to mulching?","answer":"ABP5200 (mulching kit) plus mulching blades AB5200D (set) or AB5200 (single)."}
+{"qid":83,"question":"If I only want a single replacement 42\" mulching blade for ZT4200, what’s the SKU?","answer":"AB4200."}
+{"qid":84,"question":"If I only want a single 52\" bagging blade for ZT5200, what’s the SKU?","answer":"AB5201 (HIGH‑LIFT bagging blade)."}
+{"qid":85,"question":"Is there any accessory with mixed compatibility noted on the chart?","answer":"Yes. ACA1000 shows “●/X” under TR4200 / TR4200E (EU&AU); all other groups are X."}
+{"qid":86,"question":"Do any accessories fit all three ZT groups and TR4200, but not TR3800?","answer":"Yes. CRM001 (cover), AMG1000 (on‑board storage), and AMS1000 (sun shade) are X for TR3800E-B but ● for the ZTs and TR4200."}
+{"qid":87,"question":"Which accessories allow a TR4200 owner to bag with a 42\" deck?","answer":"Use the tractor bagger kit ABK4200T-A (EU) or ABK4200T(NA). For blades, the 42\" bagging blades AB4201D/AB4201 are also compatible with TR4200."}
+{"qid":88,"question":"Is there any 42\" ZT bagger kit that includes blades?","answer":"The chart only labels ABK4200-A as “w/o blade.” ABK4200 lacks that note; the table does not otherwise specify included contents."}
+{"qid":89,"question":"Which accessories should a TR3800E-B owner avoid from the ZT lists?","answer":"All ZT‑only items (42\" and 52\" SKUs and AMB1000) are X for TR3800E-B. TR3800E-B supports only AMP3800T, AB3801TD, and CHV1600."}
+{"qid":90,"question":"Is there a single accessory that will charge any mower listed here?","answer":"Yes. CHV1600 is suitable (●) for all five model groups."}
+{"qid":91,"question":"What does AB4201D include compared to AB4201?","answer":"AB4201D is a 42\" bagging blade set; AB4201 is a single 42\" bagging blade (1 pc)."}
+{"qid":92,"question":"What does AB5200D include compared to AB5200?","answer":"AB5200D is a 52\" blade set (3 pcs); AB5200 is a single 52\" mulching blade (1 pc)."}
+{"qid":93,"question":"I own ZT5200L and want a cover — which SKU should I buy?","answer":"CRM001 (Zero turn riding mower cover)."}
+{"qid":94,"question":"Does the mower cover CRM001 fit ZT4200S?","answer":"Yes. CRM001 is suitable (●) for ZT4200S / ZT4200E-S."}
+{"qid":95,"question":"Does the mower cover CRM001 fit TR4200 / TR4200E (EU&AU)?","answer":"Yes. CRM001 is suitable (●) for TR4200 / TR4200E (EU&AU)."}
+{"qid":96,"question":"Is there any charger adaptor option for ZT models?","answer":"No. ACA1000 is X for all ZT groups; only TR4200 shows mixed “●/X.”"}
+{"qid":97,"question":"Which accessories combine best for 42\" mulching on TR4200?","answer":"AMP4200 (plug) plus either AB4200D (set) or AB4200 (single) mulching blades."}
+{"qid":98,"question":"Which accessories combine best for 52\" bagging on ZT5200?","answer":"ABK5200 or ABK5200-A (w/o blade) plus AB5201D (bagging blade set) or AB5201 (single HIGH‑LIFT bagging blade)."}
+{"qid":99,"question":"Are there any ZT accessories shared across 42\" and 52\" models?","answer":"Yes. CRM001, CHV1600, AMG1000, AMS1000, and AMB1000 are suitable for all ZT groups."}
+{"qid":100,"question":"If I have TR4200 and want a 42\" bagger kit in Europe, which exact SKU should I choose?","answer":"ABK4200T-A (EU)."}
