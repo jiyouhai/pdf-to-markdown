@@ -1,100 +1,101 @@
-{"qid": 1, "question": "What exact model numbers does this manual cover?", "page_hint": "p.1"}
-{"qid": 2, "question": "What is the full product name shown on the cover?", "page_hint": "p.1"}
-{"qid": 3, "question": "On which page does the Français section begin?", "page_hint": "p.1, p.2"}
-{"qid": 4, "question": "On which page does the Español section begin?", "page_hint": "p.1, p.2"}
-{"qid": 5, "question": "Which U.S. state is referenced in the dust exposure warning at the beginning of the manual?", "page_hint": "p.3"}
-{"qid": 6, "question": "Which mineral from masonry products is explicitly named as a hazardous dust example?", "page_hint": "p.3"}
-{"qid": 7, "question": "What is one recommended method to reduce dust exposure listed in the warning?", "page_hint": "p.3"}
-{"qid": 8, "question": "According to the FCC statement, this product is tested to which class of digital device?", "page_hint": "p.4"}
-{"qid": 9, "question": "What part of the FCC rules does this device comply with?", "page_hint": "p.4"}
-{"qid": 10, "question": "What does the Safety Alert symbol indicate?", "page_hint": "p.5–6"}
-{"qid": 11, "question": "Which ANSI standard must eye protection comply with when operating this machine?", "page_hint": "p.5–6"}
-{"qid": 12, "question": "What minimum distance must bystanders keep from the machine?", "page_hint": "p.7"}
-{"qid": 13, "question": "What does the IPX marking relate to in this manual’s symbol table?", "page_hint": "p.7"}
-{"qid": 14, "question": "What battery chemistry is stated under the Battery Recycle symbol?", "page_hint": "p.7"}
-{"qid": 15, "question": "What is the unit used for rotational speed in the symbol table (abbreviation and meaning)?", "page_hint": "p.7"}
-{"qid": 16, "question": "What is the tool’s rated voltage?", "page_hint": "p.16"}
-{"qid": 17, "question": "List the three no-load speeds (n₀) in /min.", "page_hint": "p.16"}
-{"qid": 18, "question": "What is the cutting swath in inches and centimeters?", "page_hint": "p.16"}
-{"qid": 19, "question": "What cutting line diameter is the unit kitted with by default?", "page_hint": "p.16"}
-{"qid": 20, "question": "What is the maximum compatible cutting line diameter?", "page_hint": "p.16"}
-{"qid": 21, "question": "What is the ingress protection rating of the tool/battery system?", "page_hint": "p.16"}
-{"qid": 22, "question": "What are the recommended operating temperature limits (°F and °C)?", "page_hint": "p.16"}
-{"qid": 23, "question": "What are the recommended storage temperature limits (°F and °C)?", "page_hint": "p.16"}
-{"qid": 24, "question": "What is the tool’s weight without the battery (lbs and kg)?", "page_hint": "p.16"}
-{"qid": 25, "question": "Which trimmer head model is listed as a recommended accessory?", "page_hint": "p.16"}
-{"qid": 26, "question": "Name one recommended cutting line part number from the accessories table.", "page_hint": "p.16"}
-{"qid": 27, "question": "On the labeled diagram, what control toggles between speed modes?", "page_hint": "Fig. 1, p.17"}
-{"qid": 28, "question": "What must be moved forward before pressing the trigger to start the machine?", "page_hint": "Fig. 1, p.17; p.18, p.28"}
-{"qid": 29, "question": "What component on the guard keeps line at the proper length?", "page_hint": "p.18"}
-{"qid": 30, "question": "What is the function of the Quick Adjustable Loop Handle?", "page_hint": "p.18"}
-{"qid": 31, "question": "What is the purpose of the Safety Barrier Bar?", "page_hint": "p.18"}
-{"qid": 32, "question": "What does the Battery-status Indicator communicate?", "page_hint": "p.19"}
-{"qid": 33, "question": "What does the Bluetooth® Indicator signify?", "page_hint": "p.19, p.31"}
-{"qid": 34, "question": "What size hex key is included in the packing list?", "page_hint": "p.20"}
-{"qid": 35, "question": "Which item in the packing list is “only for use with brush cutter head”?", "page_hint": "p.20"}
-{"qid": 36, "question": "During loop-handle assembly, which two features must be aligned on the barrier bar and loop handle (recessed vs. protruded)?", "page_hint": "p.21–22"}
-{"qid": 37, "question": "What fastener is used to secure the loop handle after positioning?", "page_hint": "p.21–22"}
-{"qid": 38, "question": "When using the brush cutter head, what must be installed on the loop handle?", "page_hint": "p.21"}
-{"qid": 39, "question": "How many bolts secure the string trimmer guard to the shaft?", "page_hint": "p.23"}
-{"qid": 40, "question": "What safety warning is given about operating without the guard?", "page_hint": "p.23"}
-{"qid": 41, "question": "Which guard type (string trimmer vs. brush cutter) is not included with the base product?", "page_hint": "p.23"}
-{"qid": 42, "question": "When attaching the battery, what features must be aligned before sliding it in?", "page_hint": "p.24"}
-{"qid": 43, "question": "What caution is given about pressing the battery-release button at a high location?", "page_hint": "p.24"}
-{"qid": 44, "question": "What is the model number of the single-shoulder strap mentioned as sold separately?", "page_hint": "p.25"}
-{"qid": 45, "question": "What are the two ways to release the shoulder strap described?", "page_hint": "p.25"}
-{"qid": 46, "question": "In the Applications section, what tasks are listed for the trimmer head configuration?", "page_hint": "p.26"}
-{"qid": 47, "question": "In the Applications section, what is the maximum stem diameter recommended for the 3-tooth metal blade?", "page_hint": "p.26"}
-{"qid": 48, "question": "What specific PPE does the manual say to wear while operating (beyond eye protection)? Name any two.", "page_hint": "p.27"}
-{"qid": 49, "question": "Before each use, which three components are emphasized for damage/wear checks?", "page_hint": "p.27"}
-{"qid": 50, "question": "What cleaning caution is given about using water on the trimmer?", "page_hint": "p.28"}
-{"qid": 51, "question": "To start the machine, which two controls must be actuated simultaneously?", "page_hint": "p.28"}
-{"qid": 52, "question": "How is speed controlled once the machine is on?", "page_hint": "p.28"}
-{"qid": 53, "question": "How many speed modes does the tool have?", "page_hint": "p.29"}
-{"qid": 54, "question": "How does the speed indicator display high speed mode?", "page_hint": "p.29"}
-{"qid": 55, "question": "Which speed mode provides longer runtime per charge, according to the manual?", "page_hint": "p.29"}
-{"qid": 56, "question": "When do the battery-status and speed indicators illuminate besides startup?", "page_hint": "p.30"}
-{"qid": 57, "question": "What battery-status light color indicates 20%–100% state of charge?", "page_hint": "p.30"}
-{"qid": 58, "question": "What battery-status light/color indicates 10%–20% state of charge?", "page_hint": "p.30"}
-{"qid": 59, "question": "What battery-status light/color indicates less than 10% state of charge?", "page_hint": "p.30"}
-{"qid": 60, "question": "What condition is indicated when the battery-status LED flashes red/green alternately?", "page_hint": "p.30–31"}
-{"qid": 61, "question": "What temperature must the battery pack drop below to clear the orange over-temperature indication in the indicator table?", "page_hint": "p.30"}
-{"qid": 62, "question": "According to the Battery High-temperature Protection section, at what temperature does the battery protection trigger?", "page_hint": "p.31"}
-{"qid": 63, "question": "What does a solid orange speed indicator signify?", "page_hint": "p.30–31"}
-{"qid": 64, "question": "What does a flashing orange speed indicator signify, and what general action should you take?", "page_hint": "p.30–31"}
-{"qid": 65, "question": "According to Machine High-temperature Protection, above what temperature does the tool shut off to prevent damage?", "page_hint": "p.31"}
-{"qid": 66, "question": "What happens when a Bluetooth connection to a mobile device is established?", "page_hint": "p.31"}
-{"qid": 67, "question": "How do you extend more cutting line during operation?", "page_hint": "p.32"}
-{"qid": 68, "question": "What warning is given about removing or altering the line-cutting blade?", "page_hint": "p.32"}
-{"qid": 69, "question": "Where should you tap the head for best line release results?", "page_hint": "p.32"}
-{"qid": 70, "question": "What trimming angle is recommended relative to the ground?", "page_hint": "p.33"}
-{"qid": 71, "question": "What is the recommended method for cutting grass over 8 inches (20 cm) tall?", "page_hint": "p.33"}
-{"qid": 72, "question": "What surfaces or objects cause rapid cutting-line wear, as listed in the tips? Name two.", "page_hint": "p.33"}
-{"qid": 73, "question": "What total length of cutting line should you cut when replacing line with 0.095 in (2.4 mm) line?", "page_hint": "p.34–35"}
-{"qid": 74, "question": "After winding, how much line should remain visible on each side of the head?", "page_hint": "p.34–35"}
-{"qid": 75, "question": "Which component must “click” into place when reinstalling the lower cover during reloading?", "page_hint": "p.34–35"}
-{"qid": 76, "question": "When reloading, which part’s original position must you confirm before reassembly?", "page_hint": "p.34–35"}
-{"qid": 77, "question": "What kit number converts the trimmer to a brush cutter?", "page_hint": "p.36"}
-{"qid": 78, "question": "Besides installing the metal blade, what two other changes are required for brush-cutter conversion?", "page_hint": "p.36"}
-{"qid": 79, "question": "To remove the trimmer head, in which direction do you rotate it?", "page_hint": "p.36–37"}
-{"qid": 80, "question": "What tool is inserted into the gear case to lock the shaft when removing/installing heads?", "page_hint": "p.36–37"}
-{"qid": 81, "question": "What protective accessory is the 3-tooth blade shipped in, and what should you do with it after removal?", "page_hint": "p.36–37"}
-{"qid": 82, "question": "When mounting the 3-tooth blade, which side of the blade must be flush with which feature of the inner flange?", "page_hint": "p.37"}
-{"qid": 83, "question": "In which direction do you finger-tighten the nut for the blade before final tightening?", "page_hint": "p.37"}
-{"qid": 84, "question": "What socket size is recommended to tighten the blade nut?", "page_hint": "Fig. 12f, p.37"}
-{"qid": 85, "question": "When swapping guards for brush-cutting, which bolts and washers are reused?", "page_hint": "p.38"}
-{"qid": 86, "question": "For cutting woody material up to 3/4 in (2 cm), which side of the blade should be used to reduce blade thrust?", "page_hint": "p.39"}
-{"qid": 87, "question": "What is the stated risk when using the cutting attachment above waist height?", "page_hint": "p.39"}
-{"qid": 88, "question": "List two precautions to reduce risk of injury from a cracking/shattering blade.", "page_hint": "p.39"}
-{"qid": 89, "question": "In the brush-cutting tips, from which direction to which should you sweep the unit for best results?", "page_hint": "p.40"}
-{"qid": 90, "question": "Which brand of blade does the manual specify to use with this brush cutter?", "page_hint": "p.40"}
-{"qid": 91, "question": "What general maintenance warning is emphasized about using non-identical replacement parts?", "page_hint": "p.41"}
-{"qid": 92, "question": "What repeated caution is given about battery machines during maintenance?", "page_hint": "p.41"}
-{"qid": 93, "question": "What’s the recommended method for cleaning debris from the air vents on the rear housing?", "page_hint": "p.41"}
-{"qid": 94, "question": "What warning is given about using solvents on plastic parts?", "page_hint": "p.41–42"}
-{"qid": 95, "question": "When installing a new trimmer head, in which direction is the head tightened onto the shaft?", "page_hint": "p.42"}
-{"qid": 96, "question": "Before installing a new trimmer head, which two parts must be correctly located on the motor shaft?", "page_hint": "p.42"}
-{"qid": 97, "question": "What personal protective equipment is required when sharpening the line-cutting blade?", "page_hint": "p.43"}
-{"qid": 98, "question": "What tool(s) does the manual recommend for sharpening the line-cutting blade edges?", "page_hint": "p.43"}
-{"qid": 99, "question": "How often should you check the gear-case grease level?", "page_hint": "p.43"}
-{"qid": 100, "question": "To what fraction of capacity should you fill the transmission gear case with grease?", "page_hint": "p.43"}
+{"qid":1,"question":"What is the rated voltage of the trimmer?","answer":"56 V","source":"Specifications, p.16. :contentReference[oaicite:0]{index=0}"}
+{"qid":2,"question":"What is the cutting swath of this model?","answer":"17.5 in (45 cm)","source":"Specifications, p.16. :contentReference[oaicite:1]{index=1}"}
+{"qid":3,"question":"What line diameter is included out of the box?","answer":"0.095 in (2.4 mm)","source":"Specifications, p.16. :contentReference[oaicite:2]{index=2}"}
+{"qid":4,"question":"What is the maximum compatible cutting line diameter?","answer":"0.105 in (2.7 mm)","source":"Specifications, p.16. :contentReference[oaicite:3]{index=3}"}
+{"qid":5,"question":"What are the three no‑load speeds?","answer":"Low 3500/min, Medium 4500/min, High 5700/min","source":"Specifications, p.16. :contentReference[oaicite:4]{index=4}"}
+{"qid":6,"question":"What is the IP rating of the tool system?","answer":"IPX5","source":"Specifications (system rating note), p.16. :contentReference[oaicite:5]{index=5}"}
+{"qid":7,"question":"What is the recommended operating temperature range?","answer":"32–104°F (0–40°C)","source":"Specifications, p.16. :contentReference[oaicite:6]{index=6}"}
+{"qid":8,"question":"What is the recommended storage temperature range?","answer":"−4–158°F (−20–70°C)","source":"Specifications, p.16. :contentReference[oaicite:7]{index=7}"}
+{"qid":9,"question":"How much does the tool weigh without a battery?","answer":"9.04 lb (4.1 kg)","source":"Specifications, p.16. :contentReference[oaicite:8]{index=8}"}
+{"qid":10,"question":"What type of cutting mechanism does it use?","answer":"Bump head","source":"Specifications, p.16. :contentReference[oaicite:9]{index=9}"}
+{"qid":11,"question":"Which trimmer head is a recommended accessory?","answer":"AH3810","source":"Recommended Accessories, p.16. :contentReference[oaicite:10]{index=10}"}
+{"qid":12,"question":"Name one recommended cutting line part number for this tool.","answer":"AL2420P","source":"Recommended Accessories, p.16. :contentReference[oaicite:11]{index=11}"}
+{"qid":13,"question":"How far should bystanders stay from the machine during use?","answer":"At least 50 ft (15 m)","source":"Safety symbols table, p.7. :contentReference[oaicite:12]{index=12}"}
+{"qid":14,"question":"What standard must eye protection comply with?","answer":"ANSI Z87.1","source":"Safety symbols & warnings, p.5–6. :contentReference[oaicite:13]{index=13}"}
+{"qid":15,"question":"Can you operate this machine in rain or wet conditions?","answer":"No","source":"Electrical safety warnings, p.8. :contentReference[oaicite:14]{index=14}"}
+{"qid":16,"question":"Should you wear long trousers when operating the tool?","answer":"Yes","source":"Trimmer/brush‑cutter safety, p.12. :contentReference[oaicite:15]{index=15}"}
+{"qid":17,"question":"Should the machine be operated above waist height?","answer":"No","source":"Trimmer/brush‑cutter safety, p.12. :contentReference[oaicite:16]{index=16}"}
+{"qid":18,"question":"Are ear/hearing protectors recommended while operating?","answer":"Yes","source":"Safety symbols (Wear Ear Protection), p.6. :contentReference[oaicite:17]{index=17}"}
+{"qid":19,"question":"What must you do with the battery before any maintenance or adjustments?","answer":"Remove/disconnect the battery pack","source":"Multiple safety callouts, p.7, p.26. :contentReference[oaicite:18]{index=18}"}
+{"qid":20,"question":"Is metal‑reinforced line or wire allowed as cutting line?","answer":"No","source":"Line Replacement warning, p.34. :contentReference[oaicite:19]{index=19}"}
+{"qid":21,"question":"What does the string trimmer guard do for the user?","answer":"Reduces risk from thrown objects and contact with the line","source":"Description of guard, p.18. :contentReference[oaicite:20]{index=20}"}
+{"qid":22,"question":"What does the line‑cutting blade on the guard do?","answer":"Keeps the cutting line at the proper length","source":"Description of line‑cutting blade, p.18. :contentReference[oaicite:21]{index=21}"}
+{"qid":23,"question":"Can you use any brand of blade with the brush‑cutter setup?","answer":"No—use only the EGO blade","source":"Brush‑cutting tips, p.40. :contentReference[oaicite:22]{index=22}"}
+{"qid":24,"question":"What trimming angle is recommended relative to the ground?","answer":"Keep the cutting attachment parallel to the ground","source":"Trimming tips, p.33. :contentReference[oaicite:23]{index=23}"}
+{"qid":25,"question":"What is “blade thrust” in simple terms?","answer":"A sudden kick/motion if the blade jams or catches on an object","source":"Blade thrust explanation, p.14. :contentReference[oaicite:24]{index=24}"}
+{"qid":26,"question":"How do you start the machine?","answer":"Move the lock‑off lever forward and press the trigger switch","source":"Starting instructions, p.28. :contentReference[oaicite:25]{index=25}"}
+{"qid":27,"question":"How do you stop the machine?","answer":"Release the trigger switch","source":"Stopping instructions, p.29. :contentReference[oaicite:26]{index=26}"}
+{"qid":28,"question":"How is speed controlled while cutting?","answer":"By trigger pressure (more pressure = higher speed)","source":"Starting/operation notes, p.28. :contentReference[oaicite:27]{index=27}"}
+{"qid":29,"question":"How many speed modes are available?","answer":"Three","source":"Changing speed mode, p.29. :contentReference[oaicite:28]{index=28}"}
+{"qid":30,"question":"Which speed mode provides longer runtime per charge?","answer":"Low speed","source":"Changing speed mode, p.29. :contentReference[oaicite:29]{index=29}"}
+{"qid":31,"question":"How do you change speed mode?","answer":"Press the speed mode button (indicator shows 1/2/3 lights)","source":"Changing speed mode, p.29. :contentReference[oaicite:30]{index=30}"}
+{"qid":32,"question":"What does a solid green speed indicator mean?","answer":"The machine is working properly","source":"Indicator table, p.30. :contentReference[oaicite:31]{index=31}"}
+{"qid":33,"question":"After a break, will the tool remember the last speed mode?","answer":"Yes","source":"Changing speed mode (note), p.29. :contentReference[oaicite:32]{index=32}"}
+{"qid":34,"question":"How do you attach the battery pack?","answer":"Align the ribs with the mounting slots and slide until it snaps into place","source":"Attaching battery, p.24. :contentReference[oaicite:33]{index=33}"}
+{"qid":35,"question":"How do you detach the battery pack safely?","answer":"Press the battery‑release button and remove the pack; never remove it at a high location","source":"Detaching battery + warning, p.24. :contentReference[oaicite:34]{index=34}"}
+{"qid":36,"question":"What is the model number of the single‑shoulder strap (sold separately)?","answer":"AP1500","source":"Shoulder strap section, p.25. :contentReference[oaicite:35]{index=35}"}
+{"qid":37,"question":"What does a solid green battery‑status LED mean?","answer":"Battery at 20%–100% charge","source":"Indicator table, p.30. :contentReference[oaicite:36]{index=36}"}
+{"qid":38,"question":"What does a flashing green battery‑status LED mean?","answer":"Battery at 10%–20% charge","source":"Indicator table, p.30. :contentReference[oaicite:37]{index=37}"}
+{"qid":39,"question":"What does a solid red battery‑status LED mean?","answer":"Battery below 10% charge","source":"Indicator table, p.30. :contentReference[oaicite:38]{index=38}"}
+{"qid":40,"question":"What does a flashing red battery‑status LED mean?","answer":"Charge is nearly depleted—charge immediately","source":"Indicator table, p.30. :contentReference[oaicite:39]{index=39}"}
+{"qid":41,"question":"What indicates the battery is overheated, and what should you do?","answer":"Solid orange LED; cool the pack below 152°F (67°C)","source":"Indicator table, p.30. :contentReference[oaicite:40]{index=40}"}
+{"qid":42,"question":"What does a red/green alternating battery LED mean?","answer":"Battery electronics error—replace the pack or contact service","source":"Indicator table, p.30. :contentReference[oaicite:41]{index=41}"}
+{"qid":43,"question":"At what temperature does battery high‑temperature protection trigger?","answer":"158°F (70°C)","source":"Battery High‑temperature Protection, p.31. :contentReference[oaicite:42]{index=42}"}
+{"qid":44,"question":"What does a solid orange speed indicator mean, and what should you do?","answer":"Machine overheated; cool it below 176°F (80°C)","source":"Indicator table, p.30. :contentReference[oaicite:43]{index=43}"}
+{"qid":45,"question":"What does a flashing orange speed indicator mean, and how do you fix it?","answer":"Machine overloaded; remove and reattach the battery, restart, and reduce load/line length","source":"Overload protection, p.31. :contentReference[oaicite:44]{index=44}"}
+{"qid":46,"question":"At what temperature does the machine’s high‑temperature protection shut it off?","answer":"194°F (90°C)","source":"Machine High‑temperature Protection, p.31. :contentReference[oaicite:45]{index=45}"}
+{"qid":47,"question":"Besides startup, when do the battery and speed indicators light up?","answer":"When the speed mode button is pressed","source":"Indicator table note, p.30. :contentReference[oaicite:46]{index=46}"}
+{"qid":48,"question":"What happens when the tool connects to a phone via Bluetooth?","answer":"The Bluetooth symbol lights up","source":"Bluetooth section, p.31. :contentReference[oaicite:47]{index=47}"}
+{"qid":49,"question":"How many lights show High speed mode on the speed indicator?","answer":"Three lights","source":"Changing speed mode, p.29. :contentReference[oaicite:48]{index=48}"}
+{"qid":50,"question":"How do you feed more cutting line during trimming?","answer":"Lightly tap the head on the ground while running","source":"Adjusting cutting line length, p.32. :contentReference[oaicite:49]{index=49}"}
+
+{"qid":51,"question":"Where should you tap the head for best line release?","answer":"On bare ground or hard soil","source":"Adjusting cutting line length, p.32. :contentReference[oaicite:50]{index=50}"}
+{"qid":52,"question":"Should you remove or alter the line‑cutting blade to get more line?","answer":"No—excess line can overheat the motor and cause injury","source":"Adjusting cutting line length warning, p.32. :contentReference[oaicite:51]{index=51}"}
+{"qid":53,"question":"When reloading with 0.095 in line, how long a piece should you cut?","answer":"26 ft (8 m)","source":"Line Replacement, p.34. :contentReference[oaicite:52]{index=52}"}
+{"qid":54,"question":"After winding, how much line should be visible on each side?","answer":"About 6 in (15.3 cm)","source":"Line Replacement, p.34–35. :contentReference[oaicite:53]{index=53}"}
+{"qid":55,"question":"When reloading, what must be true about the spring?","answer":"It must be in its original position in the lower cover assembly","source":"Reloading cutting line, p.34. :contentReference[oaicite:54]{index=54}"}
+{"qid":56,"question":"What should you hear when snapping the lower cover back on?","answer":"A distinct click","source":"Reloading cutting line, p.34–35. :contentReference[oaicite:55]{index=55}"}
+{"qid":57,"question":"How should you cut grass over 8 in (20 cm) tall?","answer":"Work from the top down in small increments","source":"Trimming tips, p.33. :contentReference[oaicite:56]{index=56}"}
+{"qid":58,"question":"Do wire or picket fences cause extra line wear or breakage?","answer":"Yes","source":"Trimming tips, p.33. :contentReference[oaicite:57]{index=57}"}
+{"qid":59,"question":"Should you trim when grass and weeds are wet?","answer":"No","source":"Trimming tips, p.33. :contentReference[oaicite:58]{index=58}"}
+{"qid":60,"question":"How should the trimming line be kept to make release easier?","answer":"Keep it fully extended; release is harder as the line shortens","source":"Adjusting cutting line length, p.32. :contentReference[oaicite:59]{index=59}"}
+{"qid":61,"question":"If tapping doesn’t release line, what’s the fix in short?","answer":"Remove battery, open head via release tabs, check spring, reassemble, reload line","source":"Reloading cutting line, p.34. :contentReference[oaicite:60]{index=60}"}
+{"qid":62,"question":"What is the maximum line diameter you should use to avoid overloading?","answer":"0.105 in (2.7 mm)","source":"Line Replacement notice, p.34. :contentReference[oaicite:61]{index=61}"}
+{"qid":63,"question":"Which part keeps the line at the proper length during use?","answer":"The line‑cutting blade on the guard","source":"Description, p.18. :contentReference[oaicite:62]{index=62}"}
+{"qid":64,"question":"If you try to release line in tall grass, what may happen?","answer":"The motor may overheat","source":"Adjusting cutting line length, p.32. :contentReference[oaicite:63]{index=63}"}
+{"qid":65,"question":"What motion gives the best trimming results?","answer":"Slow forward‑back or side‑to‑side passes, cutting short lengths","source":"Trimming tips, p.33. :contentReference[oaicite:64]{index=64}"}
+{"qid":66,"question":"Can this trimmer be converted to a brush cutter?","answer":"Yes—using EGO kit ABB1203‑1","source":"Converting to brush cutter, p.36. :contentReference[oaicite:65]{index=65}"}
+{"qid":67,"question":"What changes are required to convert to a brush cutter?","answer":"Install the metal blade, swap to the brush‑cutter guard, and install the safety barrier bar","source":"Converting to brush cutter, p.36. :contentReference[oaicite:66]{index=66}"}
+{"qid":68,"question":"How do you lock the shaft when removing or installing heads?","answer":"Insert the provided hex key into the gear‑case locking hole","source":"Head removal steps, p.36–37. :contentReference[oaicite:67]{index=67}"}
+{"qid":69,"question":"In which direction do you rotate the trimmer head to remove it?","answer":"Clockwise","source":"Head removal steps, p.36–37. :contentReference[oaicite:68]{index=68}"}
+{"qid":70,"question":"What should you do with the 3‑tooth blade’s sheath after removal?","answer":"Keep it in a safe place for future use","source":"Head removal/blade notes, p.36–37. :contentReference[oaicite:69]{index=69}"}
+{"qid":71,"question":"When mounting the 3‑tooth blade, what must be flush with the inner flange bulge?","answer":"The surface of the blade","source":"Blade mounting, p.37. :contentReference[oaicite:70]{index=70}"}
+{"qid":72,"question":"Which direction do you finger‑tighten the blade nut before final tightening?","answer":"Counterclockwise","source":"Blade mounting, p.37. :contentReference[oaicite:71]{index=71}"}
+{"qid":73,"question":"What socket size is recommended to tighten the blade nut?","answer":"16 mm","source":"Fig. 12f and text, p.37. :contentReference[oaicite:72]{index=72}"}
+{"qid":74,"question":"When swapping to the brush‑cutter guard, which hardware is reused?","answer":"The two bolts and washers from the string‑trimmer guard","source":"Guard replacement steps, p.38. :contentReference[oaicite:73]{index=73}"}
+{"qid":75,"question":"What is the maximum stem diameter recommended for the 3‑tooth blade?","answer":"3/4 in (2 cm)","source":"Applications, p.26. :contentReference[oaicite:74]{index=74}"}
+{"qid":76,"question":"For best brush‑cutting results, what sweep direction is recommended?","answer":"Cut from right to left in a broad sweep","source":"Brush‑cutting tips, p.40. :contentReference[oaicite:75]{index=75}"}
+{"qid":77,"question":"When cutting woody material up to 3/4 in, which side of the blade should you use?","answer":"The left side of the blade","source":"Brush‑cutter warnings, p.39. :contentReference[oaicite:76]{index=76}"}
+{"qid":78,"question":"Should you use the cutting attachment above waist height?","answer":"No","source":"Brush‑cutter warnings, p.39. :contentReference[oaicite:77]{index=77}"}
+{"qid":79,"question":"What brand of blade must be used with this brush cutter?","answer":"EGO","source":"Brush‑cutting tips, p.40. :contentReference[oaicite:78]{index=78}"}
+{"qid":80,"question":"What practice helps minimize blade‑thrust reaction during brush cutting?","answer":"Approach weeds from right to left","source":"Blade thrust guidance, p.39. :contentReference[oaicite:79]{index=79}"}
+{"qid":81,"question":"Can you clean the trimmer with water?","answer":"No—never use water","source":"Cleaning warnings, p.28 & p.41. :contentReference[oaicite:80]{index=80}"}
+{"qid":82,"question":"How should you clean the rear air vents?","answer":"Use a small brush or a vacuum cleaner","source":"Cleaning instructions, p.41. :contentReference[oaicite:81]{index=81}"}
+{"qid":83,"question":"How often should you check the gear‑case grease level?","answer":"About every 50 hours of operation","source":"Transmission gears lubrication, p.43. :contentReference[oaicite:82]{index=82}"}
+{"qid":84,"question":"To what level should you fill the transmission gear case with grease?","answer":"Up to 3/4 capacity (do not fill completely)","source":"Transmission gears lubrication, p.43. :contentReference[oaicite:83]{index=83}"}
+{"qid":85,"question":"What NLGI grade and thickener type should the grease meet?","answer":"NLGI‑1; Ester thickener","source":"Grease requirements, p.44. :contentReference[oaicite:84]{index=84}"}
+{"qid":86,"question":"What operating temperature range should the grease support?","answer":"−40°F to 356°F (−40°C to 180°C)","source":"Grease requirements, p.44. :contentReference[oaicite:85]{index=85}"}
+{"qid":87,"question":"What PPE is required when sharpening the line‑cutting blade?","answer":"Heavy gloves and eye protection","source":"Sharpening instructions, p.43. :contentReference[oaicite:86]{index=86}"}
+{"qid":88,"question":"What tool should you use to sharpen the line‑cutting blade?","answer":"A fine‑tooth file or a sharpening stone","source":"Sharpening instructions, p.43. :contentReference[oaicite:87]{index=87}"}
+{"qid":89,"question":"When installing a new trimmer head, which direction do you tighten it?","answer":"Counterclockwise","source":"Trimmer head replacement, p.42. :contentReference[oaicite:88]{index=88}"}
+{"qid":90,"question":"Before installing a new trimmer head, which parts must be correctly located on the motor shaft?","answer":"The inner flange and flange cover","source":"Trimmer head replacement, p.42. :contentReference[oaicite:89]{index=89}"}
+{"qid":91,"question":"If the tool won’t start, what should you check first?","answer":"That the battery is attached and making contact","source":"Troubleshooting table, p.45. :contentReference[oaicite:90]{index=90}"}
+{"qid":92,"question":"What should you do if the battery is too hot to operate?","answer":"Remove it and cool it below 152°F (67°C)","source":"Troubleshooting (battery hot), p.45. :contentReference[oaicite:91]{index=91}"}
+{"qid":93,"question":"What should you do if the machine itself is too hot?","answer":"Remove the battery and cool the tool below 176°F (80°C)","source":"Troubleshooting (machine hot), p.45. :contentReference[oaicite:92]{index=92}"}
+{"qid":94,"question":"If the motor is overloaded, what’s the remedy?","answer":"Remove and reattach the battery, restart, and reduce the load/line length/woody cutting","source":"Overload guidance, p.31 & troubleshooting p.45. :contentReference[oaicite:93]{index=93}"}
+{"qid":95,"question":"If you notice excessive vibration or noise because grease is low, what should you do?","answer":"Lubricate the drive gears per the lubrication section","source":"Troubleshooting, p.46. :contentReference[oaicite:94]{index=94}"}
+{"qid":96,"question":"If the lower cover of the trimmer head is worn out, what should you do before further use?","answer":"Replace it with a new lower cover","source":"Troubleshooting, p.46. :contentReference[oaicite:95]{index=95}"}
+{"qid":97,"question":"If the head or drive shaft is bound with grass and line won’t advance, what should you do?","answer":"Stop, remove the battery, and clean the shaft/head thoroughly","source":"Troubleshooting, p.46. :contentReference[oaicite:96]{index=96}"}
+{"qid":98,"question":"If the line is tangled in the head, what’s the fix?","answer":"Remove the battery and reload the line per the Line Replacement steps","source":"Troubleshooting, p.46 & Line Replacement p.34. :contentReference[oaicite:97]{index=97}"}
+{"qid":99,"question":"If grass wraps around the head while trimming, how should you cut tall grass to avoid wrapping?","answer":"Cut from the top down, removing no more than 8 in (20 cm) per pass","source":"Troubleshooting, p.47. :contentReference[oaicite:98]{index=98}"}
+{"qid":100,"question":"If the blade on the guard won’t cut the line, what should you do?","answer":"Sharpen the blade with a file or replace it","source":"Troubleshooting, p.47. :contentReference[oaicite:99]{index=99}"}
