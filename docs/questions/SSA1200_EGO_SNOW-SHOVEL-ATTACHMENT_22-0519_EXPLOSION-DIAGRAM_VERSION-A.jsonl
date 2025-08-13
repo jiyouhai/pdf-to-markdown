@@ -1,100 +1,100 @@
-{"qid": 1, "question": "What is the product description shown on page 1?"}
-{"qid": 2, "question": "What model number is printed on page 1?"}
-{"qid": 3, "question": "What body number is printed on page 1?"}
-{"qid": 4, "question": "What version letter is shown on the document?"}
-{"qid": 5, "question": "What is the issue date printed on page 1?"}
-{"qid": 6, "question": "Which brand logo appears in the top-left of the exploded diagram page?"}
-{"qid": 7, "question": "How many distinct callout numbers are shown in the exploded diagram on page 1?"}
-{"qid": 8, "question": "Which page contains the “Service Part List_SSA1200_Version A” table?"}
-{"qid": 9, "question": "What version of SSA1200 does the service part list correspond to?"}
-{"qid": 10, "question": "What product model code appears in the “Product Model#” column for all rows in the table?"}
-{"qid": 11, "question": "What is the part number for item No. 1 “Screw”?"}
-{"qid": 12, "question": "What is the part number for item No. 2 “Rear Cover Assembly”?"}
-{"qid": 13, "question": "What is the part number for item No. 3 “Center Bushing”?"}
-{"qid": 14, "question": "What is the part number for item No. 4 “Washer”?"}
-{"qid": 15, "question": "What is the part number for item No. 5 “Connecting Rod Assembly”?"}
-{"qid": 16, "question": "What is the part number for item No. 6 “Guide Blade”?"}
-{"qid": 17, "question": "What is the part number for item No. 7 “Gear Pin”?"}
-{"qid": 18, "question": "What is the part number for item No. 8 “Lever ASSY”?"}
-{"qid": 19, "question": "What is the part number for item No. 9 “Right Cover”?"}
-{"qid": 20, "question": "What is the part number for item No. 10 “Poly V-Belt”?"}
-{"qid": 21, "question": "What is the part number for item No. 11 “Tension Spring”?"}
-{"qid": 22, "question": "What is the part number for item No. 12 “Big Belt Pulley Assembly”?"}
-{"qid": 23, "question": "What is the part number for item No. 13 “Screw”?"}
-{"qid": 24, "question": "What is the part number for item No. 14 “Cover Plate”?"}
-{"qid": 25, "question": "What is the part number for item No. 15 “Ball Bearing”?"}
-{"qid": 26, "question": "What is the part number for item No. 16 “Bearing Holder”?"}
-{"qid": 27, "question": "What is the part number for item No. 17 “Scraper”?"}
-{"qid": 28, "question": "What is the part number for item No. 18 “Auger”?"}
-{"qid": 29, "question": "What is the part number for item No. 19 “Shaft Sleeve”?"}
-{"qid": 30, "question": "What is the part number for item No. 20 “Front Pulley Shaft”?"}
-{"qid": 31, "question": "What is the part number for item No. 21 “Left Cover”?"}
-{"qid": 32, "question": "What is the part number for item No. 22 “Hexagon Socket Screw”?"}
-{"qid": 33, "question": "What is the part number for item No. 23 “Washer”?"}
-{"qid": 34, "question": "What is the part number for item No. 24 “Bearing Holder”?"}
-{"qid": 35, "question": "What is the part number for item No. 25 “Left Rear Cover”?"}
-{"qid": 36, "question": "What is the part number for item No. 26 “Hexagon Socket Screw”?"}
-{"qid": 37, "question": "What is the part number for item No. 27 “Washer”?"}
-{"qid": 38, "question": "What is the part number for item No. 28 “Hexagon Socket Screw”?"}
-{"qid": 39, "question": "What is the part number for item No. 29 “Hexagon Nut”?"}
-{"qid": 40, "question": "What is the part number for item No. 30 “Plain Washer”?"}
-{"qid": 41, "question": "What is the part number for item No. 31 “Sealing Washer”?"}
-{"qid": 42, "question": "What is the part number for item No. 32 “Shaft”?"}
-{"qid": 43, "question": "What is the part number for item No. 33 “Front Gear Case Assembly”?"}
-{"qid": 44, "question": "What is the part number for item No. 34 “Sleeve”?"}
-{"qid": 45, "question": "What is the part number for item No. 35 “Hexagon Wrench”?"}
-{"qid": 46, "question": "What is the quantity for item No. 1 “Screw”?"}
-{"qid": 47, "question": "What is the quantity for item No. 6 “Guide Blade”?"}
-{"qid": 48, "question": "What is the quantity for item No. 10 “Poly V-Belt”?"}
-{"qid": 49, "question": "What is the quantity for item No. 11 “Tension Spring”?"}
-{"qid": 50, "question": "What is the quantity for item No. 12 “Big Belt Pulley Assembly”?"}
-{"qid": 51, "question": "What is the quantity for item No. 13 “Screw”?"}
-{"qid": 52, "question": "What is the quantity for item No. 15 “Ball Bearing”?"}
-{"qid": 53, "question": "What is the quantity for item No. 17 “Scraper”?"}
-{"qid": 54, "question": "What is the quantity for item No. 18 “Auger”?"}
-{"qid": 55, "question": "What is the quantity for item No. 19 “Shaft Sleeve”?"}
-{"qid": 56, "question": "What is the quantity for item No. 20 “Front Pulley Shaft”?"}
-{"qid": 57, "question": "What is the quantity for item No. 21 “Left Cover”?"}
-{"qid": 58, "question": "What is the quantity for item No. 22 “Hexagon Socket Screw”?"}
-{"qid": 59, "question": "What is the quantity for item No. 24 “Bearing Holder”?"}
-{"qid": 60, "question": "What is the quantity for item No. 25 “Left Rear Cover”?"}
-{"qid": 61, "question": "What is the quantity for item No. 26 “Hexagon Socket Screw”?"}
-{"qid": 62, "question": "What is the quantity for item No. 27 “Washer”?"}
-{"qid": 63, "question": "What is the quantity for item No. 28 “Hexagon Socket Screw”?"}
-{"qid": 64, "question": "What is the quantity for item No. 29 “Hexagon Nut”?"}
-{"qid": 65, "question": "What is the quantity for item No. 35 “Hexagon Wrench”?"}
-{"qid": 66, "question": "What is the description for part number 2828713001?"}
-{"qid": 67, "question": "What is the description for part number 3580339001?"}
-{"qid": 68, "question": "What is the description for part number 3700353001?"}
-{"qid": 69, "question": "What is the description for part number 2828778001?"}
-{"qid": 70, "question": "What is the description for part number 3132877001?"}
-{"qid": 71, "question": "What is the description for part number 3550284001?"}
-{"qid": 72, "question": "What is the description for part number 2824604001?"}
-{"qid": 73, "question": "What is the description for part number 3800191001?"}
-{"qid": 74, "question": "What is the description for part number 3660637001?"}
-{"qid": 75, "question": "What is the description for part number 2828712001?"}
-{"qid": 76, "question": "What is the description for part number 5620183001?"}
-{"qid": 77, "question": "What is the description for part number 3708327001?"}
-{"qid": 78, "question": "What is the description for part number 5700015005?"}
-{"qid": 79, "question": "What is the description for part number 3706269001?"}
-{"qid": 80, "question": "What is the description for part number 3132869001?"}
-{"qid": 81, "question": "List all item numbers whose description contains the word “Washer.”"}
-{"qid": 82, "question": "Which washer items have a quantity of 1?"}
-{"qid": 83, "question": "Which washer items have a quantity of 2?"}
-{"qid": 84, "question": "List the item numbers that are any kind of “Screw” (including “Hexagon Socket Screw”)."}
-{"qid": 85, "question": "How many distinct screw part numbers are listed across the table?"}
-{"qid": 86, "question": "List the item numbers whose description contains “Assembly” or “ASSY.”"}
-{"qid": 87, "question": "List the item numbers whose description contains “Cover.”"}
-{"qid": 88, "question": "Which items are labeled “Left” or “Right” in their description?"}
-{"qid": 89, "question": "Which items contain the word “Front” in their description?"}
-{"qid": 90, "question": "Which items contain the word “Bearing” in their description?"}
-{"qid": 91, "question": "What is the total quantity of screws across all screw types (sum of all “Screw” and “Hexagon Socket Screw” quantities)?"}
-{"qid": 92, "question": "What is the total quantity of hexagon socket screws specifically (sum of the three hex-socket-screw rows)?"}
-{"qid": 93, "question": "What is the total quantity of washers across all washer types?"}
-{"qid": 94, "question": "How many items are labeled as assemblies (descriptions containing “Assembly” or “ASSY”)?"}
-{"qid": 95, "question": "What is the combined quantity of “Bearing Holder” items (item Nos. 16 and 24)?"}
-{"qid": 96, "question": "What is the combined quantity of “Sleeve” items (item Nos. 19 and 34)?"}
-{"qid": 97, "question": "What is the combined quantity of “Cover” items (including Right/Left/Rear/Cover Plate)?"}
-{"qid": 98, "question": "Which single line item has the highest quantity in the table?"}
-{"qid": 99, "question": "What is the only tool included in the service part list, and what is its item number?"}
-{"qid": 100, "question": "Among “Left Cover” and “Right Cover,” what is their combined quantity?"}
+{"qid": 1, "question": "What is the part number for the Rear Cover Assembly used in the SSA1200 snow shovel attachment?", "answer": "2828713001."}
+{"qid": 2, "question": "What is the part number for the Center Bushing used in the SSA1200 snow shovel attachment?", "answer": "3580339001."}
+{"qid": 3, "question": "What is the part number for the Washer (general) used in the SSA1200 snow shovel attachment, item 4?", "answer": "3700353001."}
+{"qid": 4, "question": "What is the part number for the Connecting Rod Assembly used in the SSA1200 snow shovel attachment?", "answer": "2828778001."}
+{"qid": 5, "question": "What is the part number for the Guide Blade used in the SSA1200 snow shovel attachment?", "answer": "3132877001."}
+{"qid": 6, "question": "What is the part number for the Gear Pin used in the SSA1200 snow shovel attachment?", "answer": "3550284001."}
+{"qid": 7, "question": "What is the part number for the Lever ASSY used in the SSA1200 snow shovel attachment?", "answer": "2824604001."}
+{"qid": 8, "question": "What is the part number for the Right Cover used in the SSA1200 snow shovel attachment?", "answer": "3132864001."}
+{"qid": 9, "question": "What is the part number for the Poly V-Belt used in the SSA1200 snow shovel attachment?", "answer": "3800191001."}
+{"qid": 10, "question": "What is the part number for the Tension Spring used in the SSA1200 snow shovel attachment?", "answer": "3660637001."}
+{"qid": 11, "question": "What is the part number for the Big Belt Pulley Assembly used in the SSA1200 snow shovel attachment?", "answer": "2828712001."}
+{"qid": 12, "question": "What is the part number for the Cover Plate used in the SSA1200 snow shovel attachment?", "answer": "3708327001."}
+{"qid": 13, "question": "What is the part number for the Ball Bearing used in the SSA1200 snow shovel attachment?", "answer": "5700015005."}
+{"qid": 14, "question": "What is the part number for the Scraper used in the SSA1200 snow shovel attachment?", "answer": "3132869001."}
+{"qid": 15, "question": "What is the part number for the Auger used in the SSA1200 snow shovel attachment?", "answer": "3132880001."}
+{"qid": 16, "question": "What is the part number for the Shaft Sleeve used in the SSA1200 snow shovel attachment?", "answer": "3580338001."}
+{"qid": 17, "question": "What is the part number for the Front Pulley Shaft used in the SSA1200 snow shovel attachment?", "answer": "3553887001."}
+{"qid": 18, "question": "What is the part number for the Left Cover used in the SSA1200 snow shovel attachment?", "answer": "3132863001."}
+{"qid": 19, "question": "What is the part number for the Plain Washer used in the SSA1200 snow shovel attachment?", "answer": "5650597001."}
+{"qid": 20, "question": "What is the part number for the Sealing Washer used in the SSA1200 snow shovel attachment?", "answer": "5690254001."}
+{"qid": 21, "question": "What is the part number for the Shaft used in the SSA1200 snow shovel attachment?", "answer": "3553891001."}
+{"qid": 22, "question": "What is the part number for the Front Gear Case Assembly used in the SSA1200 snow shovel attachment?", "answer": "2828720001."}
+{"qid": 23, "question": "What is the part number for the Sleeve used in the SSA1200 snow shovel attachment?", "answer": "3128734001."}
+{"qid": 24, "question": "What is the part number for the Hexagon Wrench supplied with the SSA1200 snow shovel attachment?", "answer": "5680028001."}
+{"qid": 25, "question": "What is the part number for the Hexagon Nut used in the SSA1200 snow shovel attachment?", "answer": "5630003010."}
+{"qid": 26, "question": "How many Screws are required for the SSA1200 (item 1)?", "answer": "37."}
+{"qid": 27, "question": "How many Rear Cover Assemblies are required for the SSA1200 (item 2)?", "answer": "1."}
+{"qid": 28, "question": "How many Center Bushings are required for the SSA1200 (item 3)?", "answer": "1."}
+{"qid": 29, "question": "How many Washers (item 4) are required for the SSA1200?", "answer": "2."}
+{"qid": 30, "question": "How many Connecting Rod Assemblies are required for the SSA1200 (item 5)?", "answer": "1."}
+{"qid": 31, "question": "How many Guide Blades are required for the SSA1200 (item 6)?", "answer": "3."}
+{"qid": 32, "question": "How many Gear Pins are required for the SSA1200 (item 7)?", "answer": "1."}
+{"qid": 33, "question": "How many Lever ASSY parts are required for the SSA1200 (item 8)?", "answer": "1."}
+{"qid": 34, "question": "How many Right Covers are required for the SSA1200 (item 9)?", "answer": "1."}
+{"qid": 35, "question": "How many Poly V-Belts are required for the SSA1200 (item 10)?", "answer": "1."}
+{"qid": 36, "question": "How many Tension Springs are required for the SSA1200 (item 11)?", "answer": "1."}
+{"qid": 37, "question": "How many Big Belt Pulley Assemblies are required for the SSA1200 (item 12)?", "answer": "1."}
+{"qid": 38, "question": "How many Screws are required for the SSA1200 (item 13)?", "answer": "2."}
+{"qid": 39, "question": "How many Cover Plates are required for the SSA1200 (item 14)?", "answer": "1."}
+{"qid": 40, "question": "How many Ball Bearings are required for the SSA1200 (item 15)?", "answer": "2."}
+{"qid": 41, "question": "How many Bearing Holders are required for the SSA1200 (item 16)?", "answer": "1."}
+{"qid": 42, "question": "How many Scrapers are required for the SSA1200 (item 17)?", "answer": "1."}
+{"qid": 43, "question": "How many Augers are required for the SSA1200 (item 18)?", "answer": "1."}
+{"qid": 44, "question": "How many Shaft Sleeves are required for the SSA1200 (item 19)?", "answer": "2."}
+{"qid": 45, "question": "How many Front Pulley Shafts are required for the SSA1200 (item 20)?", "answer": "1."}
+{"qid": 46, "question": "How many Left Covers are required for the SSA1200 (item 21)?", "answer": "1."}
+{"qid": 47, "question": "How many Hexagon Socket Screws are required for the SSA1200 (item 22)?", "answer": "2."}
+{"qid": 48, "question": "How many Washers are required for the SSA1200 (item 23)?", "answer": "2."}
+{"qid": 49, "question": "How many Bearing Holders are required for the SSA1200 (item 24)?", "answer": "1."}
+{"qid": 50, "question": "How many Left Rear Covers are required for the SSA1200 (item 25)?", "answer": "1."}
+{"qid": 51, "question": "How many Hexagon Socket Screws are required for the SSA1200 (item 26)?", "answer": "2."}
+{"qid": 52, "question": "How many Washers are required for the SSA1200 (item 27)?", "answer": "2."}
+{"qid": 53, "question": "How many Hexagon Socket Screws are required for the SSA1200 (item 28)?", "answer": "1."}
+{"qid": 54, "question": "How many Hexagon Nuts are required for the SSA1200 (item 29)?", "answer": "2."}
+{"qid": 55, "question": "How many Plain Washers are required for the SSA1200 (item 30)?", "answer": "1."}
+{"qid": 56, "question": "How many Sealing Washers are required for the SSA1200 (item 31)?", "answer": "1."}
+{"qid": 57, "question": "How many Shafts are required for the SSA1200 (item 32)?", "answer": "1."}
+{"qid": 58, "question": "How many Front Gear Case Assemblies are required for the SSA1200 (item 33)?", "answer": "1."}
+{"qid": 59, "question": "How many Sleeves are required for the SSA1200 (item 34)?", "answer": "1."}
+{"qid": 60, "question": "How many Hexagon Wrenches are supplied with the SSA1200 (item 35)?", "answer": "1."}
+{"qid": 61, "question": "What component does part number 5620479001 correspond to on the SSA1200?", "answer": "Screw (item 1)."}
+{"qid": 62, "question": "What component does part number 2828713001 correspond to on the SSA1200?", "answer": "Rear Cover Assembly (item 2)."}
+{"qid": 63, "question": "What component does part number 3580339001 correspond to on the SSA1200?", "answer": "Center Bushing (item 3)."}
+{"qid": 64, "question": "What component does part number 3700353001 correspond to on the SSA1200?", "answer": "Washer (item 4)."}
+{"qid": 65, "question": "What component does part number 2828778001 correspond to on the SSA1200?", "answer": "Connecting Rod Assembly (item 5)."}
+{"qid": 66, "question": "What component does part number 3132877001 correspond to on the SSA1200?", "answer": "Guide Blade (item 6)."}
+{"qid": 67, "question": "What component does part number 3550284001 correspond to on the SSA1200?", "answer": "Gear Pin (item 7)."}
+{"qid": 68, "question": "What component does part number 2824604001 correspond to on the SSA1200?", "answer": "Lever ASSY (item 8)."}
+{"qid": 69, "question": "What component does part number 3132864001 correspond to on the SSA1200?", "answer": "Right Cover (item 9)."}
+{"qid": 70, "question": "What component does part number 3800191001 correspond to on the SSA1200?", "answer": "Poly V-Belt (item 10)."}
+{"qid": 71, "question": "What component does part number 3660637001 correspond to on the SSA1200?", "answer": "Tension Spring (item 11)."}
+{"qid": 72, "question": "What component does part number 2828712001 correspond to on the SSA1200?", "answer": "Big Belt Pulley Assembly (item 12)."}
+{"qid": 73, "question": "What component does part number 5620183001 correspond to on the SSA1200?", "answer": "Screw (item 13)."}
+{"qid": 74, "question": "What component does part number 3708327001 correspond to on the SSA1200?", "answer": "Cover Plate (item 14)."}
+{"qid": 75, "question": "What component does part number 5700015005 correspond to on the SSA1200?", "answer": "Ball Bearing (item 15)."}
+{"qid": 76, "question": "What component does part number 3706269001 correspond to on the SSA1200?", "answer": "Bearing Holder (item 16)."}
+{"qid": 77, "question": "What component does part number 3132869001 correspond to on the SSA1200?", "answer": "Scraper (item 17)."}
+{"qid": 78, "question": "What component does part number 3132880001 correspond to on the SSA1200?", "answer": "Auger (item 18)."}
+{"qid": 79, "question": "What component does part number 3580338001 correspond to on the SSA1200?", "answer": "Shaft Sleeve (item 19)."}
+{"qid": 80, "question": "What component does part number 3553887001 correspond to on the SSA1200?", "answer": "Front Pulley Shaft (item 20)."}
+{"qid": 81, "question": "How many distinct screw part numbers are listed (count both standard screws and hexagon socket screws)?", "answer": "5."}
+{"qid": 82, "question": "What is the total screw count required across all screw types?", "answer": "44."}
+{"qid": 83, "question": "How many hexagon socket screws are required in total?", "answer": "5."}
+{"qid": 84, "question": "How many washer types are listed in the service part list (including plain and sealing)?", "answer": "5."}
+{"qid": 85, "question": "What is the combined quantity of all washers (including plain and sealing)?", "answer": "8."}
+{"qid": 86, "question": "Which line item has the highest quantity and what is that quantity?", "answer": "Item 1 (Screw) with 37."}
+{"qid": 87, "question": "List the item numbers that are assemblies (descriptions contain 'Assembly' or 'ASSY').", "answer": "2, 5, 8, 12, 33."}
+{"qid": 88, "question": "What is the combined quantity of the two Bearing Holder items?", "answer": "2."}
+{"qid": 89, "question": "List the cover-related parts with their part numbers.", "answer": "Rear Cover Assembly (2828713001); Right Cover (3132864001); Cover Plate (3708327001); Left Cover (3132863001); Left Rear Cover (3132865001)."}
+{"qid": 90, "question": "Provide the part numbers and quantities for all Hexagon Socket Screw items.", "answer": "5610862001 ×2; 5620490002 ×2; 5620213003 ×1."}
+{"qid": 91, "question": "Which parts contain the word 'Front' and what are their part numbers?", "answer": "Front Pulley Shaft (3553887001); Front Gear Case Assembly (2828720001)."}
+{"qid": 92, "question": "What are the part numbers and quantities for the left-side covers?", "answer": "Left Cover (3132863001 ×1); Left Rear Cover (3132865001 ×1)."}
+{"qid": 93, "question": "Which items include 'Shaft' in their description and what are their part numbers?", "answer": "Shaft Sleeve (3580338001); Front Pulley Shaft (3553887001); Shaft (3553891001)."}
+{"qid": 94, "question": "List the belt/pulley-related parts and their part numbers.", "answer": "Poly V-Belt (3800191001); Big Belt Pulley Assembly (2828712001); Front Pulley Shaft (3553887001)."}
+{"qid": 95, "question": "How many ball bearings are listed and what is their part number?", "answer": "2, part number 5700015005."}
+{"qid": 96, "question": "How many distinct line items are in the service part list?", "answer": "35."}
+{"qid": 97, "question": "Which items include 'Hexagon' in the description and what are their part numbers and quantities?", "answer": "Hexagon Socket Screw (5610862001 ×2); Hexagon Socket Screw (5620490002 ×2); Hexagon Socket Screw (5620213003 ×1); Hexagon Nut (5630003010 ×2); Hexagon Wrench (5680028001 ×1)."}
+{"qid": 98, "question": "What spring is listed for the SSA1200 and how many are required?", "answer": "Tension Spring (part 3660637001) ×1."}
+{"qid": 99, "question": "Is a tool included in the list? If yes, provide its part number and quantity.", "answer": "Yes — Hexagon Wrench 5680028001 ×1."}
+{"qid": 100, "question": "How many guide blades are used on the SSA1200 and what is their part number?", "answer": "3 pieces, part 3132877001."}
