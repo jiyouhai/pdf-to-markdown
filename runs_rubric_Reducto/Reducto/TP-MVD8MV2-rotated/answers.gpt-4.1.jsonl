@@ -1,0 +1,100 @@
+{"id": "1", "answer": "TP-MVD8MV2; 8MP HD TwilightVision IR VF Turret Network Camera"}
+{"id": "2", "answer": "Yes; to be used with SMART Series NVR with Turing Vision Cloud"}
+{"id": "3", "answer": "2.8-12mm, AF automatic focusing and motorized zoom lens"}
+{"id": "4", "answer": "8MP (3840x2160) at 20fps"}
+{"id": "5", "answer": "5MP (3072x1728), Max 30fps; 4MP (2560x1440), Max 30fps; 1080P (1920x1080), Max 30fps"}
+{"id": "6", "answer": "1/2.8\", 8.0 megapixel, progressive scan, CMOS"}
+{"id": "7", "answer": "Yes, built-in mic is supported"}
+{"id": "8", "answer": "Up to 40m (131ft) IR range"}
+{"id": "9", "answer": "TwilightVision technology provides superior low-light performance; minimum illumination is 0.003Lux (F1.6, AGC ON) in color and 0Lux with IR."}
+{"id": "10", "answer": "120dB"}
+{"id": "11", "answer": "850nm"}
+{"id": "12", "answer": "107.4° ~ 29.2°"}
+{"id": "13", "answer": "54.2° - 16.3°"}
+{"id": "14", "answer": "111.0° ~ 33.1°"}
+{"id": "15", "answer": "Tilt: 0° ~ 75°; Pan: 0° ~ 360°; Rotate: 0° ~ 360°"}
+{"id": "16", "answer": "1~1/100000s"}
+{"id": "17", "answer": ">56dB"}
+{"id": "18", "answer": "IR-cut filter with auto switch (ICR)"}
+{"id": "19", "answer": "2D/3D DNR"}
+{"id": "20", "answer": "Auto or manual control"}
+{"id": "21", "answer": "Yes; digital defog is supported"}
+{"id": "22", "answer": "Ultra 265; H.265; H.264; MJPEG"}
+{"id": "23", "answer": "Baseline profile; Main Profile"}
+{"id": "24", "answer": "Sub Stream: 1080P (1920x1080) Max 30fps; 720P (1280x720) Max 30fps; D1 (720x576) Max 30fps; 640x360 Max 30fps; 2CIF (704x288) Max 30fps; CIF (352x288) Max 30fps"}
+{"id": "25", "answer": "D1 (720x576), Max 30fps; 640x360, Max 30fps; 2CIF (704x288), Max 30fps; CIF (352x288), Max 30fps"}
+{"id": "26", "answer": "128 Kbps~16 Mbps"}
+{"id": "27", "answer": "Up to 8 OSDs"}
+{"id": "28", "answer": "Up to 4 areas"}
+{"id": "29", "answer": "Up to 8 areas"}
+{"id": "30", "answer": "Up to 4 areas"}
+{"id": "31", "answer": "Auto; Outdoor; Fine Tune; Sodium Lamp; Locked; Auto2"}
+{"id": "32", "answer": "Smart IR supported"}
+{"id": "33", "answer": "Normal; Vertical; Horizontal; 180°; 90° Clockwise; 90° Anti-clockwise"}
+{"id": "34", "answer": "Supported"}
+{"id": "35", "answer": "Supported"}
+{"id": "36", "answer": "Supported"}
+{"id": "37", "answer": "G.711"}
+{"id": "38", "answer": "Yes, two-way audio is supported."}
+{"id": "39", "answer": "Supported"}
+{"id": "40", "answer": "8KHZ"}
+{"id": "41", "answer": "Micro SD, up to 256GB"}
+{"id": "42", "answer": "Yes; supports ANR for network storage"}
+{"id": "43", "answer": "Cross line; intrusion; enter area detection"}
+{"id": "44", "answer": "Motion detection; tampering alarm; audio detection"}
+{"id": "45", "answer": "Watermark; IP address filtering; tampering alarm; alarm input; alarm output; access policy; ARP protection; RTSP authentication; user authentication"}
+{"id": "46", "answer": "IPv4; IGMP; ICMP; ARP; TCP; UDP; DHCP; PPPOE; RTP; RTSP; RTCP; DNS; DDNS; NTP; FTP; UPnP; HTTP; HTTPS; SMTP; 802.1x; SNMP; QoS"}
+{"id": "47", "answer": "Profile S; Profile G; Profile T"}
+{"id": "48", "answer": "Plug-in required for live view on IE9+, Chrome 41 and below, Firefox 52 and below"}
+{"id": "49", "answer": "1 RJ45 10M/100M Base-TX Ethernet"}
+{"id": "50", "answer": "DC 12V+25%; POE (IEEE 802.3af)"}
+{"id": "51", "answer": "Max 9.0W"}
+{"id": "52", "answer": "129 x 110mm (5.1\" x 4.3\")"}
+{"id": "53", "answer": "0.69kg (1.52lb)"}
+{"id": "54", "answer": "Metal"}
+{"id": "55", "answer": "-30°C ~ 60°C (-22°F ~140°F); Humidity: ≤95% RH (non-condensing)"}
+{"id": "56", "answer": "-30°C ~ 60°C (-22°F ~140°F); Humidity: ≤95% RH (non-condensing)"}
+{"id": "57", "answer": "6KV"}
+{"id": "58", "answer": "IP67"}
+{"id": "59", "answer": "IK10"}
+{"id": "60", "answer": "Yes, supported"}
+{"id": "61", "answer": "CE: EN 60950-1; UL: UL60950-1; FCC: FCC Part 15"}
+{"id": "62", "answer": "turing.ai"}
+{"id": "63", "answer": "sales@turingvideo.com"}
+{"id": "64", "answer": "(877) 730-8222"}
+{"id": "65", "answer": "Three simultaneous video streams are available: main stream, sub stream, and third stream."}
+{"id": "66", "answer": "IR-cut filter with auto switch (ICR)"}
+{"id": "67", "answer": "Yes; supports HTTPS; supports 802.1x"}
+{"id": "68", "answer": "Yes, SNMP is supported"}
+{"id": "69", "answer": "Yes, UPnP is supported"}
+{"id": "70", "answer": "Yes; supports DHCP and PPPoE"}
+{"id": "71", "answer": "RTP, RTSP, and RTCP are supported"}
+{"id": "72", "answer": "DNS and DDNS are supported"}
+{"id": "73", "answer": "IE9+; Chrome 41 and below; Firefox 52 and below"}
+{"id": "74", "answer": "Wall Mount: TP-VDWM; Wall Mount with Junction Box: TP-VDWJ"}
+{"id": "75", "answer": "Pole Mount: TP-UDPM"}
+{"id": "76", "answer": "Pendant Mount: TP-AIPMB"}
+{"id": "77", "answer": "TP-VDJB"}
+{"id": "78", "answer": "Yes; Optional Cable Gland: TP-UWPJ"}
+{"id": "79", "answer": "Yes; Optional Extensions: TP-IPME2 (9\") & TP-IPME5 (22\")"}
+{"id": "80", "answer": "3 mounting holes; 4.5mm (0.2\") size"}
+{"id": "81", "answer": "Up to 40m (131ft) IR range"}
+{"id": "82", "answer": "0 Lux with IR"}
+{"id": "83", "answer": "WDR; HLC; BLC"}
+{"id": "84", "answer": "Ultra 265"}
+{"id": "85", "answer": "8MP (3840x2160) max 20fps; 5MP (3072x1728) max 30fps; 4MP (2560x1440) max 30fps; 1080P (1920x1080) max 30fps"}
+{"id": "86", "answer": "Yes; supports up to 8 ROI areas and up to 4 privacy mask areas"}
+{"id": "87", "answer": "10M/100M Base-TX Ethernet"}
+{"id": "88", "answer": "Supported"}
+{"id": "89", "answer": "RTSP authentication; user authentication"}
+{"id": "90", "answer": "IP67; IK10"}
+{"id": "91", "answer": "Yes, reset button supported"}
+{"id": "92", "answer": "256GB"}
+{"id": "93", "answer": "TwilightVision technology"}
+{"id": "94", "answer": "Turing SMART NVR: TR-MR(P) models"}
+{"id": "95", "answer": "Yes, the camera supports QoS on the network."}
+{"id": "96", "answer": "alarm input and alarm output are supported"}
+{"id": "97", "answer": "RTP; RTSP"}
+{"id": "98", "answer": "107.4°"}
+{"id": "99", "answer": "16.3°"}
+{"id": "100", "answer": "IP67 ingress protection; IK10 vandal resistance; superior low-light performance with TwilightVision; up to 40m IR range; metal construction; wide operating temperature range (-30°C to 60°C)"}

@@ -1,0 +1,100 @@
+{"id": "1", "answer": "Access Camera's Web UI; Initialize Camera; Verify/Modify Camera Encoding Settings; Enable Motion Detection; Connect & Add Camera(s) to Turing NVR"}
+{"id": "2", "answer": "Locate your camera's IP address; enter the IP address into your browser's search bar."}
+{"id": "3", "answer": "Use Auto Search under Settings > Camera > Camera on the Turing Smart NVR to find your camera's IP address."}
+{"id": "4", "answer": "The web UI will prompt you to create a new password for your camera; click Apply to initialize camera(s)"}
+{"id": "5", "answer": "Wisenet's Device Manager"}
+{"id": "6", "answer": "Go to Basic > Video Profile in the camera's web UI; modify the encoding settings to the Turing recommended settings"}
+{"id": "7", "answer": "MJPEG profile is not used by the NVR"}
+{"id": "8", "answer": "H.264 profile"}
+{"id": "9", "answer": "H.265 profile"}
+{"id": "10", "answer": "H.264 for both Main and Sub streams"}
+{"id": "11", "answer": "2MP is recommended"}
+{"id": "12", "answer": "1280x720 (720P)"}
+{"id": "13", "answer": "15"}
+{"id": "14", "answer": "30"}
+{"id": "15", "answer": "CBR"}
+{"id": "16", "answer": "Less than or equal to 2048"}
+{"id": "17", "answer": "Less than or equal to 768"}
+{"id": "18", "answer": "Go to Analytics > Motion Detection; click Enable motion detection checkbox; edit detection area, level of detection, sensitivity, and minimum duration as desired; click Apply to save settings"}
+{"id": "19", "answer": "detection area; level of detection; sensitivity; minimum duration"}
+{"id": "20", "answer": "Click the Enable motion detection checkbox; edit detection area, level of detection, sensitivity, and minimum duration as desired; click Apply to save all settings"}
+{"id": "21", "answer": "Connect Hanwha camera to a POE port on Turing NVR; access Turing NVR web UI via its IP address; login and go to Setup > Camera > Camera; select channel and click Modify; edit username and password fields; click Save."}
+{"id": "22", "answer": "username and password"}
+{"id": "23", "answer": "Yes; you can connect your Hanwha camera directly to one of the POE ports on the back of the Turing Smart NVR."}
+{"id": "24", "answer": "Enter the Turing NVR's IP address into a web browser"}
+{"id": "25", "answer": "Click the Installation Video link in the guide to watch the installation walkthrough"}
+{"id": "26", "answer": "Turing Smart NVR and Turing Vision only support Motion events from Hanwha cameras; Smart VCA events are not supported"}
+{"id": "27", "answer": "Motion events"}
+{"id": "28", "answer": "Use Auto Search under Settings > Camera > Camera on Turing Smart NVR to find your camera's IP address."}
+{"id": "29", "answer": "Yes; for steps 1-4, connect the camera directly to LAN"}
+{"id": "30", "answer": "Basic > Video Profile"}
+{"id": "31", "answer": "Create a new password for your camera; click Apply to initialize camera(s)"}
+{"id": "32", "answer": "H.264"}
+{"id": "33", "answer": "H.264"}
+{"id": "34", "answer": "1280x720 (720P)"}
+{"id": "35", "answer": "Less than 3MP (2MP is recommended)"}
+{"id": "36", "answer": "15"}
+{"id": "37", "answer": "30"}
+{"id": "38", "answer": "CBR"}
+{"id": "39", "answer": "Less than or equal to 2048"}
+{"id": "40", "answer": "Less than or equal to 768"}
+{"id": "41", "answer": "Go to Analytics > Motion Detection; click the Enable motion detection checkbox"}
+{"id": "42", "answer": "Enable motion detection checkbox"}
+{"id": "43", "answer": "detection area; level of detection; sensitivity; minimum duration"}
+{"id": "44", "answer": "Click Apply to save all settings"}
+{"id": "45", "answer": "Setup > Camera > Camera"}
+{"id": "46", "answer": "Click Modify"}
+{"id": "47", "answer": "Click Save"}
+{"id": "48", "answer": "use Wisenet's Device Manager to initialize and modify network settings"}
+{"id": "49", "answer": "Yes, you can connect your Hanwha camera directly to one of the POE ports on the back of the Turing Smart NVR."}
+{"id": "50", "answer": "On the Turing NVR, 'H.264' profile is considered Main Stream, and 'H.265' profile is considered Sub Stream."}
+{"id": "51", "answer": "MJPEG profile is not used by the NVR."}
+{"id": "52", "answer": "Set Main Stream to H.264; resolution less than 3MP (2MP recommended); frame rate 15; frame interval 30; bitrate type CBR; bit rate less than or equal to 2048"}
+{"id": "53", "answer": "Video Compression: H.264; Resolution: 1280x720 (720P); Frame Rate: 15; Frame Interval: 30; Bitrate Type: CBR; Bit Rate: Less than or equal to 768"}
+{"id": "54", "answer": "Access Camera's Web UI; Initialize Camera; Verify/Modify Camera Encoding Settings; Enable Motion Detection"}
+{"id": "55", "answer": "Locate your camera's IP address; enter the camera's IP address into your browser search bar."}
+{"id": "56", "answer": "Enable motion detection"}
+{"id": "57", "answer": "Go to Analytics > Motion Detection in the camera's web UI; adjust the sensitivity setting there."}
+{"id": "58", "answer": "Go to Analytics > Motion Detection; edit the detection area as desired"}
+{"id": "59", "answer": "Go to Analytics > Motion Detection; edit the level of detection and sensitivity as desired"}
+{"id": "60", "answer": "Go to Analytics > Motion Detection; adjust the Minimum duration (s) setting"}
+{"id": "61", "answer": "Edit the username and password fields; click Save"}
+{"id": "62", "answer": "Yes, you need to enter the NVR's IP address into a web browser to access its web UI and log in."}
+{"id": "63", "answer": "Yes; there is an 'Installation Video' section with 'Click Here to Watch the Installation Video' in the guide"}
+{"id": "64", "answer": "Motion events only"}
+{"id": "65", "answer": "sales@turingvideo.com"}
+{"id": "66", "answer": "877-730-8222"}
+{"id": "67", "answer": "For Steps 1-4, connect your camera directly to LAN during setup."}
+{"id": "68", "answer": "Sub Stream should be set to 720p (1280x720) to minimize bandwidth while keeping compatibility."}
+{"id": "69", "answer": "Main Stream should be kept at or below 2MP according to the recommendations."}
+{"id": "70", "answer": "CBR"}
+{"id": "71", "answer": "Less than or equal to 2048"}
+{"id": "72", "answer": "Less than or equal to 768"}
+{"id": "73", "answer": "Edit the detection area, level of detection, sensitivity and minimum duration under Analytics > Motion Detection; increase the level of detection or sensitivity for stronger triggers, and adjust area/minimum duration as desired."}
+{"id": "74", "answer": "Edit the detection area in Analytics > Motion Detection to exclude parts of the scene from motion detection"}
+{"id": "75", "answer": "Go to Basic > Video Profile"}
+{"id": "76", "answer": "On the Turing NVR, 'H.264' profile is considered Main Stream, and 'H.265' profile is considered Sub Stream."}
+{"id": "77", "answer": "H.264"}
+{"id": "78", "answer": "H.264"}
+{"id": "79", "answer": "Auto Search under Settings > Camera > Camera"}
+{"id": "80", "answer": "Verify/Modify Camera Encoding Settings"}
+{"id": "81", "answer": "Go to Analytics > Motion Detection; click the Enable motion detection checkbox; edit detection area, level of detection, sensitivity, and minimum duration as desired; click Apply to save all settings"}
+{"id": "82", "answer": "Click Apply to save all settings"}
+{"id": "83", "answer": "Setup > Camera > Camera"}
+{"id": "84", "answer": "username; password"}
+{"id": "85", "answer": "Video Compression: H.264; Resolution: Less than 3MP (2MP is recommended); Frame Rate: 15; Frame Interval: 30; Bitrate Type: CBR; Bit Rate: Less than or equal to 2048"}
+{"id": "86", "answer": "Clients should view the Sub Stream; settings: H.264, 1280x720 resolution, 15 fps, frame interval 30, CBR, bitrate ≤768 kbps."}
+{"id": "87", "answer": "Sets the minimum duration (in seconds) that motion must be detected before triggering an event"}
+{"id": "88", "answer": "detection area; sensitivity"}
+{"id": "89", "answer": "Smart VCA Events; Turing Vision only supports Motion events from Hanwha cameras"}
+{"id": "90", "answer": "Access camera's web UI; initialize camera; verify/modify camera encoding settings; enable motion detection; connect and add camera(s) to Turing NVR"}
+{"id": "91", "answer": "use Auto Search under Settings > Camera > Camera on Turing Smart NVR to find your camera's IP address"}
+{"id": "92", "answer": "Click Apply to save all settings"}
+{"id": "93", "answer": "Main Stream"}
+{"id": "94", "answer": "Sub Stream"}
+{"id": "95", "answer": "username and password fields"}
+{"id": "96", "answer": "Enter the camera's IP address into a browser search bar"}
+{"id": "97", "answer": "In the camera UI, the stream profile and compression parameters are grouped under Basic > Video Profile."}
+{"id": "98", "answer": "Motion detection must be enabled on the camera"}
+{"id": "99", "answer": "https://turing.ai/"}
+{"id": "100", "answer": "877-730-8222"}

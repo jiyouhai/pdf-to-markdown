@@ -1,0 +1,46 @@
+parser,doc_id,n,acc,score_mean,overconf_rate
+md_mathpix,23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en,100,0.61,0.61,0.32
+md_mathpix,FEIER,100,0.3,0.3,0.57
+md_mathpix,Hanwha_Integration_Guide,100,0.69,0.69,0.3
+md_mathpix,SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A,100,0.94,0.94,0.06
+md_mathpix,TP-MVD8MV2-rotated,100,0.75,0.75,0.2
+md_mathpix,ego_accessory_compatibility_matrix,100,0.68,0.68,0.23
+md_mathpix,feier_start_100_manual,100,0.12,0.12,0.79
+md_mathpix,ihealth_bg5,100,0.25,0.25,0.67
+md_mathpix,zt4200s_ego_zero-turn-riding-mower_version-a,100,0.77,0.77,0.22
+textin,23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en,100,0.6,0.6,0.34
+textin,FEIER,100,0.49,0.49,0.5
+textin,Hanwha_Integration_Guide,100,0.61,0.61,0.38
+textin,SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A,100,0.93,0.93,0.07
+textin,TP-MVD8MV2-rotated,100,0.8,0.8,0.2
+textin,ego_accessory_compatibility_matrix,100,0.59,0.59,0.26
+textin,feier_start_100_manual,100,0.1,0.1,0.83
+textin,ihealth_bg5,100,0.29,0.29,0.62
+textin,zt4200s_ego_zero-turn-riding-mower_version-a,100,0.79,0.79,0.21
+Reducto,23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en,100,0.57,0.57,0.33
+Reducto,FEIER,100,0.5,0.5,0.5
+Reducto,Hanwha_Integration_Guide,100,0.65,0.65,0.35
+Reducto,SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A,100,0.94,0.94,0.06
+Reducto,TP-MVD8MV2-rotated,100,0.8,0.8,0.2
+Reducto,ego_accessory_compatibility_matrix,100,0.39,0.39,0.24
+Reducto,feier_start_100_manual,100,0.11,0.11,0.82
+Reducto,ihealth_bg5,100,0.24,0.24,0.72
+Reducto,zt4200s_ego_zero-turn-riding-mower_version-a,100,0.69,0.69,0.28
+own tool,23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en,100,0.59,0.59,0.35
+own tool,FEIER,100,0.4,0.4,0.52
+own tool,Hanwha_Integration_Guide,100,0.29,0.29,0.33
+own tool,SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A,100,0.95,0.95,0.05
+own tool,TP-MVD8MV2-rotated,100,0.81,0.81,0.19
+own tool,ego_accessory_compatibility_matrix,100,0.55,0.55,0.16
+own tool,feier_start_100_manual,100,0.09,0.09,0.81
+own tool,ihealth_bg5,100,0.25,0.25,0.7
+own tool,zt4200s_ego_zero-turn-riding-mower_version-a,100,0.16,0.16,0.42
+md_marker,23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en,100,0.63,0.63,0.35
+md_marker,FEIER,100,0.49,0.49,0.5
+md_marker,Hanwha_Integration_Guide,100,0.48,0.48,0.38
+md_marker,SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A,100,0.94,0.94,0.06
+md_marker,TP-MVD8MV2-rotated,100,0.79,0.79,0.16
+md_marker,ego_accessory_compatibility_matrix,100,0.61,0.61,0.22
+md_marker,feier_start_100_manual,100,0.12,0.12,0.79
+md_marker,ihealth_bg5,100,0.24,0.24,0.69
+md_marker,zt4200s_ego_zero-turn-riding-mower_version-a,100,0.78,0.78,0.2

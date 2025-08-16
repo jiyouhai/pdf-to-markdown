@@ -1,0 +1,100 @@
+{"id": "1", "answer": "TP-MVD8MV2; 8.0 megapixel motorized varifocal dome camera"}
+{"id": "2", "answer": "Compatible with Turing SMART NVR: TR-MR(P) models; NOT_FOUND for Turing Vision Cloud"}
+{"id": "3", "answer": "2.8 ~ 12 mm, AF automatic focusing and motorized zoom lens"}
+{"id": "4", "answer": "8MP (3840x2160), Max 20fps"}
+{"id": "5", "answer": "5MP (3072x1728), Max 30fps; 4MP (2560x1440), Max 30fps; 1080P (1920x1080), Max 30fps"}
+{"id": "6", "answer": "1/2.8\", 8.0 megapixel, progressive scan, CMOS"}
+{"id": "7", "answer": "Supported"}
+{"id": "8", "answer": "Up to 40m (131ft) IR range"}
+{"id": "9", "answer": "Minimum illumination: Color 0.003Lux (F1.6, AGC ON); 0Lux with IR; IR range up to 40m (131ft)"}
+{"id": "10", "answer": "120 dB"}
+{"id": "11", "answer": "850 nm"}
+{"id": "12", "answer": "107.4° to 29.2°"}
+{"id": "13", "answer": "54.2° to 16.3°"}
+{"id": "14", "answer": "111.0° ~ 33.1°"}
+{"id": "15", "answer": "Pan: 0°~360°; Tilt: 0°~; Rotate: 0°~360°"}
+{"id": "16", "answer": "1 ~ 1/100000s"}
+{"id": "17", "answer": ">56 dB"}
+{"id": "18", "answer": "Day/night switching uses an IR-cut filter with auto switch (ICR)"}
+{"id": "19", "answer": "2D/3D DNR"}
+{"id": "20", "answer": "Auto/Manual"}
+{"id": "21", "answer": "Yes, digital defog is supported."}
+{"id": "22", "answer": "Ultra 265; H.265; H.264; MJPEG"}
+{"id": "23", "answer": "Baseline profile; Main Profile"}
+{"id": "24", "answer": "1080P (1920x1080), Max 30fps; 720P (1280x720), Max 30fps; D1 (720x576), Max 30fps; 640x360, Max 30fps; 2CIF (704x288), Max 30fps; CIF (352x288), Max 30fps"}
+{"id": "25", "answer": "D1 (720x576), Max 30fps; 640x360, Max 30fps; 2CIF(704x288), Max 30fps; CIF(352x288), Max 30fps"}
+{"id": "26", "answer": "128 Kbps~16 Mbps"}
+{"id": "27", "answer": "Up to 8 OSDs"}
+{"id": "28", "answer": "Up to 4 areas"}
+{"id": "29", "answer": "Up to 8 areas"}
+{"id": "30", "answer": "Up to 4 areas"}
+{"id": "31", "answer": "Auto; Outdoor; Fine Tune; Sodium Lamp; Locked; Auto2"}
+{"id": "32", "answer": "Smart IR is supported"}
+{"id": "33", "answer": "Normal; Vertical; Horizontal; 180°; 90° Clockwise; 90° Anticlockwise"}
+{"id": "34", "answer": "Supported"}
+{"id": "35", "answer": "Yes, HLC is supported."}
+{"id": "36", "answer": "Yes, BLC is supported."}
+{"id": "37", "answer": "G. 711"}
+{"id": "38", "answer": "Yes, two-way audio is supported"}
+{"id": "39", "answer": "Yes, audio noise suppression is supported."}
+{"id": "40", "answer": "8KHZ"}
+{"id": "41", "answer": "Micro SD, up to 256 GB"}
+{"id": "42", "answer": "Yes, ANR is supported for network storage."}
+{"id": "43", "answer": "Cross line; intrusion; enter area detection"}
+{"id": "44", "answer": "Motion detection; tampering alarm; audio detection"}
+{"id": "45", "answer": "Watermark; IP address filtering; tampering alarm; alarm input; alarm output; access policy; ARP protection; RTSP authentication; user authentication"}
+{"id": "46", "answer": "IPv4; IGMP; ICMP; ARP; TCP; UDP; DHCP; PPPoE; RTP; RTSP; RTCP; DNS; DDNS; NTP; FTP; UPnP; HTTP; HTTPS; SMTP; 802.1x; SNMP; QoS"}
+{"id": "47", "answer": "ONVIF Profile S; Profile G; Profile T"}
+{"id": "48", "answer": "Plug-in required for live view on IE9+, Chrome 41 and below, Firefox 52 and below"}
+{"id": "49", "answer": "1 RJ45 10M/100M Base-TX Ethernet"}
+{"id": "50", "answer": "DC 12V ±25%; PoE (IEEE 802.3af)"}
+{"id": "51", "answer": "Max 9.0 W"}
+{"id": "52", "answer": "Φ129 × 110 mm (Φ5.1'' × 4.3'')"}
+{"id": "53", "answer": "0.69 kg (1.52 lb)"}
+{"id": "54", "answer": "Metal"}
+{"id": "55", "answer": "-30°C to 60°C; ≤95% RH (non-condensing)"}
+{"id": "56", "answer": "-30°C to 60°C (-22°F to 140°F); Humidity: ≤95% RH (non-condensing)"}
+{"id": "57", "answer": "6 KV"}
+{"id": "58", "answer": "IP67"}
+{"id": "59", "answer": "IK10"}
+{"id": "60", "answer": "Supported"}
+{"id": "61", "answer": "CE: EN 60950-1; UL: UL60950-1; FCC: FCC Part 15"}
+{"id": "62", "answer": "NOT_FOUND"}
+{"id": "63", "answer": "NOT_FOUND"}
+{"id": "64", "answer": "NOT_FOUND"}
+{"id": "65", "answer": "Three simultaneous video streams are available: Main Stream, Sub Stream, and Third Stream."}
+{"id": "66", "answer": "IR-cut filter with auto switch (ICR)"}
+{"id": "67", "answer": "Yes; supports HTTPS; supports 802.1x"}
+{"id": "68", "answer": "Supported"}
+{"id": "69", "answer": "Yes, UPnP is supported"}
+{"id": "70", "answer": "Yes; supports DHCP; supports PPPoE"}
+{"id": "71", "answer": "RTP, RTSP, and RTCP are supported"}
+{"id": "72", "answer": "DNS and DDNS are supported"}
+{"id": "73", "answer": "IE9+; Chrome 41 and below; Firefox 52 and below"}
+{"id": "74", "answer": "Wall Mount: TP-VDWM; Wall Mount with Junction Box: TP-VDWJ"}
+{"id": "75", "answer": "Pole Mount: TP-UDPM"}
+{"id": "76", "answer": "NOT_FOUND"}
+{"id": "77", "answer": "TP-VDJB"}
+{"id": "78", "answer": "Yes; Optional Cable Gland: TP-UWPJ"}
+{"id": "79", "answer": "NOT_FOUND"}
+{"id": "80", "answer": "4 mounting holes; size M4"}
+{"id": "81", "answer": "Up to 40m (131ft) IR range"}
+{"id": "82", "answer": "0 Lux with IR"}
+{"id": "83", "answer": "HLC; BLC; WDR"}
+{"id": "84", "answer": "Ultra 265"}
+{"id": "85", "answer": "8MP (3840x2160), Max 20fps; 5MP (3072x1728), Max 30fps; 4MP (2560x1440), Max 30fps; 1080P (1920x1080), Max 30fps"}
+{"id": "86", "answer": "Yes; supports up to 8 ROI areas and up to 4 privacy mask areas"}
+{"id": "87", "answer": "10M/100M Base-TX Ethernet"}
+{"id": "88", "answer": "Yes; two-way audio is supported"}
+{"id": "89", "answer": "RTSP authentication; user authentication"}
+{"id": "90", "answer": "IP67 ingress protection; IK10 vandal resistance; 6 KV surge protection"}
+{"id": "91", "answer": "Reset Button: Supported"}
+{"id": "92", "answer": "256 GB"}
+{"id": "93", "answer": "Minimum Illumination: Color: 0.003Lux (F1.6, AGC ON); OLux with IR"}
+{"id": "94", "answer": "Turing SMART NVR: TR-MR(P) models"}
+{"id": "95", "answer": "Yes, the camera supports QoS on the network."}
+{"id": "96", "answer": "Yes; alarm input and alarm output are supported"}
+{"id": "97", "answer": "RTP; RTSP; RTCP"}
+{"id": "98", "answer": "107.4°"}
+{"id": "99", "answer": "16.3°"}
+{"id": "100", "answer": "IP67 ingress protection; IK10 vandal resistance; -30°C to 60°C operating range; up to 40m IR range; metal construction; surge protection 6KV"}

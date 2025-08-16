@@ -1,0 +1,100 @@
+{"id": "1", "answer": "Fresh capillary whole blood"}
+{"id": "2", "answer": "No; the iHealth Wireless Smart Gluco-Monitoring System (BG5) should not be used for the diagnosis of or screening for diabetes, or for neonatal use."}
+{"id": "3", "answer": "iPhone 5; iPhone 4S; iPhone 4"}
+{"id": "4", "answer": "iPod Touch 5; iPod Touch 4; iPad Mini; iPad 4; iPad 3; iPad 2"}
+{"id": "5", "answer": "iOS V5.0 or higher"}
+{"id": "6", "answer": "Alternate Site Testing (AST) is blood glucose self-monitoring using a blood sample collected from somewhere other than the fingertips; the BG5 allows testing on the palm, forearm, upper arm, calf, or thigh with equivalent results to fingertip testing."}
+{"id": "7", "answer": "AST is appropriate in a pre-meal or fasting state (two hours or more after the last meal); two hours or more after taking insulin; two hours or more after exercising; only during steady-state times when glucose levels are not changing rapidly."}
+{"id": "8", "answer": "Avoid AST if you think your blood glucose is low; believe you may be hypoglycemic; are testing for hyperglycemia; your routine glucose results fluctuate often; you are pregnant."}
+{"id": "9", "answer": "AST readings should not be used to calibrate CGMs; results from AST should not be used in insulin dose calculations."}
+{"id": "10", "answer": "Pain is felt less acutely at alternate sites because they have fewer nerve endings than fingertips."}
+{"id": "11", "answer": "Monitors glucose levels by measuring the amount of electrical currents generated when glucose reacts with the reagent of a test strip; the current strength depends on glucose amount; the meter measures the current and converts it to blood glucose level."}
+{"id": "12", "answer": "Fingerstick devices should not be used on more than one person due to risk of transmitting bloodborne pathogens; refer to FDA and CDC guidance."}
+{"id": "13", "answer": "NOT_FOUND"}
+{"id": "14", "answer": "Perform a Control Solution test; repeat the test with a new test strip; if results are still out of range, discontinue use and call iHealth Labs Customer Service at +1-855-816-7705."}
+{"id": "15", "answer": "fresh capillary whole blood"}
+{"id": "16", "answer": "iHealth AGS-1000I Blood Glucose Test Strip"}
+{"id": "17", "answer": "The flashing blood‑drop icon means the meter is ready for a blood sample."}
+{"id": "18", "answer": "The CTL symbol appears when doing a control test and indicates that the result won’t be stored in the memory."}
+{"id": "19", "answer": "NOT_FOUND"}
+{"id": "20", "answer": "Connect the meter with your iOS device via Bluetooth and set the time through the iHealth App."}
+{"id": "21", "answer": "Press and hold the Memory Button for 3 seconds to turn the meter on; enable Bluetooth on your iOS device; when the “📶” symbol appears, the meter is in Bluetooth communication mode."}
+{"id": "22", "answer": "The Bluetooth icon indicates wireless communication capability."}
+{"id": "23", "answer": "To help you manage your test strip."}
+{"id": "24", "answer": "Yes, BG5 results are plasma-calibrated."}
+{"id": "25", "answer": "Yes; you may perform a test even when the meter is not connected to your iOS device via Bluetooth, and the meter will save up to 500 test results."}
+{"id": "26", "answer": "Your iOS device will beep when you should remove the test strip from the blood sample."}
+{"id": "27", "answer": "Your blood glucose results will be displayed on the iOS device."}
+{"id": "28", "answer": "Hold down the eject button to promote the direction of the test strips; the test strips will leave the blood glucose meter; discard the used test strips directly into the waste container."}
+{"id": "29", "answer": "Discard the used lancet directly into a container designed for sharp objects; always wash hands thoroughly with soap and water after handling."}
+{"id": "30", "answer": "First receiving the meter; checking the meter and test strips at least once a week; using a new vial of test strips; suspecting the meter or test strips are not working properly; blood glucose test results are not consistent with how you feel or seem inaccurate; practicing the testing process; the meter has been dropped or damaged"}
+{"id": "31", "answer": "Insert the test strip to turn on the meter; press the Memory Button to turn on CTL mode when the CTL symbol appears."}
+{"id": "32", "answer": "Use the second drop of the Control Solution; discard the first drop."}
+{"id": "33", "answer": "Do not directly apply Control Solution onto a strip; squeeze a drop into the vial cap and use the second drop."}
+{"id": "34", "answer": "within the range printed on the test strip vial label"}
+{"id": "35", "answer": "Error in performing the test; expired or contaminated Control Solution; expired or contaminated test strip; meter malfunction"}
+{"id": "36", "answer": "Control Solution tests conducted in regular testing mode will save results with regular test results, which may yield inaccurate blood glucose levels."}
+{"id": "37", "answer": "NOT_FOUND"}
+{"id": "38", "answer": "Press and release the Memory Button on the meter to view stored test results; the first reading shown is the most recent; when finished, 'End' will appear and the meter will turn off automatically."}
+{"id": "39", "answer": "When you reach the last test result and 'End' appears; if you do not operate the meter in 30 seconds"}
+{"id": "40", "answer": "<110 mg/dL"}
+{"id": "41", "answer": "<140 mg/dL"}
+{"id": "42", "answer": "Perform a Control Solution test before going to the lab; fast for at least eight hours if possible; take your meter to the lab; ensure both tests are done within 15 minutes of each other; wash hands before obtaining a blood sample; never use blood from a test tube; use fresh capillary blood only."}
+{"id": "43", "answer": "Use only fresh whole blood samples to test your blood glucose for lab comparisons."}
+{"id": "44", "answer": "NOT_FOUND"}
+{"id": "45", "answer": "2 minutes"}
+{"id": "46", "answer": "11,000 cycles"}
+{"id": "47", "answer": "Users cannot insert the disinfecting towelette into the test strip port and the metal connector, or else the performance of the meter may be influenced."}
+{"id": "48", "answer": "FDA Public Health Notification (2010); CDC Clinical Reminder (2010) about risks of transmitting bloodborne pathogens when using fingerstick devices on more than one person"}
+{"id": "49", "answer": "Amperometric technology using glucose oxidase"}
+{"id": "50", "answer": "20 mg/dL ～ 600 mg/dL (1.1 mmol/L ～ 33.3 mmol/L)"}
+{"id": "51", "answer": "Power source: DC 3.7V, Li-ion 250mAh"}
+{"id": "52", "answer": "FCC ID: ZRYBG5; complies with Part 15 of the FCC Rules; complies with Industry Canada licence-exempt RSS standard(s); approved in accordance to R&TTE directive transmitter"}
+{"id": "53", "answer": "Test Strips: 39.2° F ～ 86° F (4° C ～ 30° C), Humidity < 80% RH"}
+{"id": "54", "answer": "-4° F - 131° F (-20° C ～ 55° C); Humidity < 80% RH"}
+{"id": "55", "answer": "50°F to 104°F (10°C to 40°C)"}
+{"id": "56", "answer": "Min. 0.7 micro liter"}
+{"id": "57", "answer": "Five years"}
+{"id": "58", "answer": "The BG5 can be used up to an altitude of 3276 meters (10744 feet)."}
+{"id": "59", "answer": "ascorbic acid; uric acid; acetaminophen; Dopamine; L-dopa"}
+{"id": "60", "answer": "Severely dehydrated patients; severely hypotensive individuals; patients in shock; individuals in a hyperglycemic-hyperosmolar state (with or without ketosis); not for diagnosis or screening for diabetes; not for neonatal use."}
+{"id": "61", "answer": "Avoid using blood samples collected in a test tube; use only fresh capillary blood."}
+{"id": "62", "answer": "No, the iHealth Wireless Smart Glucose Meter is not intended for use on newborns."}
+{"id": "63", "answer": "If blood glucose level is lower than 20mg/dl (1.1mmol/L), the message indicates very low blood glucose; consult with your healthcare professional."}
+{"id": "64", "answer": "Blood glucose level is higher than 600 mg/dl (33.3mmol/L); Seek immediate medical assistance."}
+{"id": "65", "answer": "The environmental temperature is lower than 50℉; action: test at a higher environmental temperature."}
+{"id": "66", "answer": "The environmental temperature is higher than 104℉; action: test at a lower environmental temperature."}
+{"id": "67", "answer": "The 'LOW BATTERY SYMBOL' indicates low battery; action: please charge the battery."}
+{"id": "68", "answer": "Error: Time has not been set; Fix: Connect IOS devices, synchronize time."}
+{"id": "69", "answer": "Battery power is too low; too much time has passed between inserting the test strip and performing the test; test strip not fully inserted. First steps: charge the battery; reinsert the test strip into the meter, pressing firmly."}
+{"id": "70", "answer": "Use a new Test Strip and redo the test."}
+{"id": "71", "answer": "Error in performing the test; expired or contaminated Control Solution; expired or contaminated test strip; iHealth Wireless Smart Gluco-Monitoring System (BG5) malfunction."}
+{"id": "72", "answer": "Always use care when handling the Wireless Smart Glucose Meter; dropping or throwing the meter may cause damage."}
+{"id": "73", "answer": "No, do not place the Wireless Smart Glucose Meter on soft surfaces that may block test ports."}
+{"id": "74", "answer": "The Memory Button is located on the side of the meter; it is used to turn on the meter and view past test results."}
+{"id": "75", "answer": "The Eject Button is located at the back side of the meter; it is used to automatically remove the test strip."}
+{"id": "76", "answer": "Charge the meter through the provided USB cable using the MINI USB PORT."}
+{"id": "77", "answer": "The low-battery symbol appears when the battery is low."}
+{"id": "78", "answer": "You may touch the test strip anywhere on its surface with clean dry hands."}
+{"id": "79", "answer": "NOT_FOUND"}
+{"id": "80", "answer": "You can view your measurement status and your test results on the screen."}
+{"id": "81", "answer": "Wash hands thoroughly with soap and water after handling the meter, lancing device, or test strips."}
+{"id": "82", "answer": "Perform a Control Solution test to ensure meter is working properly; fast for at least eight hours if possible; take your Wireless Smart Glucose Meter with you to the lab."}
+{"id": "83", "answer": "+1-855-816-7705"}
+{"id": "84", "answer": "Severe dehydration and excessive water loss may cause results that are lower than actual values; if blood glucose results are lower or higher than usual and you do not have symptoms, repeat the test; if you have symptoms or continue to get unusual results, follow your healthcare professional's advice; if symptoms are inconsistent with test results and instructions were followed, contact your healthcare professional."}
+{"id": "85", "answer": "The lancing device can be used several times; the lancet should be changed after each use."}
+{"id": "86", "answer": "During online testing, the meter display shows your measurement status and your test results on the screen."}
+{"id": "87", "answer": "Insert test strip to turn on meter; wait for Blood Sample Symbol; obtain blood sample; apply blood sample to test strip; read test results."}
+{"id": "88", "answer": "on the Control Solution bottles"}
+{"id": "89", "answer": "Discontinue use and call iHealth Labs Customer Service at +1-855-816-7705 for assistance."}
+{"id": "90", "answer": "Make sure it is not used by children or people who cannot express their own volition; do not put the glucose meter in a place where it can easily be reached by children."}
+{"id": "91", "answer": "This device may not cause harmful interference; this device must accept any interference received, including interference that may cause undesired operation."}
+{"id": "92", "answer": "Reorient or relocate the receiving antenna; increase the separation between the equipment and receiver; connect the equipment into an outlet on a different circuit; consult the dealer or an experienced radio/TV technician for help."}
+{"id": "93", "answer": "Periodic comparison of the iHealth Wireless Smart Gluco-Monitoring System to another monitoring system known to be well maintained and monitored by a healthcare provider is recommended."}
+{"id": "94", "answer": "iHealthLabs Europe SARL; 3 Rue Tronchet, 75008, Paris, France"}
+{"id": "95", "answer": "iHealth Lab Inc., Mountain View, CA 94043, USA; +1-855-816-7705; 8:30 AM-5:00 PM PST, Monday to Friday"}
+{"id": "96", "answer": "Tianjin, China"}
+{"id": "97", "answer": "Made for iPod; Made for iPad; Made for iPhone; Disclaimer: An electronic accessory has been designed to connect specifically to iPod, iPad, iPhone, respectively, and has been certified by the developer to meet Apple performance standards. Apple is not responsible for the operation of this device or its compliance with safety and regulatory standards. Use of this accessory with iPod, iPad, iPhone may affect wireless performance."}
+{"id": "98", "answer": "Use only fresh whole blood samples; do not use haemolysis, icterus, or high lipemia samples; ensure hands are washed, rinsed, and dried completely before handling the meter and test strips; make sure enough sample is applied to the test strip; do not use expired or damaged test strips."}
+{"id": "99", "answer": "The Blood Sample Symbol flashes when the meter is ready to apply the sample."}
+{"id": "100", "answer": "Install the free iHealth App from the App Store; search using 'iHealth,' 'BG5,' or 'iHealth Gluco-Smart'."}

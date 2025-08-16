@@ -1,0 +1,100 @@
+{"id": "1", "answer": "Access Camera’s Web UI; Initialize Camera; Verify/Modify Camera Encoding Settings; Enable Motion Detection; Connect & Add Camera(s) to Turing NVR"}
+{"id": "2", "answer": "Locate your camera’s IP address; enter your camera’s IP address into a browser search bar"}
+{"id": "3", "answer": "NOT_FOUND"}
+{"id": "4", "answer": "The web UI will prompt you to create a new password for your camera; click Apply to initialize camera(s)"}
+{"id": "5", "answer": "Wisenet’s Device Manager"}
+{"id": "6", "answer": "Go to Basic > Video Profile on the camera’s web UI"}
+{"id": "7", "answer": "NOT_FOUND"}
+{"id": "8", "answer": "NOT_FOUND"}
+{"id": "9", "answer": "NOT_FOUND"}
+{"id": "10", "answer": "NOT_FOUND"}
+{"id": "11", "answer": "NOT_FOUND"}
+{"id": "12", "answer": "NOT_FOUND"}
+{"id": "13", "answer": "NOT_FOUND"}
+{"id": "14", "answer": "NOT_FOUND"}
+{"id": "15", "answer": "Turing recommends using CBR (Constant Bitrate) for both streams."}
+{"id": "16", "answer": "NOT_FOUND"}
+{"id": "17", "answer": "NOT_FOUND"}
+{"id": "18", "answer": "Go to Analytics > Motion Detection; click Enable motion detection checkbox; edit detection area, level of detection, sensitivity, and minimum duration as desired; click Apply to save settings"}
+{"id": "19", "answer": "detection area; level of detection; sensitivity; minimum duration"}
+{"id": "20", "answer": "Click Apply to save all settings after enabling and configuring motion detection."}
+{"id": "21", "answer": "Access Turing NVR web UI by entering its IP address in a browser; login and go to Setup > Camera > Camera; select the channel and click Modify; edit the username and password fields; click Save"}
+{"id": "22", "answer": "username; password"}
+{"id": "23", "answer": "NOT_FOUND"}
+{"id": "24", "answer": "Enter the Turing NVR's IP address into a web browser"}
+{"id": "25", "answer": "Click the Installation Video link in the guide"}
+{"id": "26", "answer": "Turing Smart NVR and Turing Vision only support Motion events from Hanwha cameras; Smart VCA events are not supported"}
+{"id": "27", "answer": "Motion events"}
+{"id": "28", "answer": "Use Wisenet’s Device Manager to locate your camera’s IP address"}
+{"id": "29", "answer": "NOT_FOUND"}
+{"id": "30", "answer": "Basic > Video Profile"}
+{"id": "31", "answer": "Create a new password for your camera; click Apply to initialize camera(s)"}
+{"id": "32", "answer": "NOT_FOUND"}
+{"id": "33", "answer": "NOT_FOUND"}
+{"id": "34", "answer": "NOT_FOUND"}
+{"id": "35", "answer": "NOT_FOUND"}
+{"id": "36", "answer": "NOT_FOUND"}
+{"id": "37", "answer": "NOT_FOUND"}
+{"id": "38", "answer": "CBR is recommended for stable recording"}
+{"id": "39", "answer": "NOT_FOUND"}
+{"id": "40", "answer": "NOT_FOUND"}
+{"id": "41", "answer": "Go to Analytics > Motion Detection; click Enable motion detection checkbox; edit detection area, level of detection, sensitivity, and minimum duration as desired; click Apply to save settings"}
+{"id": "42", "answer": "Enable motion detection"}
+{"id": "43", "answer": "detection area; level of detection; sensitivity; minimum duration"}
+{"id": "44", "answer": "Click Apply to save all settings"}
+{"id": "45", "answer": "Setup > Camera > Camera"}
+{"id": "46", "answer": "click Modify"}
+{"id": "47", "answer": "Click Save"}
+{"id": "48", "answer": "Use Wisenet’s Device Manager to initialize and modify network settings for multiple cameras"}
+{"id": "49", "answer": "Yes, plugging into the NVR is acceptable if you want to connect directly without a separate switch."}
+{"id": "50", "answer": "NOT_FOUND"}
+{"id": "51", "answer": "If only MJPEG is available, the NVR will use MJPEG."}
+{"id": "52", "answer": "Go to Basic > Video Profile; modify the encoding settings to the Turing recommended settings"}
+{"id": "53", "answer": "NOT_FOUND"}
+{"id": "54", "answer": "Access Camera’s Web UI; Initialize Camera; Verify/Modify Camera Encoding Settings; Enable Motion Detection"}
+{"id": "55", "answer": "Locate your camera’s IP Address; enter your camera’s IP address into browser search bar"}
+{"id": "56", "answer": "motion detection must be enabled on the camera"}
+{"id": "57", "answer": "Go to Analytics > Motion Detection; adjust sensitivity there"}
+{"id": "58", "answer": "Go to Analytics > Motion Detection; edit the detection area to define motion zones."}
+{"id": "59", "answer": "Go to Analytics > Motion Detection; edit the level of detection and sensitivity fields"}
+{"id": "60", "answer": "Go to Analytics > Motion Detection in the camera’s web UI; edit the minimum duration setting"}
+{"id": "61", "answer": "Click Modify; edit the username and password fields; click Save"}
+{"id": "62", "answer": "Yes; you need to enter the NVR’s IP address into a web browser to access the web UI and log in."}
+{"id": "63", "answer": "Yes; there is an installation video linked from the guide."}
+{"id": "64", "answer": "Motion events only"}
+{"id": "65", "answer": "NOT_FOUND"}
+{"id": "66", "answer": "877-730-8222"}
+{"id": "67", "answer": "NOT_FOUND"}
+{"id": "68", "answer": "NOT_FOUND"}
+{"id": "69", "answer": "NOT_FOUND"}
+{"id": "70", "answer": "NOT_FOUND"}
+{"id": "71", "answer": "NOT_FOUND"}
+{"id": "72", "answer": "NOT_FOUND"}
+{"id": "73", "answer": "Edit the level of detection and sensitivity in Analytics > Motion Detection"}
+{"id": "74", "answer": "Edit the detection area in Analytics > Motion Detection to ignore motion in specific parts of the scene"}
+{"id": "75", "answer": "Go to Basic > Video Profile"}
+{"id": "76", "answer": "Main profile = Profile 1; Sub profile = Profile 2"}
+{"id": "77", "answer": "NOT_FOUND"}
+{"id": "78", "answer": "NOT_FOUND"}
+{"id": "79", "answer": "NOT_FOUND"}
+{"id": "80", "answer": "Verify or modify the camera encoding settings"}
+{"id": "81", "answer": "Go to Analytics > Motion Detection; enable motion detection; configure detection area, level, sensitivity, and minimum duration; click Apply to save settings"}
+{"id": "82", "answer": "Click Apply to save all settings"}
+{"id": "83", "answer": "Setup > Camera > Camera"}
+{"id": "84", "answer": "username; password"}
+{"id": "85", "answer": "Go to Basic > Video Profile; modify encoding settings to Turing recommended settings"}
+{"id": "86", "answer": "NOT_FOUND"}
+{"id": "87", "answer": "NOT_FOUND"}
+{"id": "88", "answer": "detection area; sensitivity"}
+{"id": "89", "answer": "Smart VCA Events; only Motion events are supported"}
+{"id": "90", "answer": "Access camera’s web UI; initialize camera by creating password; verify/modify encoding settings; enable motion detection; connect and add camera(s) to Turing NVR via NVR web UI"}
+{"id": "91", "answer": "NOT_FOUND"}
+{"id": "92", "answer": "Click Apply to save all settings"}
+{"id": "93", "answer": "NOT_FOUND"}
+{"id": "94", "answer": "NOT_FOUND"}
+{"id": "95", "answer": "username; password"}
+{"id": "96", "answer": "Enter the camera’s IP address into a browser search bar"}
+{"id": "97", "answer": "Basic > Video Profile"}
+{"id": "98", "answer": "Enable motion detection on the camera"}
+{"id": "99", "answer": "https://turing.ai/"}
+{"id": "100", "answer": "877-730-8222"}
