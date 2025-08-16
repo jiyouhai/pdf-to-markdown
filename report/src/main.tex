@@ -5,6 +5,9 @@
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{microtype}
+% ---- Pipeline diagram ----
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,shapes.geometric,shapes.misc}
 
 % ------- Layout & color & links -------
 \usepackage[a4paper,margin=1in]{geometry}
@@ -28,8 +31,6 @@
 \newcolumntype{P}[1]{>{\RaggedRight\arraybackslash}p{#1}}
 \newcolumntype{Y}{>{\RaggedRight\arraybackslash}X}
 
-\input{style}
-
 \title{Comparison of PDF\texorpdfstring{$\to$}{->}Markdown Tools:\\
 TextIn vs.\ Reducto vs.\ Mathpix vs.\ Marker vs.\ Livex Internal Tool}
 \author{Prepared for livex.ai}
@@ -37,6 +38,181 @@ TextIn vs.\ Reducto vs.\ Mathpix vs.\ Marker vs.\ Livex Internal Tool}
 
 \begin{document}
 \maketitle
+\section*{Update (Aug 16, 2025): Summary, Pipeline, Metrics, Threshold Rationale}
+
+\paragraph{Headline ranking (9 documents, mean accuracy).}
+\textbf{1) textin} (0.578) \;>\; \textbf{2) md\_mathpix} (0.568) \;>\; \textbf{3) md\_marker} (0.564) \;>\; \textbf{4) Reducto} (0.543) \;>\; \textbf{5) own tool} (0.454).
+With a penalty for ``confident but wrong'' answers (Sec.~\ref{subsec:penalty}), the order is unchanged.
+
+\paragraph{What I did in this run (reproducible steps).}
+\begin{itemize}
+  \item Prepared 9 PDFs and a per-document question bank (\texttt{.jsonl}, $n=100$ per doc).
+  \item For each parser (\texttt{textin}, \texttt{Reducto}, \texttt{md\_mathpix}, \texttt{md\_marker}, \texttt{own tool}), loaded Markdown from \texttt{docs/md/\{parser\}/\{doc\_id\}} (folder or single-file layout).
+  \item Concatenated \& normalized text, split into chunks (1000 tokens with 200-token overlap), and built a BM25 index per document.
+  \item For each question, retrieved top-$k=5$ chunks and asked \texttt{gpt-4.1} to answer \emph{only} from retrieved context; the model may return \texttt{NOT\_FOUND}.
+  \item Applied fast rules (exact, numeric-approx within 2\% or $10^{-6}$ abs, fuzzy $\ge 90$ via RapidFuzz) to auto-accept obvious hits; otherwise, sent to \texttt{o3-mini} for evidence-bound rubric grading.
+  \item Aggregated per-(parser, doc) metrics: \texttt{acc}, \texttt{score\_mean}, \texttt{overconf\_rate}; produced the tables below.
+\end{itemize}
+
+\paragraph{Code \& paths.}
+Repo: \url{https://github.com/jiyouhai/pdf-to-markdown/tree/main} \; 
+Script: \texttt{eval\_pdfmd\_rubric.py} \; 
+Questions: \texttt{docs/questions/*.jsonl} \; 
+Outputs: \texttt{runs\_rubric/per\_question.csv}, \texttt{runs\_rubric/summary.csv}.
+
+% ------------------ narrow, width-safe flowchart ------------------
+\begin{figure}[h]
+\centering
+\resizebox{0.55\linewidth}{!}{%
+\begin{tikzpicture}[font=\small, node distance=6mm, >=Latex]
+\tikzset{
+  box/.style={rectangle, rounded corners, draw, align=left, inner sep=3pt, minimum width=36mm},
+  io/.style ={trapezium, trapezium left angle=75, trapezium right angle=105, draw, align=left, inner sep=3pt, minimum width=36mm}
+}
+\node[io]   (in)  {Inputs\\ \footnotesize 9 PDFs; Q-bank (.jsonl); Markdown per parser};
+\node[box,  below=of in]  (read)  {Read Markdown (dir/single-file)\\ \footnotesize concatenate \& normalize};
+\node[box,  below=of read](chunk){Chunk text\\ \footnotesize 1000 tokens + 200 overlap};
+\node[box,  below=of chunk](index){BM25 index per document};
+\node[box,  below=of index](ret)  {Per-Q retrieve top-$k=5$};
+\node[box,  below=of ret]  (ans)  {Answer via \texttt{gpt-4.1}\\ \footnotesize use only retrieved context; may return \texttt{NOT\_FOUND}};
+\node[box,  below=of ans]  (rule) {Fast rules\\ \footnotesize exact / numeric$\approx$ / fuzzy$\ge 90$};
+\node[box,  below=of rule](judge){Else: rubric judge (\texttt{o3-mini})\\ \footnotesize score $\in[0,1]$, verdict, rationale};
+\node[box,  below=of judge](flags){Per-Q flags\\ \footnotesize $ok=[\text{score}\ge 0.75]$; $overconf=[ok=0 \land pred\neq\texttt{NOT\_FOUND}]$};
+\node[box,  below=of flags](agg)  {Aggregate per (parser,doc)\\ \footnotesize $n$, acc, score\_mean, overconf\_rate};
+\node[box,  below=of agg]  (tab)  {Tables 1--4};
+\draw[->](in)--(read); \draw[->](read)--(chunk); \draw[->](chunk)--(index);
+\draw[->](index)--(ret); \draw[->](ret)--(ans); \draw[->](ans)--(rule);
+\draw[->](rule)--(judge); \draw[->](judge)--(flags); \draw[->](flags)--(agg); \draw[->](agg)--(tab);
+\end{tikzpicture}}
+\caption{End-to-end evaluation pipeline (narrow rendering; \emph{width-limited} to about half a page).}
+\label{fig:pipeline-skinny}
+\end{figure}
+
+\subsection*{Why these settings (plain-language rationale)}
+\paragraph{Chunking: 1000 tokens + 200 overlap.}
+Big enough to keep a section in one chunk (fewer split answers); small enough that $k=5$ chunks fit comfortably in model context. Overlap protects facts on boundaries.
+\paragraph{Retrieval: BM25 with $k=5$.}
+Manual-like questions are lexical; BM25 is fast, stable, and debuggable. $k=5$ balances recall vs.\ noise/cost.
+\paragraph{Answering: context-only \texttt{gpt-4.1}.}
+The model must ground in retrieved text; if missing, it should abstain (\texttt{NOT\_FOUND}). This makes overconfidence measurable with a clean counterfactual.
+\paragraph{Fast rules before judging.}
+Accept \emph{obvious} matches without a judge: normalized exact; numeric within 2\% (or $10^{-6}$ abs); fuzzy similarity $\ge 90$. Otherwise we call the rubric judge.
+
+\subsection*{Rubric \& the 0.75 pass threshold (where it comes from)}
+The judge decomposes each gold answer into atomic facts and assigns a score in $[0,1]$ by evidence support only. In our questions, gold typically has 4--6 facts.
+We swept thresholds from 0.60 to 0.90 on pilot docs and chose \textbf{0.75} because it:
+(i) corresponds to ``clear majority supported'' (e.g., $\ge 3/4$ or $\ge 4/5$ facts),
+(ii) keeps false accepts low for safety-oriented manuals, and
+(iii) leaves tool ranking stable across 0.70--0.80 while not penalizing terse but correct answers.
+Formally, $ok=\mathbf{1}[\text{score}\ge 0.75]$.
+
+\subsection*{Metric definitions (what \& why)}
+Let $\text{score}_{p,d,i}\in[0,1]$ be the rubric score for parser $p$, document $d$, question $i$, with $n_d=100$:
+\[
+\text{acc}_{p,d}=\tfrac{1}{n_d}\sum_i \mathbf{1}[\text{score}_{p,d,i}\ge 0.75]
+\quad\text{(binary pass rate for production gating),}
+\]
+\[
+\text{score\_mean}_{p,d}=\tfrac{1}{n_d}\sum_i \text{score}_{p,d,i}
+\quad\text{(continuous quality; shows near-misses),}
+\]
+\[
+\text{overconf\_rate}_{p,d}=\tfrac{1}{n_d}\sum_i \mathbf{1}[\,ok=0 \ \land\ \text{pred}\neq\texttt{NOT\_FOUND}\,]
+\quad\text{(penalizes confident errors vs.\ abstention).}
+\]
+
+\subsection*{Findings (tables are width-safe)}
+\begin{table}[h]
+\centering
+\caption{Overall by parser (macro$\approx$micro; $n$ constant per doc).}
+\label{tab:overall}
+\small
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{@{}lrrrrrrrrr@{}}
+\toprule
+\textbf{Parser} & \textbf{Docs} & \textbf{Total $n$} & \textbf{acc\_mean} & \textbf{acc\_median} & \textbf{acc\_min} & \textbf{acc\_max} & \textbf{overconf\_mean} & \textbf{overconf\_median} & \textbf{Docs won}\\
+\midrule
+textin      & 9 & 900 & 0.578 & 0.600 & 0.100 & 0.930 & 0.379 & 0.340 & 2 \\
+md\_mathpix & 9 & 900 & 0.568 & 0.680 & 0.120 & 0.940 & 0.373 & 0.300 & 2 \\
+md\_marker  & 9 & 900 & 0.564 & 0.610 & 0.120 & 0.940 & 0.372 & 0.350 & 2 \\
+Reducto     & 9 & 900 & 0.543 & 0.570 & 0.110 & 0.940 & 0.389 & 0.330 & 1 \\
+own tool    & 9 & 900 & 0.454 & 0.400 & 0.090 & 0.950 & 0.392 & 0.350 & 2 \\
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{Per-document winners (highest acc; tie $\to$ lower overconf; final tie $\to$ name order).}
+\label{tab:winners}
+\small
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{@{}l l r r@{}}
+\toprule
+\textbf{doc\_id} & \textbf{best\_parser} & \textbf{best\_acc} & \textbf{best\_overconf} \\
+\midrule
+23-0323\_ego\_stx4500\_stx4500-fc\_stringtrimmer\_manual\_en & md\_marker & 0.63 & 0.35 \\
+FEIER & Reducto & 0.50 & 0.50 \\
+Hanwha\_Integration\_Guide & md\_mathpix & 0.69 & 0.30 \\
+SSA1200\_EGO\_SNOW-SHOVEL-ATTACHMENT\_22-0519\_EXPLOSION-DIAGRAM\_VERSION-A & own tool & 0.95 & 0.05 \\
+TP-MVD8MV2-rotated & own tool & 0.81 & 0.19 \\
+ego\_accessory\_compatibility\_matrix & md\_mathpix & 0.68 & 0.23 \\
+feier\_start\_100\_manual & md\_marker & 0.12 & 0.79 \\
+ihealth\_bg5 & textin & 0.29 & 0.62 \\
+zt4200s\_ego\_zero-turn-riding-mower\_version-a & textin & 0.79 & 0.21 \\
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{Document $\times$ parser accuracy pivot (acc).}
+\label{tab:pivot}
+\small
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{@{}l r r r r r@{}}
+\toprule
+\textbf{doc\_id} & \textbf{textin} & \textbf{Reducto} & \textbf{md\_mathpix} & \textbf{md\_marker} & \textbf{own tool} \\
+\midrule
+23-0323\_ego\_stx4500\_stx4500-fc\_stringtrimmer\_manual\_en & 0.60 & 0.57 & 0.61 & 0.63 & 0.59 \\
+FEIER & 0.49 & 0.50 & 0.30 & 0.49 & 0.40 \\
+Hanwha\_Integration\_Guide & 0.61 & 0.65 & 0.69 & 0.48 & 0.29 \\
+SSA1200\_EGO\_SNOW-SHOVEL-ATTACHMENT\_22-0519\_EXPLOSION-DIAGRAM\_VERSION-A & 0.93 & 0.94 & 0.94 & 0.94 & 0.95 \\
+TP-MVD8MV2-rotated & 0.80 & 0.80 & 0.75 & 0.79 & 0.81 \\
+ego\_accessory\_compatibility\_matrix & 0.59 & 0.39 & 0.68 & 0.61 & 0.55 \\
+feier\_start\_100\_manual & 0.10 & 0.11 & 0.12 & 0.12 & 0.09 \\
+ihealth\_bg5 & 0.29 & 0.24 & 0.25 & 0.24 & 0.25 \\
+zt4200s\_ego\_zero-turn-riding-mower\_version-a & 0.79 & 0.69 & 0.77 & 0.78 & 0.16 \\
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\subsection*{Penalty for confident errors (calibration-aware ranking)}
+\label{subsec:penalty}
+Define the penalized score
+\[
+\text{penalized}_{\lambda} = \text{acc\_mean} - \lambda\cdot \text{overconf\_mean}.
+\]
+We use $\lambda=0.5$ by default: on average, one confident error costs half a point of accuracy. On this dataset the ordering is unchanged for $\lambda\in\{0.25,0.5,1.0\}$.
+
+\begin{table}[h]
+\centering
+\caption{Penalized scores ($\lambda=0.5$).}
+\label{tab:penalized}
+\small
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{@{}lrrrrr@{}}
+\toprule
+\textbf{Parser} & \textbf{Docs} & \textbf{Total $n$} & \textbf{acc\_mean} & \textbf{overconf\_mean} & \textbf{penalized ($\lambda=0.5$)}\\
+\midrule
+textin      & 9 & 900 & 0.578 & 0.379 & 0.388 \\
+md\_mathpix & 9 & 900 & 0.568 & 0.373 & 0.381 \\
+md\_marker  & 9 & 900 & 0.564 & 0.372 & 0.378 \\
+Reducto     & 9 & 900 & 0.543 & 0.389 & 0.349 \\
+own tool    & 9 & 900 & 0.454 & 0.392 & 0.258 \\
+\bottomrule
+\end{tabular}}
+\end{table}
 
 \section*{Executive Summary}
 
@@ -315,9 +491,3 @@ Automation & Stable conventions & Very predictable & Standard Markdown & Consist
 \end{itemize}
 
 \end{document}
-
-% === Auto Visual Summary ===
-\section*{Visual Summary}
-\begin{figure}[h]\centering\includegraphics[width=\textwidth]{img/scoreboard.png}\\\caption{Equal-weight total scores across tools.}\end{figure}
-\begin{figure}[h]\centering\includegraphics[width=0.9\textwidth]{img/radar.png}\\\caption{Six-dimension breakdown per tool.}\end{figure}
-
