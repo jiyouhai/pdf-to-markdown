@@ -1,0 +1,6 @@
+parser,docs,total_n,acc_mean,acc_median,acc_min,acc_max,overconf_mean,overconf_median,docs_won
+textin,9,900,0.578,0.6,0.1,0.93,0.379,0.34,2
+md_mathpix,9,900,0.568,0.68,0.12,0.94,0.373,0.3,2
+md_marker,9,900,0.564,0.61,0.12,0.94,0.372,0.35,2
+Reducto,9,900,0.543,0.57,0.11,0.94,0.389,0.33,1
+own tool,9,900,0.454,0.4,0.09,0.95,0.392,0.35,2

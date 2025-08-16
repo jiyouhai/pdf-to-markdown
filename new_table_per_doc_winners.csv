@@ -1,0 +1,10 @@
+doc_id,best_parser,best_acc,best_overconf
+23-0323_ego_stx4500_stx4500-fc_stringtrimmer_manual_en,md_marker,0.63,0.35
+FEIER,Reducto,0.5,0.5
+Hanwha_Integration_Guide,md_mathpix,0.69,0.3
+SSA1200_EGO_SNOW-SHOVEL-ATTACHMENT_22-0519_EXPLOSION-DIAGRAM_VERSION-A,own tool,0.95,0.05
+TP-MVD8MV2-rotated,own tool,0.81,0.19
+ego_accessory_compatibility_matrix,md_mathpix,0.68,0.23
+feier_start_100_manual,md_marker,0.12,0.79
+ihealth_bg5,textin,0.29,0.62
+zt4200s_ego_zero-turn-riding-mower_version-a,textin,0.79,0.21
